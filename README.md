@@ -22,7 +22,7 @@ See [examples](#examples) for what each font looks like, and [usage and installa
 
 ## Purpose
 
-This repo is a collection of figlet fonts forked from [xero's repo](https://github.com/xero/figlet-fonts).  As of creating this fork, that repo hasn't been updated in a while.  This repo was made with the following goals:
+This repo is a collection of figlet fonts forked from [xero's repo](https://github.com/xero/figlet-fonts).  This repo was made with the following goals:
 
 - Expand on the `README.md` to include:
   - Examples of each font for reference
