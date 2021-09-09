@@ -1,11 +1,11 @@
-### fonts/1Row.flf:
+### 1Row.flf:
 
 ```text
 |-| [- |_ |_ ()   \/\/ () /? |_ |) 
                                    
 ```
 
-### fonts/3-D.flf:
+### 3-D.flf:
 
 ```text
  **               **  **            
@@ -26,7 +26,7 @@
 ///    ///  //////  ///    ///  ////// // 
 ```
 
-### fonts/3D Diagonal.flf:
+### 3D Diagonal.flf:
 
 ```text
                                                     
@@ -63,7 +63,7 @@
                                                                
 ```
 
-### fonts/3D-ASCII.flf:
+### 3D-ASCII.flf:
 
 ```text
  ___  ___  _______   ___       ___       ________           
@@ -88,7 +88,7 @@
                                                                   
 ```
 
-### fonts/3d.flf:
+### 3d.flf:
 
 ```text
  ██               ██  ██            
@@ -109,7 +109,7 @@
 ░░░    ░░░  ░░░░░░  ░░░    ░░░  ░░░░░░ ░░ 
 ```
 
-### fonts/3d_diagonal.flf:
+### 3d_diagonal.flf:
 
 ```text
                                                     
@@ -146,7 +146,7 @@
                                                                
 ```
 
-### fonts/3x5.flf:
+### 3x5.flf:
 
 ```text
                                                     
@@ -157,7 +157,7 @@
                     #                            #  
 ```
 
-### fonts/4Max.flf:
+### 4Max.flf:
 
 ```text
 88  88 888888 88     88      dP"Yb       
@@ -170,7 +170,7 @@ Yb        dP  dP"Yb  88""Yb 88     8888b.  d8b
    YP  YP     YbodP  88  Yb 88ood8 8888Y"  (8) 
 ```
 
-### fonts/5 Line Oblique.flf:
+### 5 Line Oblique.flf:
 
 ```text
                                      
@@ -187,7 +187,7 @@ Yb        dP  dP"Yb  88""Yb 88     8888b.  d8b
 ((__( (__/ / ((___/ / //      // ((___/ /  //     
 ```
 
-### fonts/5lineoblique.flf:
+### 5lineoblique.flf:
 
 ```text
                                      
@@ -206,281 +206,7 @@ Yb        dP  dP"Yb  88""Yb 88     8888b.  d8b
 ((__( (__/ / ((___/ / //      // ((___/ /  //     
 ```
 
-### fonts/AMC 3 Line.flf:
-
-```text
-. . .-. .   .   .-.     . . . .-. .-. .   .-. . 
-|-| |-  |   |   | |     | | | | | |(  |   |  )| 
-' ` `-' `-' `-' `-' ,   `.'.' `-' ' ' `-' `-' . 
-                                                
-```
-
-### fonts/AMC 3 Liv1.flf:
-
-```text
-.:;S;:.              :.      :. .:;S;:. 
-   S    S  S  S       S       S S     S 
-`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:' 
-                                        
-.:;S;:. .:;S;:. .:;.;:.      :.  .:;:.          
-     (  S     S S  S          S S     S .:;s ;: 
-`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:'         
-                                                
-```
-
-### fonts/AMC AAA01.flf:
-
-```text
- .S    S.     sSSs  S.      S.        sSSs_sSSs    
-.SS    SS.   d%%SP  SS.     SS.      d%%SP~YS%%b   
-S%S    S%S  d%S'    S%S     S%S     d%S'     `S%b  
-S%S    S%S  S%S     S%S     S%S     S%S       S%S  
-S%S SSSS%S  S&S     S&S     S&S     S&S       S&S  
-S&S  SSS&S  S&S_Ss  S&S     S&S     S&S       S&S  
-S&S    S&S  S&S~SP  S&S     S&S     S&S       S&S  
-S&S    S&S  S&S     S&S     S&S     S&S       S&S  
-S*S    S*S  S*b     S*b     S*b     S*b       d*S  
-S*S    S*S  S*S.    S*S.    S*S.    S*S.     .S*S  
-S*S    S*S   SSSbs   SSSbs   SSSbs   SSSbs_sdSSS   
-SSS    S*S    YSSP    YSSP    YSSP    YSSP~YSSY    
-       SP                                          
-       Y                                           
-                                                   
- .S     S.     sSSs_sSSs     .S_sSSs    S.       .S_sSSs    
-.SS     SS.   d%%SP~YS%%b   .SS~YS%%b   SS.     .SS~YS%%b   
-S%S     S%S  d%S'     `S%b  S%S   `S%b  S%S     S%S   `S%b  
-S%S     S%S  S%S       S%S  S%S    S%S  S%S     S%S    S%S  
-S%S     S%S  S&S       S&S  S%S    d*S  S&S     S%S    S&S  
-S&S     S&S  S&S       S&S  S&S   .S*S  S&S     S&S    S&S  
-S&S     S&S  S&S       S&S  S&S_sdSSS   S&S     S&S    S&S  
-S&S     S&S  S&S       S&S  S&S~YSY%b   S&S     S&S    S&S  
-S*S     S*S  S*b       d*S  S*S   `S%b  S*b     S*S    d*S  
-S*S  .  S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S   .S*S  
-S*S_sSs_S*S   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S_sdSSS   
-SSS~SSS~S*S    YSSP~YSSY    S*S    SSS    YSSP  SSS~YSSY    
-                            SP                              
-                            Y                               
-                                                            
-```
-
-### fonts/AMC Neko.flf:
-
-```text
-                                                                  
-.sSSS SSSSS .sSSSSs.    SSSSS       SSSSS       .sSSSSs.          
-S SSS SSSSS S SSSSSSSs. S SSS       S SSS       S SSSSSSSs.       
-S  SS SSSSS S  SS SSSS' S  SS       S  SS       S  SS SSSSS       
-S..SSsSSSSS S..SS       S..SS       S..SS       S..SS SSSSS       
-S:::S SSSSS S:::SSSS    S:::S       S:::S       S:::S SSSSS       
-S;;;S SSSSS S;;;S       S;;;S       S;;;S       S;;;S SSSSS .sSs. 
-S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S 
-SSSSS SSSSS SSSSSsSS;:' SSSSSsSS;:' SSSSSsSS;:' SSSSSsSSSSS `"":5 
-                                                              ;:' 
-                                                                  SSSSS 
-.sSSS       s.    .sSSSSs.    .sSSSSSSSs. SSSSS       .sSSSSs.    S SSS 
-S SSS       SSSs. S SSSSSSSs. S SSS SSSSS S SSS       S SSSSSSSs. S  SS 
-S  SS       SSSSS S  SS SSSSS S  SS SSSS' S  SS       S  SS SSSSS S;;;S 
-S..SS       SSSSS S..SS SSSSS S..SSsSSSa. S..SS       S..SS SSSSS S%%%S 
-S:::S       SSSSS S:::S SSSSS S:::S SSSSS S:::S       S:::S SSSSS SSSSS 
-S;;;S   S   SSSSS S;;;S SSSSS S;;;S SSSSS S;;;S       S;;;S SSSSS .sSs. 
-S%%%S  SSS  SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSS' S%%%S 
-SSSSSsSS SSsSSSSS SSSSSsSSSSS SSSSS SSSSS SSSSSsSS;:' SSSSSsS;:'  `:;:' 
-                                                                        
-```
-
-### fonts/AMC Razor.flf:
-
-```text
-                   ___                                       
-  .'| |`.     .'|=|_.'   .'|        .'|        .'|=|`.       
-.'  | |  `. .'  |  ___ .'  |      .'  |      .'  | |  `.     
-|   |=|   | |   |=|_.' |   |      |   |      |   | |   |     
-|   | |   | |   |  ___ |   |  ___ |   |  ___ `.  | |  .' .-. 
-|___| |___| |___|=|_.' |___|=|_.' |___|=|_.'   `.|=|.'   `/' 
-                                                             
- ___    ___                     __                         
-|   |  |   |   .'|=|`.     .'|=|  |   .'|        .'|=|`.   
-|   |  |   | .'  | |  `. .'  | |  | .'  |      .'  | |  `. 
-|   |  |   | |   | |   | |   |=|.'  |   |      |   | |   | 
-`.  |  |  .' `.  | |  .' |   |  |`. |   |  ___ |   | |  .' 
-  `.|/\|.'     `.|=|.'   |___|  |_| |___|=|_.' |___|=|.'   
-                                                           
-```
-
-### fonts/AMC Razor2.flf:
-
-```text
-   . .       . .       .         .         . .    
-.+'| |`+. .+'|=|`+. .+'|      .+'|      .+'|=|`+. 
-|  | |  | |  | `+.| |  |      |  |      |  | |  | 
-|  |=|  | |  |=|`.  |  |      |  |      |  | |  | 
-|  | |  | |  | `.|  |  |      |  |      |  | |  | 
-|  | |  | |  |    . |  |    . |  |    . |  | |  | 
-|  | |  | |  | .+'| |  | .+'| |  | .+'| |  | |  | 
-`+.| |..| `+.|=|.+' `+.|=|.+' `+.|=|.+' `+.|=|.+' 
-                                                  
-   .    .    .    . .       . .       .         . .    .    
-.+'|  .'|  .'| .+'|=|`+. .+'|=|`+. .+'|      .+'|=|`+. |`+. 
-|  |  | |  | | |  | |  | |  | |  | |  |      |  | `+ | |  | 
-|  |  | |  | | |  | |  | |  |'. '. |  |      |  |  | | |  | 
-|  |  | |  | | |  | |  | |  | |  | |  |      |  |  | | `+.| 
-|  |  | |  | | |  | |  | |  | |  | |  |    . |  |  | | .    
-|  | .+ | .+ | |  | |  | |  | |  | |  | .+'| |  | .+ | |`+. 
-`+.|=|.+'=|.+' `+.|=|.+' `+.| |.+' `+.|=|.+' `+.|=|.+' `+.| 
-                                                            
-```
-
-### fonts/AMC Slash.flf:
-
-```text
-                                                  
-.s    s.  .s5SSSs.  .s        .s        .s5SSSs.  
-      SS.       SS.                           SS. 
-sS    S%S sS    `:; sS        sS        sS    S%S 
-SSSs. S%S SSSs.     SS        SS        SS    S%S 
-SS    S%S SS        SS        SS        SS    S%S 
-SS    `:; SS        SS        SS        SS    `:; 
-SS    ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
-:;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' 
-                                                  
-                                                   
-.s s.  s.  .s5SSSs.  .s5SSSs.  .s        .s5SSSs.  
-   SS. SS.       SS.       SS.                 SS. 
-sS S%S S%S sS    S%S sS    S%S sS        sS    S%S 
-SS S%S S%S SS    S%S SS .sS;:' SS        SS    S%S 
-SS S%S S%S SS    S%S SS    ;,  SS        SS    S%S 
-SS `:; `:; SS    `:; SS    `:; SS        SS    `:; 
-SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
-`:;;:'`::' `:;;;;;:' `:    ;:' `:;;;;;:' ;;;;;;;:' 
-                                                   
-```
-
-### fonts/AMC Slider.flf:
-
-```text
-             ____                             ______    
-|         | |            |        |         .~      ~.  
-|_________| |______      |        |        |          | 
-|         | |            |        |        |          | 
-|         | |___________ |_______ |_______  `.______.'  
-                                                        
-                       ______                                   
-`.               .'  .~      ~.  |`````````, |        |``````.  
-  `.           .'   |          | |'''|'''''  |        |       | 
-    `.   .   .'     |          | |    `.     |        |       | 
-      `.' `.'        `.______.'  |      `.   |_______ |......'  
-                                                                
-```
-
-### fonts/AMC Thin.flf:
-
-```text
-.-.   .-. .-..--. .-.     .-.     .-..-..-.     
-| | _ | | | | ~~  | |     | |     | | ~ | |     
-| |`-'| | | | _   | |     | |     | |   | |     
-| |   | | | |`-'  | |     | |     | |   | |     
-| |   | | | | __  | | __  | | __  | | _ | |  _  
-`-'   `-' `-'`--' `-'`--' `-'`--' `-'`-'`-' `/' 
-                                                
-.-. .-. .-. .-..-..-. .-..-.   .-.     .-..-.   .-. 
-| | | | | | | | ~ | | | | ~.-. | |     | | ~.-. | | 
-| | | | | | | |   | | | |.-.~  | |     | |  | | | | 
-| | | | | | | |   | | | | ~.-. | |     | |  | | `-' 
-`-'_`-'_`-' | | _ | | | |  | | | | __  | | _`-'  _  
-  `-' `-'   `-'`-'`-' `-'  `-' `-'`--' `-'`-'   `-' 
-                                                    
-```
-
-### fonts/AMC Tubes.flf:
-
-```text
-d    d d sss   d      d        sSSSs   
-S    S S       S      S       S     S  
-S    S S       S      S      S       S 
-S sSSS S sSSs  S      S      S       S 
-S    S S       S      S      S       S 
-S    S S       S      S       S     S  
-P    P P sSSss P sSSs P sSSs   "sss"   
-                                       
-d  d  b   sSSSs   d ss.  d      d ss    
-S  S  S  S     S  S    b S      S   ~o  
-S  S  S S       S S    P S      S     b 
-S  S  S S       S S sS'  S      S     S 
-S  S  S S       S S   S  S      S     P 
- S  S S  S     S  S    S S      S    S  
-  "ss"S   "sss"   P    P P sSSs P ss"   
-                                        
-```
-
-### fonts/AMC Untitled.flf:
-
-```text
-                                                
-                                                
-,'', ,'', ,'',,'', ,'',     ,'',      ,'',,'',  
-;  ;,;  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
-;  ;';  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
-;  ; ;  ; ;  ; ,,  ;  ;,'', ;  ;,'', ;   ;;   ; 
-',,' ',,' ',,'',,' ',,'',,' ',,'',,'  ',,'',,'  
-                                                
-                                                     
-                                                     
-,'', ,', ,',  ,'',,'',  ,'',,'',  ,'',     ,'',,'',  
-;  ; ; ; ; ; ;   ;;   ; ;  ;',  ; ;  ;     ;  ;;   ; 
-;  ; ; ; ; ; ;   ;;   ; ;  ;,' ,' ;  ;     ;  ;;   ; 
-;  ;,' ;,' ; ;   ;;   ; ;  ;', ', ;  ;,'', ;  ;;   ; 
-',,'',,'',,'  ',,'',,'  ',,' ',,' ',,'',,' ',,'',,'  
-                                                     
-```
-
-### fonts/ANSI Regular.flf:
-
-```text
-██   ██ ███████ ██      ██       ██████     
-██   ██ ██      ██      ██      ██    ██    
-███████ █████   ██      ██      ██    ██    
-██   ██ ██      ██      ██      ██    ██    
-██   ██ ███████ ███████ ███████  ██████  ▄█ 
-                                            
-                                            
-██     ██  ██████  ██████  ██      ██████  ██ 
-██     ██ ██    ██ ██   ██ ██      ██   ██ ██ 
-██  █  ██ ██    ██ ██████  ██      ██   ██ ██ 
-██ ███ ██ ██    ██ ██   ██ ██      ██   ██    
- ███ ███   ██████  ██   ██ ███████ ██████  ██ 
-                                              
-                                              
-```
-
-### fonts/ANSI Shadow.flf:
-
-```text
-██╗  ██╗███████╗██╗     ██╗      ██████╗    
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗   
-███████║█████╗  ██║     ██║     ██║   ██║   
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║   
-██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-                                            
-██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗
-██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██║
-██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║██║
-██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚═╝
-╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╗
- ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
-                                              
-```
-
-### fonts/ASCII New Roman.flf:
-
-```text
- __, _,____,__,  __,  ____,,  _   _,____, ____, __,  ____,__, 
-(-|__|(-|_,(-|  (-|  (-/  \  (-|  |(-/  \(-|__)(-|  (-|  (-V  
- _|  |,_|__,_|__,_|__,_\__/,  _|/\|,_\__/,_|  \,_|__,_|__/_o  
-(     (    (    (    (       (     (     (     (    (    (    
-```
-
-### fonts/Acrobatic.flf:
+### Acrobatic.flf:
 
 ```text
   o                        o    o                      
@@ -509,7 +235,7 @@ S  S  S S       S S   S  S      S     P
                                                                     
 ```
 
-### fonts/Alligator.flf:
+### Alligator.flf:
 
 ```text
       :::    ::::::::::::::::       :::       ::::::::    
@@ -528,7 +254,7 @@ S  S  S S       S S   S  S      S     P
 ###   ###   ######## ###    ###################### ###       
 ```
 
-### fonts/Alligator2.flf:
+### Alligator2.flf:
 
 ```text
 :::    ::::::::::::::::       :::       ::::::::     
@@ -547,7 +273,26 @@ S  S  S S       S S   S  S      S     P
   ###   ###   ######## ###    ###################### ### 
 ```
 
-### fonts/Alpha.flf:
+### alligator3.flf:
+
+```text
+:::    ::::::::::::::::       :::       ::::::::     
+:+:    :+::+:       :+:       :+:      :+:    :+:    
++:+    +:++:+       +:+       +:+      +:+    +:+    
++#++:++#+++#++:++#  +#+       +#+      +#+    +:+    
++#+    +#++#+       +#+       +#+      +#+    +#+    
+#+#    #+##+#       #+#       #+#      #+#    #+##+# 
+###    ######################################### ##  
+:::       ::: :::::::: ::::::::: :::       ::::::::: ::: 
+:+:       :+::+:    :+::+:    :+::+:       :+:    :+::+: 
++:+       +:++:+    +:++:+    +:++:+       +:+    +:++:+ 
++#+  +:+  +#++#+    +:++#++:++#: +#+       +#+    +:++#+ 
++#+ +#+#+ +#++#+    +#++#+    +#++#+       +#+    +#++#+ 
+ #+#+# #+#+# #+#    #+##+#    #+##+#       #+#    #+#    
+  ###   ###   ######## ###    ###################### ### 
+```
+
+### Alpha.flf:
 
 ```text
           _____                    _____                    _____  
@@ -640,7 +385,7 @@ S  S  S S       S S   S  S      S     P
                                                               
 ```
 
-### fonts/Alphabet.flf:
+### Alphabet.flf:
 
 ```text
 h        l l                          l    d !!! 
@@ -652,7 +397,499 @@ h  h ee  l l ooo ,,      w w  ooo r   l  ddd !!!
                                                  
 ```
 
-### fonts/Arrows.flf:
+### AMC 3 Line.flf:
+
+```text
+. . .-. .   .   .-.     . . . .-. .-. .   .-. . 
+|-| |-  |   |   | |     | | | | | |(  |   |  )| 
+' ` `-' `-' `-' `-' ,   `.'.' `-' ' ' `-' `-' . 
+                                                
+```
+
+### AMC 3 Liv1.flf:
+
+```text
+.:;S;:.              :.      :. .:;S;:. 
+   S    S  S  S       S       S S     S 
+`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:' 
+                                        
+.:;S;:. .:;S;:. .:;.;:.      :.  .:;:.          
+     (  S     S S  S          S S     S .:;s ;: 
+`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:'         
+                                                
+```
+
+### AMC AAA01.flf:
+
+```text
+ .S    S.     sSSs  S.      S.        sSSs_sSSs    
+.SS    SS.   d%%SP  SS.     SS.      d%%SP~YS%%b   
+S%S    S%S  d%S'    S%S     S%S     d%S'     `S%b  
+S%S    S%S  S%S     S%S     S%S     S%S       S%S  
+S%S SSSS%S  S&S     S&S     S&S     S&S       S&S  
+S&S  SSS&S  S&S_Ss  S&S     S&S     S&S       S&S  
+S&S    S&S  S&S~SP  S&S     S&S     S&S       S&S  
+S&S    S&S  S&S     S&S     S&S     S&S       S&S  
+S*S    S*S  S*b     S*b     S*b     S*b       d*S  
+S*S    S*S  S*S.    S*S.    S*S.    S*S.     .S*S  
+S*S    S*S   SSSbs   SSSbs   SSSbs   SSSbs_sdSSS   
+SSS    S*S    YSSP    YSSP    YSSP    YSSP~YSSY    
+       SP                                          
+       Y                                           
+                                                   
+ .S     S.     sSSs_sSSs     .S_sSSs    S.       .S_sSSs    
+.SS     SS.   d%%SP~YS%%b   .SS~YS%%b   SS.     .SS~YS%%b   
+S%S     S%S  d%S'     `S%b  S%S   `S%b  S%S     S%S   `S%b  
+S%S     S%S  S%S       S%S  S%S    S%S  S%S     S%S    S%S  
+S%S     S%S  S&S       S&S  S%S    d*S  S&S     S%S    S&S  
+S&S     S&S  S&S       S&S  S&S   .S*S  S&S     S&S    S&S  
+S&S     S&S  S&S       S&S  S&S_sdSSS   S&S     S&S    S&S  
+S&S     S&S  S&S       S&S  S&S~YSY%b   S&S     S&S    S&S  
+S*S     S*S  S*b       d*S  S*S   `S%b  S*b     S*S    d*S  
+S*S  .  S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S   .S*S  
+S*S_sSs_S*S   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S_sdSSS   
+SSS~SSS~S*S    YSSP~YSSY    S*S    SSS    YSSP  SSS~YSSY    
+                            SP                              
+                            Y                               
+                                                            
+```
+
+### AMC Neko.flf:
+
+```text
+                                                                  
+.sSSS SSSSS .sSSSSs.    SSSSS       SSSSS       .sSSSSs.          
+S SSS SSSSS S SSSSSSSs. S SSS       S SSS       S SSSSSSSs.       
+S  SS SSSSS S  SS SSSS' S  SS       S  SS       S  SS SSSSS       
+S..SSsSSSSS S..SS       S..SS       S..SS       S..SS SSSSS       
+S:::S SSSSS S:::SSSS    S:::S       S:::S       S:::S SSSSS       
+S;;;S SSSSS S;;;S       S;;;S       S;;;S       S;;;S SSSSS .sSs. 
+S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S 
+SSSSS SSSSS SSSSSsSS;:' SSSSSsSS;:' SSSSSsSS;:' SSSSSsSSSSS `"":5 
+                                                              ;:' 
+                                                                  SSSSS 
+.sSSS       s.    .sSSSSs.    .sSSSSSSSs. SSSSS       .sSSSSs.    S SSS 
+S SSS       SSSs. S SSSSSSSs. S SSS SSSSS S SSS       S SSSSSSSs. S  SS 
+S  SS       SSSSS S  SS SSSSS S  SS SSSS' S  SS       S  SS SSSSS S;;;S 
+S..SS       SSSSS S..SS SSSSS S..SSsSSSa. S..SS       S..SS SSSSS S%%%S 
+S:::S       SSSSS S:::S SSSSS S:::S SSSSS S:::S       S:::S SSSSS SSSSS 
+S;;;S   S   SSSSS S;;;S SSSSS S;;;S SSSSS S;;;S       S;;;S SSSSS .sSs. 
+S%%%S  SSS  SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSS' S%%%S 
+SSSSSsSS SSsSSSSS SSSSSsSSSSS SSSSS SSSSS SSSSSsSS;:' SSSSSsS;:'  `:;:' 
+                                                                        
+```
+
+### AMC Razor.flf:
+
+```text
+                   ___                                       
+  .'| |`.     .'|=|_.'   .'|        .'|        .'|=|`.       
+.'  | |  `. .'  |  ___ .'  |      .'  |      .'  | |  `.     
+|   |=|   | |   |=|_.' |   |      |   |      |   | |   |     
+|   | |   | |   |  ___ |   |  ___ |   |  ___ `.  | |  .' .-. 
+|___| |___| |___|=|_.' |___|=|_.' |___|=|_.'   `.|=|.'   `/' 
+                                                             
+ ___    ___                     __                         
+|   |  |   |   .'|=|`.     .'|=|  |   .'|        .'|=|`.   
+|   |  |   | .'  | |  `. .'  | |  | .'  |      .'  | |  `. 
+|   |  |   | |   | |   | |   |=|.'  |   |      |   | |   | 
+`.  |  |  .' `.  | |  .' |   |  |`. |   |  ___ |   | |  .' 
+  `.|/\|.'     `.|=|.'   |___|  |_| |___|=|_.' |___|=|.'   
+                                                           
+```
+
+### AMC Razor2.flf:
+
+```text
+   . .       . .       .         .         . .    
+.+'| |`+. .+'|=|`+. .+'|      .+'|      .+'|=|`+. 
+|  | |  | |  | `+.| |  |      |  |      |  | |  | 
+|  |=|  | |  |=|`.  |  |      |  |      |  | |  | 
+|  | |  | |  | `.|  |  |      |  |      |  | |  | 
+|  | |  | |  |    . |  |    . |  |    . |  | |  | 
+|  | |  | |  | .+'| |  | .+'| |  | .+'| |  | |  | 
+`+.| |..| `+.|=|.+' `+.|=|.+' `+.|=|.+' `+.|=|.+' 
+                                                  
+   .    .    .    . .       . .       .         . .    .    
+.+'|  .'|  .'| .+'|=|`+. .+'|=|`+. .+'|      .+'|=|`+. |`+. 
+|  |  | |  | | |  | |  | |  | |  | |  |      |  | `+ | |  | 
+|  |  | |  | | |  | |  | |  |'. '. |  |      |  |  | | |  | 
+|  |  | |  | | |  | |  | |  | |  | |  |      |  |  | | `+.| 
+|  |  | |  | | |  | |  | |  | |  | |  |    . |  |  | | .    
+|  | .+ | .+ | |  | |  | |  | |  | |  | .+'| |  | .+ | |`+. 
+`+.|=|.+'=|.+' `+.|=|.+' `+.| |.+' `+.|=|.+' `+.|=|.+' `+.| 
+                                                            
+```
+
+### AMC Slash.flf:
+
+```text
+                                                  
+.s    s.  .s5SSSs.  .s        .s        .s5SSSs.  
+      SS.       SS.                           SS. 
+sS    S%S sS    `:; sS        sS        sS    S%S 
+SSSs. S%S SSSs.     SS        SS        SS    S%S 
+SS    S%S SS        SS        SS        SS    S%S 
+SS    `:; SS        SS        SS        SS    `:; 
+SS    ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
+:;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' 
+                                                  
+                                                   
+.s s.  s.  .s5SSSs.  .s5SSSs.  .s        .s5SSSs.  
+   SS. SS.       SS.       SS.                 SS. 
+sS S%S S%S sS    S%S sS    S%S sS        sS    S%S 
+SS S%S S%S SS    S%S SS .sS;:' SS        SS    S%S 
+SS S%S S%S SS    S%S SS    ;,  SS        SS    S%S 
+SS `:; `:; SS    `:; SS    `:; SS        SS    `:; 
+SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
+`:;;:'`::' `:;;;;;:' `:    ;:' `:;;;;;:' ;;;;;;;:' 
+                                                   
+```
+
+### AMC Slider.flf:
+
+```text
+             ____                             ______    
+|         | |            |        |         .~      ~.  
+|_________| |______      |        |        |          | 
+|         | |            |        |        |          | 
+|         | |___________ |_______ |_______  `.______.'  
+                                                        
+                       ______                                   
+`.               .'  .~      ~.  |`````````, |        |``````.  
+  `.           .'   |          | |'''|'''''  |        |       | 
+    `.   .   .'     |          | |    `.     |        |       | 
+      `.' `.'        `.______.'  |      `.   |_______ |......'  
+                                                                
+```
+
+### AMC Thin.flf:
+
+```text
+.-.   .-. .-..--. .-.     .-.     .-..-..-.     
+| | _ | | | | ~~  | |     | |     | | ~ | |     
+| |`-'| | | | _   | |     | |     | |   | |     
+| |   | | | |`-'  | |     | |     | |   | |     
+| |   | | | | __  | | __  | | __  | | _ | |  _  
+`-'   `-' `-'`--' `-'`--' `-'`--' `-'`-'`-' `/' 
+                                                
+.-. .-. .-. .-..-..-. .-..-.   .-.     .-..-.   .-. 
+| | | | | | | | ~ | | | | ~.-. | |     | | ~.-. | | 
+| | | | | | | |   | | | |.-.~  | |     | |  | | | | 
+| | | | | | | |   | | | | ~.-. | |     | |  | | `-' 
+`-'_`-'_`-' | | _ | | | |  | | | | __  | | _`-'  _  
+  `-' `-'   `-'`-'`-' `-'  `-' `-'`--' `-'`-'   `-' 
+                                                    
+```
+
+### AMC Tubes.flf:
+
+```text
+d    d d sss   d      d        sSSSs   
+S    S S       S      S       S     S  
+S    S S       S      S      S       S 
+S sSSS S sSSs  S      S      S       S 
+S    S S       S      S      S       S 
+S    S S       S      S       S     S  
+P    P P sSSss P sSSs P sSSs   "sss"   
+                                       
+d  d  b   sSSSs   d ss.  d      d ss    
+S  S  S  S     S  S    b S      S   ~o  
+S  S  S S       S S    P S      S     b 
+S  S  S S       S S sS'  S      S     S 
+S  S  S S       S S   S  S      S     P 
+ S  S S  S     S  S    S S      S    S  
+  "ss"S   "sss"   P    P P sSSs P ss"   
+                                        
+```
+
+### AMC Untitled.flf:
+
+```text
+                                                
+                                                
+,'', ,'', ,'',,'', ,'',     ,'',      ,'',,'',  
+;  ;,;  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
+;  ;';  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
+;  ; ;  ; ;  ; ,,  ;  ;,'', ;  ;,'', ;   ;;   ; 
+',,' ',,' ',,'',,' ',,'',,' ',,'',,'  ',,'',,'  
+                                                
+                                                     
+                                                     
+,'', ,', ,',  ,'',,'',  ,'',,'',  ,'',     ,'',,'',  
+;  ; ; ; ; ; ;   ;;   ; ;  ;',  ; ;  ;     ;  ;;   ; 
+;  ; ; ; ; ; ;   ;;   ; ;  ;,' ,' ;  ;     ;  ;;   ; 
+;  ;,' ;,' ; ;   ;;   ; ;  ;', ', ;  ;,'', ;  ;;   ; 
+',,'',,'',,'  ',,'',,'  ',,' ',,' ',,'',,' ',,'',,'  
+                                                     
+```
+
+### amc3line.flf:
+
+```text
+. . .-. .   .   .-.     . . . .-. .-. .   .-. . 
+|-| |-  |   |   | |     | | | | | |(  |   |  )| 
+' ` `-' `-' `-' `-' ,   `.'.' `-' ' ' `-' `-' . 
+                                                
+```
+
+### amc3liv1.flf:
+
+```text
+.:;S;:.              :.      :. .:;S;:. 
+   S    S  S  S       S       S S     S 
+`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:' 
+                                        
+.:;S;:. .:;S;:. .:;.;:.      :.  .:;:.          
+     (  S     S S  S          S S     S .:;s ;: 
+`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:'         
+                                                
+```
+
+### amcaaa01.flf:
+
+```text
+ .S    S.     sSSs  S.      S.        sSSs_sSSs    
+.SS    SS.   d%%SP  SS.     SS.      d%%SP~YS%%b   
+S%S    S%S  d%S'    S%S     S%S     d%S'     `S%b  
+S%S    S%S  S%S     S%S     S%S     S%S       S%S  
+S%S SSSS%S  S&S     S&S     S&S     S&S       S&S  
+S&S  SSS&S  S&S_Ss  S&S     S&S     S&S       S&S  
+S&S    S&S  S&S~SP  S&S     S&S     S&S       S&S  
+S&S    S&S  S&S     S&S     S&S     S&S       S&S  
+S*S    S*S  S*b     S*b     S*b     S*b       d*S  
+S*S    S*S  S*S.    S*S.    S*S.    S*S.     .S*S  
+S*S    S*S   SSSbs   SSSbs   SSSbs   SSSbs_sdSSS   
+SSS    S*S    YSSP    YSSP    YSSP    YSSP~YSSY    
+       SP                                          
+       Y                                           
+                                                   
+ .S     S.     sSSs_sSSs     .S_sSSs    S.       .S_sSSs    
+.SS     SS.   d%%SP~YS%%b   .SS~YS%%b   SS.     .SS~YS%%b   
+S%S     S%S  d%S'     `S%b  S%S   `S%b  S%S     S%S   `S%b  
+S%S     S%S  S%S       S%S  S%S    S%S  S%S     S%S    S%S  
+S%S     S%S  S&S       S&S  S%S    d*S  S&S     S%S    S&S  
+S&S     S&S  S&S       S&S  S&S   .S*S  S&S     S&S    S&S  
+S&S     S&S  S&S       S&S  S&S_sdSSS   S&S     S&S    S&S  
+S&S     S&S  S&S       S&S  S&S~YSY%b   S&S     S&S    S&S  
+S*S     S*S  S*b       d*S  S*S   `S%b  S*b     S*S    d*S  
+S*S  .  S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S   .S*S  
+S*S_sSs_S*S   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S_sdSSS   
+SSS~SSS~S*S    YSSP~YSSY    S*S    SSS    YSSP  SSS~YSSY    
+                            SP                              
+                            Y                               
+                                                            
+```
+
+### amcneko.flf:
+
+```text
+                                                                  
+.sSSS SSSSS .sSSSSs.    SSSSS       SSSSS       .sSSSSs.          
+S SSS SSSSS S SSSSSSSs. S SSS       S SSS       S SSSSSSSs.       
+S  SS SSSSS S  SS SSSS' S  SS       S  SS       S  SS SSSSS       
+S..SSsSSSSS S..SS       S..SS       S..SS       S..SS SSSSS       
+S:::S SSSSS S:::SSSS    S:::S       S:::S       S:::S SSSSS       
+S;;;S SSSSS S;;;S       S;;;S       S;;;S       S;;;S SSSSS .sSs. 
+S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S 
+SSSSS SSSSS SSSSSsSS;:' SSSSSsSS;:' SSSSSsSS;:' SSSSSsSSSSS `"":5 
+                                                              ;:' 
+                                                                  SSSSS 
+.sSSS       s.    .sSSSSs.    .sSSSSSSSs. SSSSS       .sSSSSs.    S SSS 
+S SSS       SSSs. S SSSSSSSs. S SSS SSSSS S SSS       S SSSSSSSs. S  SS 
+S  SS       SSSSS S  SS SSSSS S  SS SSSS' S  SS       S  SS SSSSS S;;;S 
+S..SS       SSSSS S..SS SSSSS S..SSsSSSa. S..SS       S..SS SSSSS S%%%S 
+S:::S       SSSSS S:::S SSSSS S:::S SSSSS S:::S       S:::S SSSSS SSSSS 
+S;;;S   S   SSSSS S;;;S SSSSS S;;;S SSSSS S;;;S       S;;;S SSSSS .sSs. 
+S%%%S  SSS  SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSS' S%%%S 
+SSSSSsSS SSsSSSSS SSSSSsSSSSS SSSSS SSSSS SSSSSsSS;:' SSSSSsS;:'  `:;:' 
+                                                                        
+```
+
+### amcrazo2.flf:
+
+```text
+   . .       . .       .         .         . .    
+.+'| |`+. .+'|=|`+. .+'|      .+'|      .+'|=|`+. 
+|  | |  | |  | `+.| |  |      |  |      |  | |  | 
+|  |=|  | |  |=|`.  |  |      |  |      |  | |  | 
+|  | |  | |  | `.|  |  |      |  |      |  | |  | 
+|  | |  | |  |    . |  |    . |  |    . |  | |  | 
+|  | |  | |  | .+'| |  | .+'| |  | .+'| |  | |  | 
+`+.| |..| `+.|=|.+' `+.|=|.+' `+.|=|.+' `+.|=|.+' 
+                                                  
+   .    .    .    . .       . .       .         . .    .    
+.+'|  .'|  .'| .+'|=|`+. .+'|=|`+. .+'|      .+'|=|`+. |`+. 
+|  |  | |  | | |  | |  | |  | |  | |  |      |  | `+ | |  | 
+|  |  | |  | | |  | |  | |  |'. '. |  |      |  |  | | |  | 
+|  |  | |  | | |  | |  | |  | |  | |  |      |  |  | | `+.| 
+|  |  | |  | | |  | |  | |  | |  | |  |    . |  |  | | .    
+|  | .+ | .+ | |  | |  | |  | |  | |  | .+'| |  | .+ | |`+. 
+`+.|=|.+'=|.+' `+.|=|.+' `+.| |.+' `+.|=|.+' `+.|=|.+' `+.| 
+                                                            
+```
+
+### amcrazor.flf:
+
+```text
+                   ___                                       
+  .'| |`.     .'|=|_.'   .'|        .'|        .'|=|`.       
+.'  | |  `. .'  |  ___ .'  |      .'  |      .'  | |  `.     
+|   |=|   | |   |=|_.' |   |      |   |      |   | |   |     
+|   | |   | |   |  ___ |   |  ___ |   |  ___ `.  | |  .' .-. 
+|___| |___| |___|=|_.' |___|=|_.' |___|=|_.'   `.|=|.'   `/' 
+                                                             
+ ___    ___                     __                         
+|   |  |   |   .'|=|`.     .'|=|  |   .'|        .'|=|`.   
+|   |  |   | .'  | |  `. .'  | |  | .'  |      .'  | |  `. 
+|   |  |   | |   | |   | |   |=|.'  |   |      |   | |   | 
+`.  |  |  .' `.  | |  .' |   |  |`. |   |  ___ |   | |  .' 
+  `.|/\|.'     `.|=|.'   |___|  |_| |___|=|_.' |___|=|.'   
+                                                           
+```
+
+### amcslash.flf:
+
+```text
+                                                  
+.s    s.  .s5SSSs.  .s        .s        .s5SSSs.  
+      SS.       SS.                           SS. 
+sS    S%S sS    `:; sS        sS        sS    S%S 
+SSSs. S%S SSSs.     SS        SS        SS    S%S 
+SS    S%S SS        SS        SS        SS    S%S 
+SS    `:; SS        SS        SS        SS    `:; 
+SS    ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
+:;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' 
+                                                  
+                                                   
+.s s.  s.  .s5SSSs.  .s5SSSs.  .s        .s5SSSs.  
+   SS. SS.       SS.       SS.                 SS. 
+sS S%S S%S sS    S%S sS    S%S sS        sS    S%S 
+SS S%S S%S SS    S%S SS .sS;:' SS        SS    S%S 
+SS S%S S%S SS    S%S SS    ;,  SS        SS    S%S 
+SS `:; `:; SS    `:; SS    `:; SS        SS    `:; 
+SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
+`:;;:'`::' `:;;;;;:' `:    ;:' `:;;;;;:' ;;;;;;;:' 
+                                                   
+```
+
+### amcslder.flf:
+
+```text
+             ____                             ______    
+|         | |            |        |         .~      ~.  
+|_________| |______      |        |        |          | 
+|         | |            |        |        |          | 
+|         | |___________ |_______ |_______  `.______.'  
+                                                        
+                       ______                                   
+`.               .'  .~      ~.  |`````````, |        |``````.  
+  `.           .'   |          | |'''|'''''  |        |       | 
+    `.   .   .'     |          | |    `.     |        |       | 
+      `.' `.'        `.______.'  |      `.   |_______ |......'  
+                                                                
+```
+
+### amcthin.flf:
+
+```text
+.-.   .-. .-..--. .-.     .-.     .-..-..-.     
+| | _ | | | | ~~  | |     | |     | | ~ | |     
+| |`-'| | | | _   | |     | |     | |   | |     
+| |   | | | |`-'  | |     | |     | |   | |     
+| |   | | | | __  | | __  | | __  | | _ | |  _  
+`-'   `-' `-'`--' `-'`--' `-'`--' `-'`-'`-' `/' 
+                                                
+.-. .-. .-. .-..-..-. .-..-.   .-.     .-..-.   .-. 
+| | | | | | | | ~ | | | | ~.-. | |     | | ~.-. | | 
+| | | | | | | |   | | | |.-.~  | |     | |  | | | | 
+| | | | | | | |   | | | | ~.-. | |     | |  | | `-' 
+`-'_`-'_`-' | | _ | | | |  | | | | __  | | _`-'  _  
+  `-' `-'   `-'`-'`-' `-'  `-' `-'`--' `-'`-'   `-' 
+                                                    
+```
+
+### amctubes.flf:
+
+```text
+d    d d sss   d      d        sSSSs   
+S    S S       S      S       S     S  
+S    S S       S      S      S       S 
+S sSSS S sSSs  S      S      S       S 
+S    S S       S      S      S       S 
+S    S S       S      S       S     S  
+P    P P sSSss P sSSs P sSSs   "sss"   
+                                       
+d  d  b   sSSSs   d ss.  d      d ss    
+S  S  S  S     S  S    b S      S   ~o  
+S  S  S S       S S    P S      S     b 
+S  S  S S       S S sS'  S      S     S 
+S  S  S S       S S   S  S      S     P 
+ S  S S  S     S  S    S S      S    S  
+  "ss"S   "sss"   P    P P sSSs P ss"   
+                                        
+```
+
+### amcun1.flf:
+
+```text
+                                                
+                                                
+,'', ,'', ,'',,'', ,'',     ,'',      ,'',,'',  
+;  ;,;  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
+;  ;';  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
+;  ; ;  ; ;  ; ,,  ;  ;,'', ;  ;,'', ;   ;;   ; 
+',,' ',,' ',,'',,' ',,'',,' ',,'',,'  ',,'',,'  
+                                                
+                                                     
+                                                     
+,'', ,', ,',  ,'',,'',  ,'',,'',  ,'',     ,'',,'',  
+;  ; ; ; ; ; ;   ;;   ; ;  ;',  ; ;  ;     ;  ;;   ; 
+;  ; ; ; ; ; ;   ;;   ; ;  ;,' ,' ;  ;     ;  ;;   ; 
+;  ;,' ;,' ; ;   ;;   ; ;  ;', ', ;  ;,'', ;  ;;   ; 
+',,'',,'',,'  ',,'',,'  ',,' ',,' ',,'',,' ',,'',,'  
+                                                     
+```
+
+### ANSI Regular.flf:
+
+```text
+██   ██ ███████ ██      ██       ██████     
+██   ██ ██      ██      ██      ██    ██    
+███████ █████   ██      ██      ██    ██    
+██   ██ ██      ██      ██      ██    ██    
+██   ██ ███████ ███████ ███████  ██████  ▄█ 
+                                            
+                                            
+██     ██  ██████  ██████  ██      ██████  ██ 
+██     ██ ██    ██ ██   ██ ██      ██   ██ ██ 
+██  █  ██ ██    ██ ██████  ██      ██   ██ ██ 
+██ ███ ██ ██    ██ ██   ██ ██      ██   ██    
+ ███ ███   ██████  ██   ██ ███████ ██████  ██ 
+                                              
+                                              
+```
+
+### ANSI Shadow.flf:
+
+```text
+██╗  ██╗███████╗██╗     ██╗      ██████╗    
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗   
+███████║█████╗  ██║     ██║     ██║   ██║   
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║   
+██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+                                            
+██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗
+██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██║
+██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║██║
+██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚═╝
+╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╗
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
+                                              
+```
+
+### Arrows.flf:
 
 ```text
                     >=>  >=>                
@@ -673,7 +910,71 @@ h  h ee  l l ooo ,,      w w  ooo r   l  ddd !!!
                                                 
 ```
 
-### fonts/Avatar.flf:
+### ASCII New Roman.flf:
+
+```text
+ __, _,____,__,  __,  ____,,  _   _,____, ____, __,  ____,__, 
+(-|__|(-|_,(-|  (-|  (-/  \  (-|  |(-/  \(-|__)(-|  (-|  (-V  
+ _|  |,_|__,_|__,_|__,_\__/,  _|/\|,_\__/,_|  \,_|__,_|__/_o  
+(     (    (    (    (       (     (     (     (    (    (    
+```
+
+### ascii12.tlf:
+
+```text
+                                                            
+ mm                  mmmm      mmmm                         
+ ##                  ""##      ""##                         
+ ##m####m   m####m     ##        ##       m####m            
+ ##"   ##  ##mmmm##    ##        ##      ##"  "##           
+ ##    ##  ##""""""    ##        ##      ##    ##           
+ ##    ##  "##mmmm#    ##mmm     ##mmm   "##mm##"     ##    
+ ""    ""    """""      """"      """"     """"       ##    
+                                                     ""     
+                                                            
+                                                            
+                               mmmm            mm     mm    
+                               ""##            ##     ##    
+##      ##  m####m    ##m####    ##       m###m##     ##    
+"#  ##  #" ##"  "##   ##"        ##      ##"  "##     ##    
+ ##m##m##  ##    ##   ##         ##      ##    ##     ""    
+ "##  ##"  "##mm##"   ##         ##mmm   "##mm###     mm    
+  ""  ""     """"     ""          """"     """ ""     ""    
+                                                            
+                                                            
+```
+
+### ascii9.tlf:
+
+```text
+                                          
+ #             ""#    ""#                 
+ # mm    mmm     #      #     mmm         
+ #"  #  #"  #    #      #    #" "#        
+ #   #  #""""    #      #    #   #        
+ #   #  "#mm"    "mm    "mm  "#m#"    #   
+                                     "    
+                                          
+                                          
+                      ""#        #    m   
+m     m  mmm    m mm    #     mmm#    #   
+"m m m" #" "#   #"  "   #    #" "#    #   
+ #m#m#  #   #   #       #    #   #    "   
+  # #   "#m#"   #       "mm  "#m##    #   
+                                          
+                                          
+```
+
+### ascii_new_roman.flf:
+
+```text
+ __, _,____,__,  __,  ____,,  _   _,____, ____, __,  ____,__, 
+(-|__|(-|_,(-|  (-|  (-/  \  (-|  |(-/  \(-|__)(-|  (-|  (-V  
+ _|  |,_|__,_|__,_|__,_\__/,  _|/\|,_\__/,_|  \,_|__,_|__/_o  
+(     (    (    (    (       (     (     (     (    (    (    
+```
+
+### Avatar.flf:
 
 ```text
  _     _____ _     _     ____     _      ____  ____  _     ____  _ 
@@ -684,13 +985,13 @@ h  h ee  l l ooo ,,      w w  ooo r   l  ddd !!!
                              |/                                    
 ```
 
-### fonts/B1FF.flf:
+### B1FF.flf:
 
 ```text
 H3|_|_0, \/\/0R|_|)!
 ```
 
-### fonts/Banner.flf:
+### Banner.flf:
 
 ```text
                                        
@@ -711,7 +1012,7 @@ H3|_|_0, \/\/0R|_|)!
                                        
 ```
 
-### fonts/Banner3-D.flf:
+### Banner3-D.flf:
 
 ```text
 '##::::'##:'########:'##:::::::'##::::::::'#######::::::::
@@ -732,7 +1033,7 @@ H3|_|_0, \/\/0R|_|)!
 :...::...::::.......:::..:::::..::........::........:::....::
 ```
 
-### fonts/Banner3.flf:
+### Banner3.flf:
 
 ```text
 ##     ## ######## ##       ##        #######       
@@ -751,7 +1052,7 @@ H3|_|_0, \/\/0R|_|)!
  ###  ###   #######  ##     ## ######## ########  #### 
 ```
 
-### fonts/Banner4.flf:
+### Banner4.flf:
 
 ```text
 .##.....##.########.##.......##........#######......
@@ -770,7 +1071,7 @@ H3|_|_0, \/\/0R|_|)!
 ..###..###...#######..##.....##.########.########..####
 ```
 
-### fonts/Barbwire.flf:
+### Barbwire.flf:
 
 ```text
                    ><< ><<             
@@ -791,7 +1092,7 @@ H3|_|_0, \/\/0R|_|)!
                                             
 ```
 
-### fonts/Basic.flf:
+### Basic.flf:
 
 ```text
 db   db d88888b db      db       .d88b.     
@@ -812,7 +1113,7 @@ Y8   I8I   88 88    88 88`8b   88      88   88
                                                   
 ```
 
-### fonts/Bear.flf:
+### Bear.flf:
 
 ```text
    _     _      _     _      _     _      _     _      _     _  ,
@@ -835,7 +1136,7 @@ Y8   I8I   88 88    88 88`8b   88      88   88
  `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-' 
 ```
 
-### fonts/Bell.flf:
+### Bell.flf:
 
 ```text
  _              .    .                                       .        _ /
@@ -846,13 +1147,13 @@ Y8   I8I   88 88    88 88`8b   88      88   88
                                 /                                     ` '
 ```
 
-### fonts/Benjamin.flf:
+### Benjamin.flf:
 
 ```text
 |-|[-|_|_(), \/\/()|2|_|)!
 ```
 
-### fonts/Big Chief.flf:
+### Big Chief.flf:
 
 ```text
 ______________________________________________________________________
@@ -865,7 +1166,7 @@ _/___/_(___ _/___/___(___/__/____|/_|/__(___/_/_____/___(___/___o_____
                                                                       
 ```
 
-### fonts/Big Money-ne.flf:
+### Big Money-ne.flf:
 
 ```text
  /$$                 /$$ /$$             
@@ -892,7 +1193,7 @@ _/___/_(___ _/___/___(___/__/____|/_|/__(___/_/_____/___(___/___o_____
                                                     
 ```
 
-### fonts/Big Money-nw.flf:
+### Big Money-nw.flf:
 
 ```text
 $$\                 $$\ $$\               
@@ -919,7 +1220,7 @@ $$ | $$ | $$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |
                                                     
 ```
 
-### fonts/Big Money-se.flf:
+### Big Money-se.flf:
 
 ```text
  __                  __  __               
@@ -948,7 +1249,7 @@ $$ | $$ | $$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |
                                                     
 ```
 
-### fonts/Big Money-sw.flf:
+### Big Money-sw.flf:
 
 ```text
  __                  __  __              
@@ -977,7 +1278,7 @@ $$   $$   $$/ $$    $$/ $$ |      $$ |$$    $$ |/  |
                                                     
 ```
 
-### fonts/Big.flf:
+### Big.flf:
 
 ```text
  _          _ _                             _     _ _ 
@@ -990,7 +1291,98 @@ $$   $$   $$/ $$    $$/ $$ |      $$ |$$    $$ |/  |
                                                       
 ```
 
-### fonts/Bigfig.flf:
+### bigascii12.tlf:
+
+```text
+                                                            
+                                                            
+                                                            
+ ##                  ####      ####                         
+ ##                  ####      ####                         
+ ##                    ##        ##                         
+ ##.####    .####:     ##        ##       .####.            
+ #######   .######:    ##        ##      .######.           
+ ###  :##  ##:  :##    ##        ##      ###  ###           
+ ##    ##  ########    ##        ##      ##.  .##           
+ ##    ##  ########    ##        ##      ##    ##           
+ ##    ##  ##          ##        ##      ##.  .##           
+ ##    ##  ###.  :#    ##:       ##:     ###  ###     ##    
+ ##    ##  .#######    #####     #####   .######.     ##    
+ ##    ##   .#####:    .####     .####    .####.     .##    
+                                                     :#     
+                                                     ##.    
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                               ####            ##     ##    
+                               ####            ##     ##    
+                                 ##            ##     ##    
+##      ##  .####.    ##.####    ##       :###.##     ##    
+##.    .## .######.   #######    ##      :#######     ##    
+ #: ## :#  ###  ###   ###.       ##      ###  ###     ##    
+:#:.##.:#: ##.  .##   ##         ##      ##.  .##     ##    
+ # :##:##  ##    ##   ##         ##      ##    ##     ##    
+ ## ## ##  ##.  .##   ##         ##      ##.  .##           
+ ###::##   ###  ###   ##         ##:     ###  ###           
+ :##..##:  .######.   ##         #####   :#######     ##    
+ .##  ##    .####.    ##         .####    :###.##     ##    
+                                                            
+                                                            
+                                                            
+                                                            
+```
+
+### bigascii9.tlf:
+
+```text
+                                          
+                                          
+ #             ###    ###                 
+ #               #      #                 
+ #               #      #                 
+ #:##:   ###     #      #     ###         
+ #  :#     :#    #      #    #   #        
+ #   #  #   #    #      #    #   #        
+ #   #  #####    #      #    #   #        
+ #   #  #        #      #    #   #        
+ #   #      #    #.     #.   #   #    #   
+ #   #   ###:    :##    :##   ###    .#   
+                                     #:   
+                                          
+                                          
+                                          
+                                          
+                      ###        #        
+                        #        #    #   
+                        #        #    #   
+#.    #  ###    #:##:   #     ## #    #   
+ :   :# #   #   ##  #   #    #   #    #   
+.# # #: #   #   #       #    #   #    #   
+ #:#:#  #   #   #       #    #   #    #   
+ #####  #   #   #       #    #   #        
+ :#:#:  #   #   #       #.   #   #    #   
+  # #    ###    #       :##   ## #    #   
+                                          
+                                          
+                                          
+```
+
+### bigchief.flf:
+
+```text
+______________________________________________________________________
+                                                                    / 
+    /           /   /                                  /       /   /  
+---/__----__---/---/----__-----------------__---)__---/----__-/---/---
+  /   ) /___) /   /   /   )      | /| /  /   ) /   ) /   /   /   /    
+_/___/_(___ _/___/___(___/__/____|/_|/__(___/_/_____/___(___/___o_____
+                           /                                          
+                                                                      
+```
+
+### Bigfig.flf:
 
 ```text
                                      | 
@@ -998,14 +1390,92 @@ $$   $$   $$/ $$    $$/ $$ |      $$ |$$    $$ |/  |
 | |(/_ |  | (_) /    \^/(_) |  | (_| o 
 ```
 
-### fonts/Binary.flf:
+### bigmono12.tlf:
+
+```text
+                                                            
+                                                            
+                                                            
+ ██                  ████      ████                         
+ ██                  ████      ████                         
+ ██                    ██        ██                         
+ ██░████    ░████▒     ██        ██       ░████░            
+ ███████▓  ░██████▒    ██        ██      ░██████░           
+ ███  ▒██  ██▒  ▒██    ██        ██      ███  ███           
+ ██    ██  ████████    ██        ██      ██░  ░██           
+ ██    ██  ████████    ██        ██      ██    ██           
+ ██    ██  ██          ██        ██      ██░  ░██           
+ ██    ██  ███░  ▒█    ██▒       ██▒     ███  ███     ██    
+ ██    ██  ░███████    █████     █████   ░██████░     ██    
+ ██    ██   ░█████▒    ░████     ░████    ░████░     ░██    
+                                                     ▒█▓    
+                                                     ██░    
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                               ████            ██     ██    
+                               ████            ██     ██    
+                                 ██            ██     ██    
+██      ██  ░████░    ██░████    ██       ▒███░██     ██    
+██░    ░██ ░██████░   ███████    ██      ▒███████     ██    
+▓█▒ ██ ▒█▓ ███  ███   ███░       ██      ███  ███     ██    
+▒█▒░██░▒█▒ ██░  ░██   ██         ██      ██░  ░██     ██    
+ █▓▒██▒██  ██    ██   ██         ██      ██    ██     ██    
+ ██▓██▓██  ██░  ░██   ██         ██      ██░  ░██           
+ ███▒▒██▓  ███  ███   ██         ██▒     ███  ███           
+ ▒██░░██▒  ░██████░   ██         █████   ▒███████     ██    
+ ░██  ██    ░████░    ██         ░████    ▒███░██     ██    
+                                                            
+                                                            
+                                                            
+                                                            
+```
+
+### bigmono9.tlf:
+
+```text
+                                          
+                                          
+ █             ███    ███                 
+ █               █      █                 
+ █               █      █                 
+ █▒██▒   ███     █      █     ███         
+ █▓ ▒█  ▓▓ ▒█    █      █    █▓ ▓█        
+ █   █  █   █    █      █    █   █        
+ █   █  █████    █      █    █   █        
+ █   █  █        █      █    █   █        
+ █   █  ▓▓  █    █░     █░   █▓ ▓█    █   
+ █   █   ███▒    ▒██    ▒██   ███    ░█   
+                                     █▒   
+                                          
+                                          
+                                          
+                                          
+                      ███        █        
+                        █        █    █   
+                        █        █    █   
+█░    █  ███    █▒██▒   █     ██▓█    █   
+▓▒   ▒█ █▓ ▓█   ██  █   █    █▓ ▓█    █   
+░█ █ █▒ █   █   █       █    █   █    █   
+ █▒█▒█  █   █   █       █    █   █    █   
+ █████  █   █   █       █    █   █        
+ ▒█▒█▒  █▓ ▓█   █       █░   █▓ ▓█    █   
+  █ █    ███    █       ▒██   ██▓█    █   
+                                          
+                                          
+                                          
+```
+
+### Binary.flf:
 
 ```text
 01101000 01100101 01101100 01101100 01101111 00101100 
 01110111 01101111 01110010 01101100 01100100 00100001 
 ```
 
-### fonts/Block.flf:
+### Block.flf:
 
 ```text
                                           
@@ -1026,7 +1496,7 @@ _|      _|      _|  _|    _|  _|_|      _|  _|    _|  _|
                                                           
 ```
 
-### fonts/Blocks.flf:
+### Blocks.flf:
 
 ```text
  .----------------.  .----------------.  .----------------. 
@@ -1075,7 +1545,7 @@ _|      _|      _|  _|    _|  _|_|      _|  _|    _|  _|
  '----------------'  '----------------'  '----------------' 
 ```
 
-### fonts/Bloody.flf:
+### Bloody.flf:
 
 ```text
  ██░ ██ ▓█████  ██▓     ██▓     ▒█████  
@@ -1100,7 +1570,7 @@ _|      _|      _|  _|    _|  _|_|      _|  _|    _|  _|
                                     ░            
 ```
 
-### fonts/Bolger.flf:
+### Bolger.flf:
 
 ```text
 888                888 888               
@@ -1119,7 +1589,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
                                                    
 ```
 
-### fonts/Braced.flf:
+### Braced.flf:
 
 ```text
 .-. .-..----..-.   .-.    .---.       .-.  .-. .---. .---. .-.   .----. .-. 
@@ -1129,7 +1599,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
                                                                             
 ```
 
-### fonts/Bright.flf:
+### Bright.flf:
 
 ```text
 .##..##..######..##......##.......####..........
@@ -1146,7 +1616,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 .................................................
 ```
 
-### fonts/Broadway KB.flf:
+### Broadway KB.flf:
 
 ```text
  _     ____  _     _     ___            _       ___   ___   _     ___   __ 
@@ -1154,7 +1624,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 |_| | |_|__ |_|__ |_|__ \_\_/ /_/)      \_\/\/ \_\_/ |_| \ |_|__ |_|_/ (_) 
 ```
 
-### fonts/Broadway.flf:
+### Broadway.flf:
 
 ```text
                                                                             
@@ -1192,7 +1662,15 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 8 888888888P'      
 ```
 
-### fonts/Bubble.flf:
+### broadway_kb.flf:
+
+```text
+ _     ____  _     _     ___          _       ___   ___   _     ___   __ 
+| |_| | |_  | |   | |   / / \  __    \ \    // / \ | |_) | |   | | \ |_/ 
+|_| | |_|__ |_|__ |_|__ \_\_/ /_/)    \_\/\/ \_\_/ |_| \ |_|__ |_|_/ (_) 
+```
+
+### Bubble.flf:
 
 ```text
   _   _   _   _   _   _     _   _   _   _   _   _  
@@ -1201,7 +1679,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
  \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ 
 ```
 
-### fonts/Bulbhead.flf:
+### Bulbhead.flf:
 
 ```text
  _   _  ____  __    __    _____      _    _  _____  ____  __    ____  /\
@@ -1210,7 +1688,52 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 (_) (_)(____)(____)(____)(_____)/   (__/\__)(_____)(_)\_)(____)(____/ ()
 ```
 
-### fonts/Caligraphy.flf:
+### calgphy2.flf:
+
+```text
+                                          
+  /               ###   ###               
+#/                 ###   ###              
+##                  ##    ##              
+##                  ##    ##              
+##                  ##    ##              
+##  /##      /##    ##    ##      /###    
+## / ###    / ###   ##    ##     / ###  / 
+##/   ###  /   ###  ##    ##    /   ###/  
+##     ## ##    ### ##    ##   ##    ##   
+##     ## ########  ##    ##   ##    ##   
+##     ## #######   ##    ##   ##    ##   
+##     ## ##        ##    ##   ##    ##   
+##     ## ####    / ##    ##   ##    ##   
+##     ##  ######/  ### / ### / ######    
+ ##    ##   #####    ##/   ##/   ####   c 
+       /                                o 
+      /                                 m 
+     /                                  m 
+    /                                   a 
+                                                                     
+                                          ###         ##     ###     
+                                           ###         ##     ###    
+                                            ##         ##      ##    
+##                                          ##         ##      ##    
+##                                          ##         ##      ##    
+ ##    ###    ####      /###   ###  /###    ##     ### ##      ##    
+  ##    ###     ###  / / ###  / ###/ #### / ##    #########    ##    
+  ##     ###     ###/ /   ###/   ##   ###/  ##   ##   ####     ##    
+  ##      ##      ## ##    ##    ##         ##   ##    ##      ##    
+  ##      ##      ## ##    ##    ##         ##   ##    ##      ### / 
+  ##      ##      ## ##    ##    ##         ##   ##    ##       ##/  
+  ##      ##      ## ##    ##    ##         ##   ##    ##            
+  ##      /#      /  ##    ##    ##         ##   ##    /#       #    
+   ######/ ######/    ######     ###        ### / ####/        ###   
+    #####   #####      ####       ###        ##/   ###          #    
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+```
+
+### Caligraphy.flf:
 
 ```text
                                                  
@@ -1257,7 +1780,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
                                                                     
 ```
 
-### fonts/Caligraphy2.flf:
+### Caligraphy2.flf:
 
 ```text
                                           
@@ -1302,7 +1825,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
                                                                      
 ```
 
-### fonts/Calvin S.flf:
+### Calvin S.flf:
 
 ```text
 ┬ ┬┌─┐┬  ┬  ┌─┐   ┬ ┬┌─┐┬─┐┬  ┌┬┐┬
@@ -1310,7 +1833,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 ┴ ┴└─┘┴─┘┴─┘└─┘┘  └┴┘└─┘┴└─┴─┘─┴┘o
 ```
 
-### fonts/Cards.flf:
+### Cards.flf:
 
 ```text
 .------..------..------..------..------..------.
@@ -1327,7 +1850,7 @@ Y88b    e    /  e88~-_  888-~\ 888  e88~\888 !Y88!
 `------'`------'`------'`------'`------'`------'
 ```
 
-### fonts/Catwalk.flf:
+### Catwalk.flf:
 
 ```text
                    _// _//             
@@ -1348,7 +1871,7 @@ _///    _///   _//    _///   _/// _// _//_//
                                             
 ```
 
-### fonts/Chiseled.flf:
+### Chiseled.flf:
 
 ```text
  ,--.-,,-,--,    ,----.                        _,.---._           
@@ -1371,7 +1894,7 @@ _///    _///   _//    _///   _/// _// _//_//
   `--`  `--`      `--`--''   `--`-`--`--'`--`-----'`-.`.____.'   `=`     
 ```
 
-### fonts/Chunky.flf:
+### Chunky.flf:
 
 ```text
  __           __ __                                     __     __ __ 
@@ -1381,7 +1904,13 @@ _///    _///   _//    _///   _/// _// _//_//
                            |_|                                       
 ```
 
-### fonts/Coinstak.flf:
+### circle.tlf:
+
+```text
+ⓗⓔⓛⓛⓞ, ⓦⓞⓡⓛⓓ!
+```
+
+### Coinstak.flf:
 
 ```text
                    O)) O))             
@@ -1402,7 +1931,7 @@ O)))    O)))   O))    O)))   O))) O)) O))O))
                                             
 ```
 
-### fonts/Cola.flf:
+### Cola.flf:
 
 ```text
                  .;    .;                               .;         .;. 
@@ -1413,7 +1942,7 @@ O)))    O)))   O))    O)))   O))) O)) O))O))
                                '                                       
 ```
 
-### fonts/Colossal.flf:
+### Colossal.flf:
 
 ```text
 888             888888            
@@ -1440,7 +1969,7 @@ Y88b 888 d88PY88..88P888    888Y88b 888 "
                                            
 ```
 
-### fonts/Computer.flf:
+### Computer.flf:
 
 ```text
                                                                      8  
@@ -1452,7 +1981,7 @@ e   e eeee e     e     eeeee       e   e  e eeeee eeeee  e     eeeee 88
                               8                                         
 ```
 
-### fonts/Contessa.flf:
+### Contessa.flf:
 
 ```text
 .     ..                    .  . | 
@@ -1461,7 +1990,7 @@ e   e eeee e     e     eeeee       e   e  e eeeee eeeee  e     eeeee 88
             '                      
 ```
 
-### fonts/Contrast.flf:
+### Contrast.flf:
 
 ```text
 .%%..%%..%%%%%%..%%......%%.......%%%%..........
@@ -1478,7 +2007,7 @@ e   e eeee e     e     eeeee       e   e  e eeeee eeeee  e     eeeee 88
 .................................................
 ```
 
-### fonts/Cosmike.flf:
+### cosmic.flf:
 
 ```text
   ::   .: .,::::::   :::      :::         ...        
@@ -1495,7 +2024,24 @@ e   e eeee e     e     eeeee       e   e  e eeeee eeeee  e     eeeee 88
      "M "M"    "YMMMMMP" MMMM   "W" """"YUMMMMMMMP"`   MM
 ```
 
-### fonts/Crawford.flf:
+### Cosmike.flf:
+
+```text
+  ::   .: .,::::::   :::      :::         ...        
+ ,;;   ;;,;;;;''''   ;;;      ;;;      .;;;;;;;.     
+,[[[,,,[[[ [[cccc    [[[      [[[     ,[[     \[[,   
+"$$$"""$$$ $$""""    $$'      $$'     $$$,     $$$   
+ 888   "88o888oo,__ o88oo,.__o88oo,.__"888,_ _,88Pd8b
+ MMM    YMM""""YUMMM""""YUMMM""""YUMMM  "YMMMMMP" ,M"
+.::    .   .:::  ...    :::::::..    :::   :::::::-.   .:
+';;,  ;;  ;;;'.;;;;;;;. ;;;;``;;;;   ;;;    ;;,   `';,;;;
+ '[[, [[, [[',[[     \[[,[[[,/[[['   [[[    `[[     [['[[
+   Y$c$$$c$P $$$,     $$$$$$$$$c     $$'     $$,    $$ $$
+    "88"888  "888,_ _,88P888b "88bo,o88oo,.__888_,o8P' ""
+     "M "M"    "YMMMMMP" MMMM   "W" """"YUMMMMMMMP"`   MM
+```
+
+### Crawford.flf:
 
 ```text
  __ __    ___  _      _       ___      
@@ -1516,7 +2062,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                           
 ```
 
-### fonts/Crawford2.flf:
+### Crawford2.flf:
 
 ```text
  __ __    ___  _      _       ___      
@@ -1537,7 +2083,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                           
 ```
 
-### fonts/Crazy.flf:
+### Crazy.flf:
 
 ```text
                                               .-'''-.         
@@ -1568,7 +2114,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                                         `''--'  
 ```
 
-### fonts/Cricket.flf:
+### Cricket.flf:
 
 ```text
  __          __ __                                __    __ __ 
@@ -1581,7 +2127,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                                               
 ```
 
-### fonts/Cursive.flf:
+### Cursive.flf:
 
 ```text
           _  _                     _      
@@ -1592,7 +2138,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                           
 ```
 
-### fonts/Cyberlarge.flf:
+### Cyberlarge.flf:
 
 ```text
  _     _ _______                _____   
@@ -1605,7 +2151,7 @@ l  `  '  !|     ||    \ |     T|     | __
                                            
 ```
 
-### fonts/Cybermedium.flf:
+### Cybermedium.flf:
 
 ```text
 _  _ ____ _    _    ____      _ _ _ ____ ____ _    ___    /
@@ -1614,14 +2160,14 @@ _  _ ____ _    _    ____      _ _ _ ____ ____ _    ___    /
                          '                                 
 ```
 
-### fonts/Cybersmall.flf:
+### Cybersmall.flf:
 
 ```text
  _  _ ____ _    _    ____     _  _ ____ ____ _    ___  /
  |--| |=== |___ |___ [__] ,   |/\| [__] |--< |___ |__>. 
 ```
 
-### fonts/Cygnet.flf:
+### Cygnet.flf:
 
 ```text
                                    .
@@ -1631,7 +2177,7 @@ _  _ ____ _    _    ____      _ _ _ ____ ____ _    ___    /
                                     
 ```
 
-### fonts/DANC4.flf:
+### DANC4.flf:
 
 ```text
 \O/  \O/   |_O   |_O    \O/   O/  \O/\O/    |_O  '\   /`
@@ -1640,49 +2186,7 @@ _  _ ____ _    _    ____      _ _ _ ____ ____ _    ___    /
 _|_./   \,    |_    |_   |_   |_   |__|        |_   O\  
 ```
 
-### fonts/DOS Rebel.flf:
-
-```text
- █████               ████  ████              
-░░███               ░░███ ░░███              
- ░███████    ██████  ░███  ░███   ██████     
- ░███░░███  ███░░███ ░███  ░███  ███░░███    
- ░███ ░███ ░███████  ░███  ░███ ░███ ░███    
- ░███ ░███ ░███░░░   ░███  ░███ ░███ ░███    
- ████ █████░░██████  █████ █████░░██████   ██
-░░░░ ░░░░░  ░░░░░░  ░░░░░ ░░░░░  ░░░░░░   ██ 
-                                         ░░  
-                                             
-                                             
-                                    ████      █████ ███
-                                   ░░███     ░░███ ░███
- █████ ███ █████  ██████  ████████  ░███   ███████ ░███
-░░███ ░███░░███  ███░░███░░███░░███ ░███  ███░░███ ░███
- ░███ ░███ ░███ ░███ ░███ ░███ ░░░  ░███ ░███ ░███ ░███
- ░░███████████  ░███ ░███ ░███      ░███ ░███ ░███ ░░░ 
-  ░░████░████   ░░██████  █████     █████░░████████ ███
-   ░░░░ ░░░░     ░░░░░░  ░░░░░     ░░░░░  ░░░░░░░░ ░░░ 
-                                                       
-                                                       
-                                                       
-```
-
-### fonts/DWhistled.flf:
-
-```text
-h llo, worl  
- X         X 
- X         X 
- X         X 
- X         X 
- X         X 
- .         X 
-             
-hello, world!
-             
-```
-
-### fonts/Dancing Font.flf:
+### Dancing Font.flf:
 
 ```text
   _   _  U _____ u  _       _       U  ___ u  
@@ -1701,13 +2205,32 @@ U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)
  \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_) (__)_) 
 ```
 
-### fonts/Decimal.flf:
+### dancingfont.flf:
+
+```text
+  _   _  U _____ u  _       _       U  ___ u  
+ |'| |'| \| ___"|/ |"|     |"|       \/"_ \/  
+/| |_| |\ |  _|" U | | u U | | u     | | | |  
+U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |  
+ |_| |_|  |_____|  |_____| |_____|\_)-\___/_  
+ //   \\  <<   >>  //  \\  //  \\      \\ (") 
+(_") ("_)(__) (__)(_")("_)(_")("_)    (__) \| 
+                U  ___ u   ____      _      ____    _    
+ __        __    \/"_ \/U |  _"\ u  |"|    |  _"\ U|"|u  
+ \"\      /"/    | | | | \| |_) |/U | | u /| | | |\| |/  
+ /\ \ /\ / /\.-,_| |_| |  |  _ <   \| |/__U| |_| |\|_|   
+U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)   
+.-,_\ /\ /_,-.     \\     //   \\_  //  \\  |||_   |||_  
+ \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_) (__)_) 
+```
+
+### Decimal.flf:
 
 ```text
 104 101 108 108 111 44  119 111 114 108 100 33 
 ```
 
-### fonts/Def Leppard.flf:
+### Def Leppard.flf:
 
 ```text
                                                              
@@ -1744,7 +2267,44 @@ U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)
                                                          L:               
 ```
 
-### fonts/Delta Corps Priest 1.flf:
+### defleppard.flf:
+
+```text
+                                                             
+                                                       :     
+                     ,;                               t#,    
+ .    .            f#i            i              i   ;##W.   
+ Di   Dt         .E#t            LE             LE  :#L:WE   
+ E#i  E#i       i#W,            L#E            L#E .KG  ,#D  
+ E#t  E#t      L#D.            G#W.           G#W. EE    ;#f 
+ E#t  E#t    :K#Wfff;         D#K.           D#K. f#.     t#i
+ E########f. i##WLLLLt       E#K.           E#K.  :#G     GK 
+ E#j..K#j...  .E#L         .E#E.          .E#E.    ;#L   LW. 
+ E#t  E#t       f#E:      .K#E           .K#E       t#f f#:  
+ E#t  E#t        ,WW;    .K#D           .K#D         f#D#; ; 
+ f#t  f#t         .D#;  .W#G           .W#G           G#t t#i
+  ii   ii           tt :W##########Wt :W##########Wt   t  .W.
+                       :,,,,,,,,,,,,,.:,,,,,,,,,,,,,.      : 
+                                                             
+                                                         ;                
+                         :                               ED.              
+                        t#,                              E#Wi             
+                       ;##W.   j.                    i   E###G.       ;f. 
+           ;          :#L:WE   EW,                  LE   E#fD#W;      i##:
+         .DL         .KG  ,#D  E##j                L#E   E#t t##L     i##:
+ f.     :K#L     LWL EE    ;#f E###D.             G#W.   E#t  .E#K,   i##:
+ EW:   ;W##L   .E#f f#.     t#iE#jG#W;           D#K.    E#t    j##f  i##:
+ E#t  t#KE#L  ,W#;  :#G     GK E#t t##f         E#K.     E#t    :E#K: i##:
+ E#t f#D.L#L t#K:    ;#L   LW. E#t  :K#E:     .E#E.      E#t   t##L   i##:
+ E#jG#f  L#LL#G       t#f f#:  E#KDDDD###i   .K#E        E#t .D#W;    i##:
+ E###;   L###j         f#D#;   E#f,t#Wi,,,  .K#D         E#tiW#G.     i#W.
+ E#K:    L#W;           G#t    E#t  ;#W:   .W#G          E#K##i       ,i. 
+ EG      LE.             t     DWi   ,KK: :W##########Wt E##D.        :G#:
+ ;       ;@                               :,,,,,,,,,,,,,.E#t          iKt 
+                                                         L:               
+```
+
+### Delta Corps Priest 1.flf:
 
 ```text
    ▄█    █▄       ▄████████  ▄█        ▄█        ▄██████▄  
@@ -1767,7 +2327,7 @@ U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)
                          ███    ███ ▀                    
 ```
 
-### fonts/Diamond.flf:
+### Diamond.flf:
 
 ```text
                    /\\ /\\             
@@ -1788,7 +2348,7 @@ U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)
                                             
 ```
 
-### fonts/Diet Cola.flf:
+### Diet Cola.flf:
 
 ```text
                   .    .    ,                       .     .     
@@ -1799,7 +2359,18 @@ _.'    |(__.'_/_.-_/_.-`-'    (_.' `-'  `-'/   _/_.-`-'-...-.
                                                           `-'   
 ```
 
-### fonts/Digital.flf:
+### dietcola.flf:
+
+```text
+                  .    .    ,                       .     .     
+     /           /    /                            /     /  __  
+    /-.   .-.   /    / .-._.   `)    (  .-._.).--./ .-../  |  / 
+   /   |./.-'_ /    / (   )    /  .   )(   )/    / (   /   |_/  
+_.'    |(__.'_/_.-_/_.-`-'    (_.' `-'  `-'/   _/_.-`-'-...-.   
+                                                          `-'   
+```
+
+### Digital.flf:
 
 ```text
 +-+-+-+-+-+-+ +-+-+-+-+-+-+
@@ -1807,7 +2378,7 @@ _.'    |(__.'_/_.-_/_.-`-'    (_.' `-'  `-'/   _/_.-`-'-...-.
 +-+-+-+-+-+-+ +-+-+-+-+-+-+
 ```
 
-### fonts/Doh.flf:
+### Doh.flf:
 
 ```text
                                                                                
@@ -1887,7 +2458,7 @@ llllllll   ddddddddd   ddddd !!!
                                  
 ```
 
-### fonts/Doom.flf:
+### Doom.flf:
 
 ```text
  _          _ _                             _     _ _ 
@@ -1900,7 +2471,50 @@ llllllll   ddddddddd   ddddd !!!
                                                       
 ```
 
-### fonts/Dot Matrix.flf:
+### DOS Rebel.flf:
+
+```text
+ █████               ████  ████              
+░░███               ░░███ ░░███              
+ ░███████    ██████  ░███  ░███   ██████     
+ ░███░░███  ███░░███ ░███  ░███  ███░░███    
+ ░███ ░███ ░███████  ░███  ░███ ░███ ░███    
+ ░███ ░███ ░███░░░   ░███  ░███ ░███ ░███    
+ ████ █████░░██████  █████ █████░░██████   ██
+░░░░ ░░░░░  ░░░░░░  ░░░░░ ░░░░░  ░░░░░░   ██ 
+                                         ░░  
+                                             
+                                             
+                                    ████      █████ ███
+                                   ░░███     ░░███ ░███
+ █████ ███ █████  ██████  ████████  ░███   ███████ ░███
+░░███ ░███░░███  ███░░███░░███░░███ ░███  ███░░███ ░███
+ ░███ ░███ ░███ ░███ ░███ ░███ ░░░  ░███ ░███ ░███ ░███
+ ░░███████████  ░███ ░███ ░███      ░███ ░███ ░███ ░░░ 
+  ░░████░████   ░░██████  █████     █████░░████████ ███
+   ░░░░ ░░░░     ░░░░░░  ░░░░░     ░░░░░  ░░░░░░░░ ░░░ 
+                                                       
+                                                       
+                                                       
+```
+
+### dosrebel.flf:
+
+```text
+                                                             
+                                                            
+       
+       
+       
+       
+   
+   
+                                                                               
+                                       
+                                 
+```
+
+### Dot Matrix.flf:
 
 ```text
  _                           _  _     _  _                                
@@ -1925,7 +2539,32 @@ llllllll   ddddddddd   ddddd !!!
                                                                              
 ```
 
-### fonts/Double Shorts.flf:
+### dotmatrix.flf:
+
+```text
+ _                           _  _     _  _                                
+(_)                         (_)(_)   (_)(_)                               
+(_) _  _  _     _  _  _  _     (_)      (_)      _  _  _                  
+(_)(_)(_)(_)_  (_)(_)(_)(_)_   (_)      (_)   _ (_)(_)(_) _               
+(_)        (_)(_) _  _  _ (_)  (_)      (_)  (_)         (_)              
+(_)        (_)(_)(_)(_)(_)(_)  (_)      (_)  (_)         (_)  _  _        
+(_)        (_)(_)_  _  _  _  _ (_) _  _ (_) _(_) _  _  _ (_) (_)(_)       
+(_)        (_)  (_)(_)(_)(_)(_)(_)(_)(_)(_)(_)  (_)(_)(_)    (_)(_)       
+                                                               (_)        
+                                                              (_)         
+                                           _  _               _   _          
+                                          (_)(_)             (_) (_)         
+ _             _     _  _  _    _       _  _ (_)     _  _  _ (_) (_)         
+(_)           (_) _ (_)(_)(_) _(_)_  _ (_)(_)(_)   _(_)(_)(_)(_) (_)         
+(_)     _     (_)(_)         (_) (_)(_)      (_)  (_)        (_) (_)         
+(_)_  _(_)_  _(_)(_)         (_) (_)         (_)  (_)        (_)             
+  (_)(_) (_)(_)  (_) _  _  _ (_) (_)       _ (_) _(_)_  _  _ (_)  _          
+    (_)   (_)       (_)(_)(_)    (_)      (_)(_)(_) (_)(_)(_)(_) (_)         
+                                                                             
+                                                                             
+```
+
+### Double Shorts.flf:
 
 ```text
 __  __ _____ __    __     _____        __    __ _____  _____ __    _____ __ 
@@ -1933,7 +2572,7 @@ __  __ _____ __    __     _____        __    __ _____  _____ __    _____ __
 ||  || ||___ ||__| ||__|  \\_//  //     \V/\V/  \\_//  || \\ ||__| ||_// .. 
 ```
 
-### fonts/Double.flf:
+### Double.flf:
 
 ```text
 __  __ ______   __   ___      __    __ ___ ______   ____ __
@@ -1943,7 +2582,15 @@ __  __ ______   __   ___      __    __ ___ ______   ____ __
                                                            
 ```
 
-### fonts/Dr Pepper.flf:
+### doubleshorts.flf:
+
+```text
+__  __ _____ __    __     _____        __    __ _____  _____ __    _____ __ 
+||==|| ||==  ||    ||    ((   ))       \\ /\ //((   )) ||_// ||    ||  ) || 
+||  || ||___ ||__| ||__|  \\_//  //  _  \V/\V/  \\_//  || \\ ||__| ||_// .. 
+```
+
+### Dr Pepper.flf:
 
 ```text
  _         _  _                           _    _  _ 
@@ -1953,7 +2600,32 @@ __  __ ______   __   ___      __    __ ___ ______   ____ __
                                                     
 ```
 
-### fonts/Efti Chess.flf:
+### drpepper.flf:
+
+```text
+ _         _  _                           _    _  _ 
+| |_  ___ | || | ___     _ _ _  ___  _ _ | | _| || |
+| . |/ ._>| || |/ . \ _ | | | |/ . \| '_>| |/ . ||_/
+|_|_|\___.|_||_|\___/|/ |__/_/ \___/|_|  |_|\___|<_>
+                                                    
+```
+
+### DWhistled.flf:
+
+```text
+h llo, worl  
+ X         X 
+ X         X 
+ X         X 
+ X         X 
+ X         X 
+ .         X 
+             
+hello, world!
+             
+```
+
+### Efti Chess.flf:
 
 ```text
 ###########################         ####################################
@@ -1963,7 +2635,7 @@ __  __ ______   __   ___      __    __ ___ ______   ____ __
 ###########################         ####################################
 ```
 
-### fonts/Efti Font.flf:
+### Efti Font.flf:
 
 ```text
                            ||
@@ -1973,7 +2645,7 @@ Ln\(L|L\_()   VV \_/L| L\_|()
          V                   
 ```
 
-### fonts/Efti Italic.flf:
+### Efti Italic.flf:
 
 ```text
                                           /7
@@ -1983,7 +2655,7 @@ Ln\(L|L\_()   VV \_/L| L\_|()
                /'                           
 ```
 
-### fonts/Efti Piti.flf:
+### Efti Piti.flf:
 
 ```text
              []
@@ -1991,7 +2663,7 @@ hello,  world()
                
 ```
 
-### fonts/Efti Robot.flf:
+### Efti Robot.flf:
 
 ```text
  _         _  _                           _    _  _ 
@@ -2002,7 +2674,7 @@ hello,  world()
                     /'                              
 ```
 
-### fonts/Efti Wall.flf:
+### Efti Wall.flf:
 
 ```text
      ___           |"|         _     _       _     _     #   ___      
@@ -2023,7 +2695,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
 --------
 ```
 
-### fonts/Efti Water.flf:
+### Efti Water.flf:
 
 ```text
  _       _  _                        _    _  _ 
@@ -2032,7 +2704,86 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                   /'                         o 
 ```
 
-### fonts/Electronic.flf:
+### eftichess.flf:
+
+```text
+###########################         ####################################
+##|:+:|####|:+:|#####(:)###         ##/\:/\#####(:)#####[`'`']###|:+:|##
+##(o:o)####(o:o)#####|:|###         #/(o:o)\####|:|######|  |####(o:o)##
+###(:)######(:)######|:|###         ###(:)######|:|######|__|#####(:)###
+###########################         ####################################
+```
+
+### eftifont.flf:
+
+```text
+                           ||
+|| _||||_         _  _ ||||L|
+| Yo\||/o\   \VV7/o\/_||/o|  
+Ln\(L|L\_()   VV \_/L| L\_|()
+         V                   
+```
+
+### eftipiti.flf:
+
+```text
+             []
+hello,  world()
+               
+```
+
+### eftirobot.flf:
+
+```text
+ _         _  _                          _    _  _ 
+( )       ( )( )                        ( )  ( )( )
+| |_  ___ | || | ___     _ _ _  ___  __ | | _| ||_|
+( _ )( o_)( )( )( o )_  ( V V )( o )( _)( )/ o ) _ 
+/_\|| \(  /_\/_\ \_/(_)  \_^_/  \_/ /_\ /_\\___\/_\
+                    /'                             
+```
+
+### eftitalic.flf:
+
+```text
+                                          /7
+  /7  __ /7/7 _             _   _  /7 _//// 
+ / \,'o/////,'o|    /7/7/7,'o| //7//,'o/    
+/n_/|_(//// |_,'()  |,^,' |_,'// //|__/()   
+               /'                           
+```
+
+### eftiwall.flf:
+
+```text
+     ___           |"|         _     _       _     _     #   ___      
+    .|||.         _|_|_      o' \,=./ `o   o' \,=./ `o   #  <_*_>     
+    (o o)         (o o)         (o o)         (o o)      #  (o o)     
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo--8---(_)--Ooo-
+,----------------------------.
+| Ask for other 'efti' fonts |
+_)---------------------------'
+  ----------------------------
+ #  #  #  #    #   ___           !!!         _     _            ...      
+ #  #..#  #    #  <_*_>       `  _ _  '    o' \,=./ `o     o,*,(o o)     
+ #  #O #) #    #  (o o)      -  (OXO)  -      (o o)       8(o o)(_)Ooo   
+o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
+        
+        
+        
+--------
+```
+
+### eftiwater.flf:
+
+```text
+ _       _  _                        _    _  _ 
+ ))_  __ )) )) __     __ _ _ __  __  )) __)) ))
+((`( (('(( (( ((_) _  \(((/'((_)(|  (( ((_( (( 
+                  /'                         o 
+```
+
+### Electronic.flf:
 
 ```text
  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄            ▄            ▄▄▄▄▄▄▄▄▄▄▄ 
@@ -2061,7 +2812,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                                     
 ```
 
-### fonts/Elite.flf:
+### Elite.flf:
 
 ```text
  ▄ .▄▄▄▄ .▄▄▌  ▄▄▌            ▄▄▌ ▐ ▄▌      ▄▄▄  ▄▄▌  ·▄▄▄▄  ▄▄ 
@@ -2071,7 +2822,23 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
 ▀▀▀ · ▀▀▀ .▀▀▀ .▀▀▀  ▀█▄▀▪     ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀.▀▀▀ ▀▀▀▀▀•  ▀ 
 ```
 
-### fonts/Epic.flf:
+### emboss.tlf:
+
+```text
+┃ ┃┏━┛┃  ┃  ┏━┃   ┃┃┃┏━┃┏━┃┃  ┏━ ┃
+┏━┃┏━┛┃  ┃  ┃ ┃   ┃┃┃┃ ┃┏┏┛┃  ┃ ┃┛
+┛ ┛━━┛━━┛━━┛━━┛,  ━━┛━━┛┛ ┛━━┛━━ ┛
+```
+
+### emboss2.tlf:
+
+```text
+║ ║╔═╝║  ║  ╔═║   ║║║╔═║╔═║║  ╔═ ║
+╔═║╔═╝║  ║  ║ ║   ║║║║ ║╔╔╝║  ║ ║╝
+╝ ╝══╝══╝══╝══╝,  ══╝══╝╝ ╝══╝══ ╝
+```
+
+### Epic.flf:
 
 ```text
           _______  _        _        _______    
@@ -2094,7 +2861,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                 
 ```
 
-### fonts/Fender.flf:
+### Fender.flf:
 
 ```text
 '||            '||` '||`                                       '||`     ||` || 
@@ -2106,7 +2873,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                                                
 ```
 
-### fonts/Filter.flf:
+### Filter.flf:
 
 ```text
 888  888   ,d8PPPP 888      888      88888888 ,
@@ -2121,7 +2888,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                         
 ```
 
-### fonts/Fire Font-k.flf:
+### Fire Font-k.flf:
 
 ```text
                                                           ____ 
@@ -2135,7 +2902,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                                
 ```
 
-### fonts/Fire Font-s.flf:
+### Fire Font-s.flf:
 
 ```text
                                                 ____ 
@@ -2149,7 +2916,35 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                      
 ```
 
-### fonts/Flipped.flf:
+### fire_font-k.flf:
+
+```text
+                                                          ____ 
+    )       (   (                              (   (     |   / 
+ ( /(    (  )\  )\           (  (         (    )\  )\ )  |  /  
+ )\())  ))\((_)((_) (        )\))(    (   )(  ((_)(()/(  | /   
+((_)\  /((_)_   _   )\      ((_)()\   )\ (()\  _   ((_)) |/    
+| |(_)(_)) | | | | ((_)  )  _(()((_) ((_) ((_)| |  _| | (      
+| ' \ / -_)| | | |/ _ \ /(  \ V  V // _ \| '_|| |/ _` | )\     
+|_||_|\___||_| |_|\___/(_))  \_/\_/ \___/|_|  |_|\__,_|((_)    
+                                                               
+```
+
+### fire_font-s.flf:
+
+```text
+                                                ____ 
+    )     (  (                         (  (    |   / 
+ ( /(   ( )\ )\         (  (       (   )\ )\ ) |  /  
+ )\()) ))((_|(_)(       )\))(   (  )( ((_|()/( | /   
+((_)\ /((_)  _  )\     ((_)()\  )\(()\ _  ((_))|/    
+| |(_|_))| || |((_) )  _(()((_)((_)((_) | _| |(      
+| ' \/ -_) || / _ \/(  \ V  V / _ \ '_| / _` |)\     
+|_||_\___|_||_\___(_))  \_/\_/\___/_| |_\__,_((_)    
+                                                     
+```
+
+### Flipped.flf:
 
 ```text
  ____  ____               __  ___     ____   __   ____        ____       
@@ -2158,7 +2953,7 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
 |____||_||_||_|   |_|    \__/        |____| \__/ |/\__/|_|   \___/       
 ```
 
-### fonts/Flower Power.flf:
+### Flower Power.flf:
 
 ```text
 .---.  .---.     .-''-.    .---.     .---.       ,-----.          
@@ -2183,7 +2978,32 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
                                                                          
 ```
 
-### fonts/Four Tops.flf:
+### flowerpower.flf:
+
+```text
+.---.  .---.     .-''-.    .---.     .---.       ,-----.          
+|   |  |_ _|   .'_ _   \   | ,_|     | ,_|     .'  .-,  '.        
+|   |  ( ' )  / ( ` )   ',-./  )   ,-./  )    / ,-.|  \ _ \       
+|   '-(_{;}_). (_ o _)  |\  '_ '`) \  '_ '`) ;  \  '_ /  | :      
+|      (_,_) |  (_,_)___| > (_)  )  > (_)  ) |  _`,/ \ _/  |      
+| _ _--.   | '  \   .---.(  .  .-' (  .  .-' : (  '\_/ \   ;_ _   
+|( ' ) |   |  \  `-'    / `-'`-'|___`-'`-'|___\ `"/  \  ) /(_I_)  
+(_{;}_)|   |   \       /   |        \|        \'. \_/``".'(_(=)_) 
+'(_,_) '---'    `'-..-'    `--------``--------`  '-----'   (_I_)  
+                                                                  
+.--.      .--.    ,-----.    .-------.      .---.      ______     .---.  
+|  |_     |  |  .'  .-,  '.  |  _ _   \     | ,_|     |    _ `''. \   /  
+| _( )_   |  | / ,-.|  \ _ \ | ( ' )  |   ,-./  )     | _ | ) _  \|   |  
+|(_ o _)  |  |;  \  '_ /  | :|(_ o _) /   \  '_ '`)   |( ''_'  ) | \ /   
+| (_,_) \ |  ||  _`,/ \ _/  || (_,_).' __  > (_)  )   | . (_) `. |  v    
+|  |/    \|  |: (  '\_/ \   ;|  |\ \  |  |(  .  .-'   |(_    ._) ' _ _   
+|  '  /\  `  | \ `"/  \  ) / |  | \ `'   / `-'`-'|___ |  (_.\.' / (_I_)  
+|    /  \    |  '. \_/``".'  |  |  \    /   |        \|       .' (_(=)_) 
+`---'    `---`    '-----'    ''-'   `'-'    `--------`'-----'`    (_I_)  
+                                                                         
+```
+
+### Four Tops.flf:
 
 ```text
 |       ||                   |   ||
@@ -2192,7 +3012,16 @@ o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
              /                     
 ```
 
-### fonts/Fraktur.flf:
+### fourtops.flf:
+
+```text
+|       ||                   |   ||
+|/~\ /~/||/~\   \    //~\|/~\|/~~||
+|   |\/_||\_/    \/\/ \_/|   |\__|.
+             /                     
+```
+
+### Fraktur.flf:
 
 ```text
                              ..       ..                    
@@ -2227,7 +3056,7 @@ m888N= 888>  "88888%    ^*888%   ^*888%     'Y"      %888*"
                                                                         
 ```
 
-### fonts/Fun Face.flf:
+### Fun Face.flf:
 
 ```text
  \\  //      W  W   W  W       .-.    ,
@@ -2246,7 +3075,7 @@ m888N= 888>  "88888%    ^*888%   ^*888%     'Y"      %888*"
  )      (   `-...-'   )      `-'      (  
 ```
 
-### fonts/Fun Faces.flf:
+### Fun Faces.flf:
 
 ```text
  \\  //  wWw  W  W   W  W       .-.         
@@ -2265,7 +3094,53 @@ m888N= 888>  "88888%    ^*888%   ^*888%     'Y"      %888*"
  )      (   `-...-' (/  \) `-'   \__/ (_)     
 ```
 
-### fonts/Fuzzy.flf:
+### funface.flf:
+
+```text
+ \\  //      W  W   W  W       .-.    ,
+ (o)(o)  wWw(O)(O) (O)(O)    c(O_O)c   
+ ||  ||  (O)_ ||     ||     ,'.---.`,  
+ |(__)| .' __)| \    | \   / /|_|_|\ \ 
+ /.--.\(  _)  |  `.  |  `. | \_____/ | 
+-'    `-`.__)(.-.__)(.-.__)'. `---' .` 
+              `-'    `-'     `-...-'   
+(O))  ((O)    .-.     ))    W  W      _ !
+ ||    ||   c(O_O)c  (Oo)-.(O)(O)   _||\ 
+ || /\ ||  ,'.---.`,  | (_)) ||    (_'\  
+ ||//\\|| / /|_|_|\ \ |  .'  | \   .'  | 
+ / /  \ \ | \_____/ | )|\\   |  `.((_) | 
+( /    \ )'. `---' .`(/  \) (.-.__)`-`.) 
+ )      (   `-...-'   )      `-'      (  
+```
+
+### funfaces.flf:
+
+```text
+ \\  //  wWw  W  W   W  W       .-.         
+ (o)(o)  (O)_(O)(O) (O)(O)    c(O_O)c       
+ ||  ||  / __) ||     ||     ,'.---.`,      
+ |(__)| / (    | \    | \   / /|_|_|\ \     
+ /.--.\(  _)   |  `.  |  `. | \_____/ | __  
+-'    `-\ \_  (.-.__)(.-.__)'. `---' .`(  ) 
+         \__)  `-'    `-'     `-...-'   )/  
+(O))  ((O)    .-.   ()_() W  W    _     .--.  
+ ||    ||   c(O_O)c (O o)(O)(O)  /||_  (O)(O) 
+ || /\ ||  ,'.---.`, |^_\  ||     /o_) | o /  
+ ||//\\|| / /|_|_|\ \|(_)) | \   / |(\ |`-/   
+ / /  \ \ | \_____/ ||  /  |  `. | | ))|_/    
+( /    \ )'. `---' .`)|\\ (.-.__)| |// _      
+ )      (   `-...-' (/  \) `-'   \__/ (_)     
+```
+
+### future.tlf:
+
+```text
+╻ ╻┏━╸╻  ╻  ┏━┓     ╻ ╻┏━┓┏━┓╻  ╺┳┓╻
+┣━┫┣╸ ┃  ┃  ┃ ┃     ┃╻┃┃ ┃┣┳┛┃   ┃┃╹
+╹ ╹┗━╸┗━╸┗━╸┗━┛ ┛   ┗┻┛┗━┛╹┗╸┗━╸╺┻┛╹
+```
+
+### Fuzzy.flf:
 
 ```text
 .-.         .-.  .-.                                 .-.     .-..-.
@@ -2277,7 +3152,7 @@ m888N= 888>  "88888%    ^*888%   ^*888%     'Y"      %888*"
                                                                    
 ```
 
-### fonts/Georgi16.flf:
+### Georgi16.flf:
 
 ```text
                                          
@@ -2314,7 +3189,7 @@ ____    _    ___   _____   ___  __  MM   ____MM (M)
                                                     
 ```
 
-### fonts/Georgia11.flf:
+### Georgia11.flf:
 
 ```text
                                            
@@ -2341,7 +3216,7 @@ ____    _    ___   _____   ___  __  MM   ____MM (M)
                                                    
 ```
 
-### fonts/Ghost.flf:
+### Ghost.flf:
 
 ```text
  ('-. .-.   ('-.                                      
@@ -2364,7 +3239,7 @@ ____    _    ___   _____   ___  __  MM   ____MM (M)
 '--'   '--'       `-----' `--' '--' `------' `-------' '--'  
 ```
 
-### fonts/Ghoulish.flf:
+### Ghoulish.flf:
 
 ```text
      .'(   )\.---.   .')       .')         .-./(       
@@ -2383,7 +3258,7 @@ ____    _    ___   _____   ___  __  MM   ____MM (M)
                                                        
 ```
 
-### fonts/Glenyn.flf:
+### Glenyn.flf:
 
 ```text
 _  _ ____ __   __   ____        _  _ ____ ____ __   ___  ___  
@@ -2392,7 +3267,7 @@ _  _ ____ __   __   ____        _  _ ____ ____ __   ___  ___
 |/ |/|___/|___/|___/|___/ '-/   |/\/ |___/|/\_/|___/|___/|__/ 
 ```
 
-### fonts/Goofy.flf:
+### Goofy.flf:
 
 ```text
     ___    _        __     ____     ______     ________
@@ -2409,7 +3284,7 @@ _  _ ____ __   __   ____        _  _ ____ ____ __   ___  ___
 __\      /_____)   (___| |_\ \_/      )_|    /___(  )__
 ```
 
-### fonts/Gothic.flf:
+### Gothic.flf:
 
 ```text
                                                                 
@@ -2423,7 +3298,7 @@ __\      /_____)   (___| |_\ \_/      )_|    /___(  )__
                                                                 
 ```
 
-### fonts/Graceful.flf:
+### Graceful.flf:
 
 ```text
  _  _  ____  __    __     __        _  _   __  ____  __    ____  _   
@@ -2432,7 +3307,7 @@ __\      /_____)   (___| |_\ \_/      )_|    /___(  )__
 \_)(_/(____)\____/\____/ \__/ (/   (_/\_) \__/(__\_)\____/(____/(_)  
 ```
 
-### fonts/Gradient.flf:
+### Gradient.flf:
 
 ```text
 eee..eee.eeeeee.eee....eee.....eeeeee.......
@@ -2455,7 +3330,7 @@ eee..eee..eee..eeeeee..eeeeeee..eee....eeeeeee...e..
                                                     
 ```
 
-### fonts/Graffiti.flf:
+### Graffiti.flf:
 
 ```text
 .__           .__  .__                                  .__       .___._.
@@ -2466,7 +3341,7 @@ eee..eee..eee..eeeeee..eeeeeee..eee....eeeeeee...e..
      \/     \/                  )/                                 \/  \/
 ```
 
-### fonts/Greek.flf:
+### Greek.flf:
 
 ```text
                                                                  
@@ -2480,7 +3355,7 @@ eee..eee..eee..eeeeee..eeeeeee..eee....eeeeeee...e..
     |_|                                        |_|               
 ```
 
-### fonts/Heart Left.flf:
+### Heart Left.flf:
 
 ```text
  .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-. 
@@ -2489,7 +3364,7 @@ eee..eee..eee..eeeeee..eeeeeee..eee....eeeeeee...e..
                                                                               
 ```
 
-### fonts/Heart Right.flf:
+### Heart Right.flf:
 
 ```text
 .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.  
@@ -2498,7 +3373,25 @@ eee..eee..eee..eeeeee..eeeeeee..eee....eeeeeee...e..
                                                                               
 ```
 
-### fonts/Henry 3D.flf:
+### heart_left.flf:
+
+```text
+ .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-. 
+( h .'( e .'( l .'( l .'( o .'( , .'.-.-.( w .'( o .'( r .'( l .'( d .'( ! .' 
+ `.(   `.(   `.(   `.(   `.(   '.(  '._.' `.(   `.(   `.(   `.(   `.(   `.(   
+                                                                              
+```
+
+### heart_right.flf:
+
+```text
+.-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.  
+'. h )'. e )'. l )'. l )'. o )'. , ).-.-.'. w )'. o )'. r )'. l )'. d )'. ! ) 
+  ).'   ).'   ).'   ).'   ).'   ).' '._.'  ).'   ).'   ).'   ).'   ).'   ).'  
+                                                                              
+```
+
+### Henry 3D.flf:
 
 ```text
    _                 __  __               
@@ -2519,13 +3412,34 @@ J\__//\\__/LJ\______/FJ__L     J__LJ\____,__LJ__L
                                                  
 ```
 
-### fonts/Hex.flf:
+### henry3d.flf:
+
+```text
+   _                 __  __               
+  FJ___      ____    LJ  LJ    ____       
+ J  __ `.   F __ J   FJ  FJ   F __ J      
+ | |--| |  | _____J J  LJ  L | |--| |     
+ F L  J J  F L___--.J  LJ  L F L__J J  __ 
+J__L  J__LJ\______/FJ__LJ__LJ\______/FJ  L
+|__L  J__| J______F |__||__| J______F |_F 
+                                      |_F 
+                                __       _    __ 
+   _    _      ____     _ ___   LJ    ___FJ   LJ 
+  FJ .. L]    F __ J   J '__ ", FJ   F __  L  FJ 
+ | |/  \| |  | |--| |  | |__|-JJ  L | |--| | J__L
+ F   /\   J  F L__J J  F L  `-'J  L F L__J J  __ 
+J\__//\\__/LJ\______/FJ__L     J__LJ\____,__LJ__L
+ \__/  \__/  J______F |__L     |__| J____,__F|__|
+                                                 
+```
+
+### Hex.flf:
 
 ```text
 68 65 6C 6C 6F 2C  77 6F 72 6C 64 21 
 ```
 
-### fonts/Hieroglyphs.flf:
+### Hieroglyphs.flf:
 
 ```text
                     ,-.       ,-.  ,-.       ,-.      ,
@@ -2538,7 +3452,7 @@ J\__//\\__/LJ\______/FJ__L     J__LJ\____,__LJ__L
  .'   (_)   '.___.' ,_(__/ ,_(__\    `----'  -'  
 ```
 
-### fonts/Hollywood.flf:
+### Hollywood.flf:
 
 ```text
                                       
@@ -2563,7 +3477,7 @@ _|/' |/(__(___,/' /'        (__(___,/(__ O
                                                      
 ```
 
-### fonts/Horizontal Left.flf:
+### Horizontal Left.flf:
 
 ```text
  _______   _______   _______   _______   _______      
@@ -2580,7 +3494,7 @@ _|/' |/(__(___,/' /'        (__(___,/(__ O
                                                       
 ```
 
-### fonts/Horizontal Right.flf:
+### Horizontal Right.flf:
 
 ```text
  _______   _______   _______   _______   _______      
@@ -2597,7 +3511,41 @@ _|/' |/(__(___,/' /'        (__(___,/(__ O
                                                       
 ```
 
-### fonts/ICL-1900.flf:
+### horizontalleft.flf:
+
+```text
+ _______   _______   _______   _______   _______      
+\__   __\ | ._ _. | /______ \ /______ \ /  ____ \     
+ __| |__  | \ v / |       / |       / | | /___/ |     
+\_______\ |_/   \_|       \_|       \_| \_______/  _  
+                                                  )_/ 
+                                                      
+ _______   _______   _______   _______   _______   _  
+`._   __| /  ____ \ / ___  _| /______ \ |  ___  | | | 
+  _> >__  | /___/ | | \_/  \        / | | '._.' | | | 
+.`______| \_______/ `.__.`\_|       \_| '._____.' | | 
+                                                  (_) 
+                                                      
+```
+
+### horizontalright.flf:
+
+```text
+ _______   _______   _______   _______   _______      
+\__   __\ | ._ _. | / ______\ / ______\ /  ____ \     
+ __| |__  | \ v / | | \       | \       | /___/ |     
+\_______\ |_/   \_| |_/       |_/       \_______/  _  
+                                                  )_/ 
+                                                      
+ _______   _______   _______   _______   _______   _  
+|__   _.' /  ____ \ |_  ___ \ / ______\ |  ___  | | | 
+ __< <_   | /___/ |  /  \_/ | | \       | '._.' | | | 
+|______'. \_______/ |_/'.__.' |_/       '._____.' | | 
+                                                  (_) 
+                                                      
+```
+
+### ICL-1900.flf:
 
 ```text
 hello, world!
@@ -2615,7 +3563,7 @@ hello, world!
          *   
 ```
 
-### fonts/Impossible.flf:
+### Impossible.flf:
 
 ```text
          _       _    _            _             _             _           
@@ -2644,7 +3592,7 @@ hello, world!
                                                                               
 ```
 
-### fonts/Invita.flf:
+### Invita.flf:
 
 ```text
                                                /  
@@ -2655,7 +3603,7 @@ hello, world!
                                                   
 ```
 
-### fonts/Isometric1.flf:
+### Isometric1.flf:
 
 ```text
       ___           ___           ___       ___       ___     
@@ -2682,7 +3630,7 @@ hello, world!
      \/__/         \/__/         \|__|         \/__/     ~~       
 ```
 
-### fonts/Isometric2.flf:
+### Isometric2.flf:
 
 ```text
       ___           ___                                       ___     
@@ -2709,7 +3657,7 @@ hello, world!
      \/__/         \/__/         \/__/         \/__/         \/__/    
 ```
 
-### fonts/Isometric3.flf:
+### Isometric3.flf:
 
 ```text
       ___           ___                                       ___     
@@ -2736,7 +3684,7 @@ hello, world!
      \__\/         \__\/         \__\/                                
 ```
 
-### fonts/Isometric4.flf:
+### Isometric4.flf:
 
 ```text
       ___           ___           ___       ___       ___     
@@ -2763,7 +3711,7 @@ hello, world!
      \__\/         \__\/         \__\|         \__\/        ~~    
 ```
 
-### fonts/Italic.flf:
+### Italic.flf:
 
 ```text
                         
@@ -2772,7 +3720,7 @@ hello, world!
                         
 ```
 
-### fonts/Ivrit.flf:
+### Ivrit.flf:
 
 ```text
                            _     _ _                            _ _      _     
@@ -2783,53 +3731,7 @@ hello, world!
                                                         |/                     
 ```
 
-### fonts/JS Block Letters.flf:
-
-```text
- _   _  ____  _     _     ____    __    __ ____ _____  _     ____ 
-| |_| || ===|| |__ | |__ / () \   \ \/\/ // () \| () )| |__ | _) \
-|_| |_||____||____||____|\____/    \_/\_/ \____/|_|\_\|____||____/
-```
-
-### fonts/JS Bracket Letters.flf:
-
-```text
-.-. .-..----..-.   .-.    .----.    .-. . .-. .----. .----. .-.   .----. 
-| {_} || {_  | |   | |   /  {}  \   | |/ \| |/  {}  \| {}  }| |   | {}  \
-| { } || {__ | `--.| `--.\      /   |  .'.  |\      /| .-. \| `--.|     /
-`-' `-'`----'`----'`----' `----'    `-'   `-' `----' `-' `-'`----'`----' 
-```
-
-### fonts/JS Capital Curves.flf:
-
-```text
- __   _, ____, __    __    ____,,    __    _, ____, ___,   __    ____,!
-(-|__|  (-|_, (-|   (-|   (-/  \    (-| | |  (-/  \(-|_)  (-|   (-|  \ 
- _|  |_, _|__, _|__, _|__,  \__/     _|_|_|    \__/ _| \_, _|__, _|__/ 
-(       (     (     (               (              (      (     (      
-```
-
-### fonts/JS Cursive.flf:
-
-```text
-            _   _                          _      
-  /_   _   //  //  _,_        ,_ _,_ ,_   //  __/ 
-_/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
-                                                  
-                                                  
-                                                  
-```
-
-### fonts/JS Stick Letters.flf:
-
-```text
-      ___            __             __   __        __    /
-|__| |__  |    |    /  \      |  | /  \ |__) |    |  \  / 
-|  | |___ |___ |___ \__/ .    |/\| \__/ |  \ |___ |__/ .  
-                         '                                
-```
-
-### fonts/Jacky.flf:
+### Jacky.flf:
 
 ```text
  __    __    _____   _____       _____         ____         
@@ -2850,7 +3752,7 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
                                                                      
 ```
 
-### fonts/Jazmine.flf:
+### Jazmine.flf:
 
 ```text
                                                                  
@@ -2865,7 +3767,7 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ```
 
-### fonts/Jerusalem.flf:
+### Jerusalem.flf:
 
 ```text
                                                                                
@@ -2884,7 +3786,53 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
                                                          |_|                   
 ```
 
-### fonts/Katakana.flf:
+### JS Block Letters.flf:
+
+```text
+ _   _  ____  _     _     ____    __    __ ____ _____  _     ____ 
+| |_| || ===|| |__ | |__ / () \   \ \/\/ // () \| () )| |__ | _) \
+|_| |_||____||____||____|\____/    \_/\_/ \____/|_|\_\|____||____/
+```
+
+### JS Bracket Letters.flf:
+
+```text
+.-. .-..----..-.   .-.    .----.    .-. . .-. .----. .----. .-.   .----. 
+| {_} || {_  | |   | |   /  {}  \   | |/ \| |/  {}  \| {}  }| |   | {}  \
+| { } || {__ | `--.| `--.\      /   |  .'.  |\      /| .-. \| `--.|     /
+`-' `-'`----'`----'`----' `----'    `-'   `-' `----' `-' `-'`----'`----' 
+```
+
+### JS Capital Curves.flf:
+
+```text
+ __   _, ____, __    __    ____,,    __    _, ____, ___,   __    ____,!
+(-|__|  (-|_, (-|   (-|   (-/  \    (-| | |  (-/  \(-|_)  (-|   (-|  \ 
+ _|  |_, _|__, _|__, _|__,  \__/     _|_|_|    \__/ _| \_, _|__, _|__/ 
+(       (     (     (               (              (      (     (      
+```
+
+### JS Cursive.flf:
+
+```text
+            _   _                          _      
+  /_   _   //  //  _,_        ,_ _,_ ,_   //  __/ 
+_/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
+                                                  
+                                                  
+                                                  
+```
+
+### JS Stick Letters.flf:
+
+```text
+      ___            __             __   __        __    /
+|__| |__  |    |    /  \      |  | /  \ |__) |    |  \  / 
+|  | |___ |___ |___ \__/ .    |/\| \__/ |  \ |___ |__/ .  
+                         '                                
+```
+
+### Katakana.flf:
 
 ```text
          #                                  #   #     
@@ -2905,7 +3853,7 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
                                             
 ```
 
-### fonts/Kban.flf:
+### Kban.flf:
 
 ```text
 '||              '||  '||          , 
@@ -2924,7 +3872,7 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
                                                
 ```
 
-### fonts/Keyboard.flf:
+### Keyboard.flf:
 
 ```text
                                                  
@@ -2947,7 +3895,7 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
                                                  
 ```
 
-### fonts/Knob.flf:
+### Knob.flf:
 
 ```text
  _________  _________  _________  _________  _________ ,
@@ -2960,21 +3908,97 @@ _/ (__(/__(/__(/__(_/    _/_/_/_(_/_/ (__(/__(_/(_
 (_________)(_________)(__/(_____)(_)          (_____)             
 ```
 
-### fonts/Konto Slant.flf:
+### Konto Slant.flf:
 
 ```text
  / /  / /  /  /1    /   /  /1 / /  /`. !
 // /..  /. /. /./  ,   L/L/  /./  /`.  /. /.- 
 ```
 
-### fonts/Konto.flf:
+### Konto.flf:
 
 ```text
 L.J I.` I   I   , `    ` ^ / , `I.`I   I`. I 
 I I I.. L.. L.. `..' ,    V V  `..' I.L.. I./ . 
 ```
 
-### fonts/LCD.flf:
+### kontoslant.flf:
+
+```text
+ / /  / /  /  /1    /   /  /1 / /  /`. !
+// /..  /. /. /./  ,   L/L/  /./  /`.  /. /.- 
+```
+
+### Larry 3D 2.flf:
+
+```text
+ __              ___    ___                
+/\ \            /\_ \  /\_ \               
+\ \ \___      __\//\ \ \//\ \     ___      
+ \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
+   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
+    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
+                                        \/ 
+                                           
+                          ___       __  __     
+                         /\_ \     /\ \/\ \    
+ __  __  __    ___   _ __\//\ \    \_\ \ \ \   
+/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
+\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
+ \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
+  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
+                                               
+                                               
+```
+
+### Larry 3D.flf:
+
+```text
+ __              ___    ___                
+/\ \            /\_ \  /\_ \               
+\ \ \___      __\//\ \ \//\ \     ___      
+ \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
+   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
+    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
+                                        \/ 
+                                           
+                          ___       __  __     
+                         /\_ \     /\ \/\ \    
+ __  __  __    ___   _ __\//\ \    \_\ \ \ \   
+/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
+\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
+ \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
+  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
+                                               
+                                               
+```
+
+### larry3d.flf:
+
+```text
+ __              ___    ___                
+/\ \            /\_ \  /\_ \               
+\ \ \___      __\//\ \ \//\ \     ___      
+ \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
+   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
+    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
+                                        \/ 
+                                           
+                          ___       __  __     
+                         /\_ \     /\ \/\ \    
+ __  __  __    ___   _ __\//\ \    \_\ \ \ \   
+/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
+\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
+ \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
+  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
+                                               
+                                               
+```
+
+### LCD.flf:
 
 ```text
                                                                               
@@ -2985,53 +4009,7 @@ I I I.. L.. L.. `..' ,    V V  `..' I.L.. I./ .
                                                                               
 ```
 
-### fonts/Larry 3D 2.flf:
-
-```text
- __              ___    ___                
-/\ \            /\_ \  /\_ \               
-\ \ \___      __\//\ \ \//\ \     ___      
- \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
-  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
-   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
-    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
-                                        \/ 
-                                           
-                          ___       __  __     
-                         /\_ \     /\ \/\ \    
- __  __  __    ___   _ __\//\ \    \_\ \ \ \   
-/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
-\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
- \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
-  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
-                                               
-                                               
-```
-
-### fonts/Larry 3D.flf:
-
-```text
- __              ___    ___                
-/\ \            /\_ \  /\_ \               
-\ \ \___      __\//\ \ \//\ \     ___      
- \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
-  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
-   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
-    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
-                                        \/ 
-                                           
-                          ___       __  __     
-                         /\_ \     /\ \/\ \    
- __  __  __    ___   _ __\//\ \    \_\ \ \ \   
-/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
-\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
- \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
-  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
-                                               
-                                               
-```
-
-### fonts/Lean.flf:
+### Lean.flf:
 
 ```text
                                            
@@ -3052,7 +4030,18 @@ _/      _/      _/  _/    _/  _/_/      _/  _/    _/  _/
                                                              
 ```
 
-### fonts/Letters.flf:
+### letter.tlf:
+
+```text
+H   H EEEEE L     L      OOO           W   W  OOO  RRRR  L     DDDD   ! 
+H   H E     L     L     O   O          W   W O   O R   R L     D   D  ! 
+HHHHH EEEE  L     L     O   O          W W W O   O RRRR  L     D   D  ! 
+H   H E     L     L     O   O          W W W O   O R  R  L     D   D    
+H   H EEEEE LLLLL LLLLL  OOO   ,        W W   OOO  R   R LLLLL DDDD   ! 
+                              ,,                                        
+```
+
+### Letters.flf:
 
 ```text
 hh             lll lll                                        lll      dd !!! 
@@ -3063,7 +4052,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                               ,,                                              
 ```
 
-### fonts/Lil Devil.flf:
+### Lil Devil.flf:
 
 ```text
  (`-').-> (`-')  _                                
@@ -3084,7 +4073,28 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
 `--'   '--'   `-----' `--' '--' `-----' `------' `--'  
 ```
 
-### fonts/Line Blocks.flf:
+### lildevil.flf:
+
+```text
+ (`-').-> (`-')  _                                
+ (OO )__  ( OO).-/  <-.      <-.        .->       
+,--. ,'-'(,------.,--. )   ,--. )  (`-')----.     
+|  | |  | |  .---'|  (`-') |  (`-')( OO).-.  '    
+|  `-'  |(|  '--. |  |OO ) |  |OO )( _) | |  |    
+|  .-.  | |  .--'(|  '__ |(|  '__ | \|  |)|  |    
+|  | |  | |  `---.|     |' |     |'  '  '-'  ',-. 
+`--' `--' `------'`-----'  `-----'    `-----' './ 
+     .->                 (`-')          _(`-')   ,---. 
+ (`(`-')/`)     .->   <-.(OO )    <-.  ( (OO ).->|   | 
+,-`( OO).',(`-')----. ,------,) ,--. )  \    .'_ |   | 
+|  |\  |  |( OO).-.  '|   /`. ' |  (`-')'`'-..__)|   | 
+|  | '.|  |( _) | |  ||  |_.' | |  |OO )|  |  ' ||  .' 
+|  |.'.|  | \|  |)|  ||  .   .'(|  '__ ||  |  / :`--'  
+|   ,'.   |  '  '-'  '|  |\  \  |     |'|  '-'  /.--.  
+`--'   '--'   `-----' `--' '--' `-----' `------' `--'  
+```
+
+### Line Blocks.flf:
 
 ```text
  _    _   ______  _        _        ______  ,
@@ -3099,7 +4109,22 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                                  
 ```
 
-### fonts/Linux.flf:
+### lineblocks.flf:
+
+```text
+ _    _   ______  _        _        ______  ,
+| |  | | | |     | |      | |      / |  | \  
+| |--| | | |---- | |   _  | |   _  | |  | |  
+|_|  |_| |_|____ |_|__|_| |_|__|_| \_|__|_/  
+                                             
+ _   _   _   ______   ______   _        _____   !
+| | | | | | / |  | \ | |  | \ | |      | | \ \   
+| | | | | | | |  | | | |__| | | |   _  | |  | |  
+|_|_|_|_|_/ \_|__|_/ |_|  \_\ |_|__|_| |_|_/_/   
+                                                 
+```
+
+### Linux.flf:
 
 ```text
 .-. .-..---..-.   .-.   .----.  .-.-.-..----..---. .-.   .--. .-.
@@ -3108,7 +4133,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                                                  
 ```
 
-### fonts/Lockergnome.flf:
+### Lockergnome.flf:
 
 ```text
 :|        :| :|                           :|   :| ::| 
@@ -3117,7 +4142,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                      :/                               
 ```
 
-### fonts/Madrid.flf:
+### Madrid.flf:
 
 ```text
 |       |  |                      |    | | 
@@ -3126,7 +4151,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                            
 ```
 
-### fonts/Marquee.flf:
+### Marquee.flf:
 
 ```text
                    .:: .::             
@@ -3147,7 +4172,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                             
 ```
 
-### fonts/Maxfour.flf:
+### Maxfour.flf:
 
 ```text
 |       ||                   |   ||
@@ -3156,7 +4181,20 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
              /                     
 ```
 
-### fonts/Merlin1.flf:
+### maxiwi.flf:
+
+```text
+█       █  █                         █    █   
+█       █  █                         █    █ █ 
+███ ███ █  █  ███      █ █ █ ███ ███ █  ███ █ 
+█ █ ███ █  █  █ █      █ █ █ █ █ █   █  █ █ █ 
+█ █ █   █  █  █ █      █ █ █ █ █ █   █  █ █   
+█ █ ███ ██ ██ ███  █    █ █  ███ █   ██ ███ █ 
+                  █                           
+                                              
+```
+
+### Merlin1.flf:
 
 ```text
   __    __    _______  ___      ___        ______         
@@ -3177,7 +4215,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                                                    
 ```
 
-### fonts/Merlin2.flf:
+### Merlin2.flf:
 
 ```text
    _           _        _          _           _            
@@ -3200,7 +4238,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                                                 
 ```
 
-### fonts/Mike.flf:
+### Mike.flf:
 
 ```text
  |   _  |  |               _  |  |!
@@ -3208,7 +4246,7 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                    
 ```
 
-### fonts/Mini.flf:
+### Mini.flf:
 
 ```text
                             
@@ -3217,7 +4255,16 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
            /                
 ```
 
-### fonts/Mirror.flf:
+### miniwi.flf:
+
+```text
+▌   ▜ ▜              ▜  ▌▌
+▛▌█▌▐ ▐ ▛▌    ▌▌▌▛▌▛▘▐ ▛▌▌
+▌▌▙▖▐▖▐▖▙▌▗   ▚▚▘▙▌▌ ▐▖▙▌▖
+          ▘               
+```
+
+### Mirror.flf:
 
 ```text
                           _ _     _                             _ _          _ 
@@ -3228,13 +4275,13 @@ hh   hh  eeeee lll lll  oooo  ,,,      ww  ww    oooo  rr     lll  dddddd !!!
                                                          \|                    
 ```
 
-### fonts/Mnemonic.flf:
+### Mnemonic.flf:
 
 ```text
 hello,&SPworld!
 ```
 
-### fonts/Modular.flf:
+### Modular.flf:
 
 ```text
  __   __  _______  ___      ___      _______       
@@ -3253,19 +4300,65 @@ hello,&SPworld!
 |__| |__||_______||___|  |_||_______||______| |__| 
 ```
 
-### fonts/Morse.flf:
+### mono12.tlf:
+
+```text
+                                                            
+ ▄▄                  ▄▄▄▄      ▄▄▄▄                         
+ ██                  ▀▀██      ▀▀██                         
+ ██▄████▄   ▄████▄     ██        ██       ▄████▄            
+ ██▀   ██  ██▄▄▄▄██    ██        ██      ██▀  ▀██           
+ ██    ██  ██▀▀▀▀▀▀    ██        ██      ██    ██           
+ ██    ██  ▀██▄▄▄▄█    ██▄▄▄     ██▄▄▄   ▀██▄▄██▀     ██    
+ ▀▀    ▀▀    ▀▀▀▀▀      ▀▀▀▀      ▀▀▀▀     ▀▀▀▀       ██    
+                                                     ▀▀     
+                                                            
+                                                            
+                               ▄▄▄▄            ▄▄     ▄▄    
+                               ▀▀██            ██     ██    
+██      ██  ▄████▄    ██▄████    ██       ▄███▄██     ██    
+▀█  ██  █▀ ██▀  ▀██   ██▀        ██      ██▀  ▀██     ██    
+ ██▄██▄██  ██    ██   ██         ██      ██    ██     ▀▀    
+ ▀██  ██▀  ▀██▄▄██▀   ██         ██▄▄▄   ▀██▄▄███     ▄▄    
+  ▀▀  ▀▀     ▀▀▀▀     ▀▀          ▀▀▀▀     ▀▀▀ ▀▀     ▀▀    
+                                                            
+                                                            
+```
+
+### mono9.tlf:
+
+```text
+                                          
+ █             ▀▀█    ▀▀█                 
+ █ ▄▄    ▄▄▄     █      █     ▄▄▄         
+ █▀  █  █▀  █    █      █    █▀ ▀█        
+ █   █  █▀▀▀▀    █      █    █   █        
+ █   █  ▀█▄▄▀    ▀▄▄    ▀▄▄  ▀█▄█▀    █   
+                                     ▀    
+                                          
+                                          
+                      ▀▀█        █    ▄   
+▄     ▄  ▄▄▄    ▄ ▄▄    █     ▄▄▄█    █   
+▀▄ ▄ ▄▀ █▀ ▀█   █▀  ▀   █    █▀ ▀█    █   
+ █▄█▄█  █   █   █       █    █   █    ▀   
+  █ █   ▀█▄█▀   █       ▀▄▄  ▀█▄██    █   
+                                          
+                                          
+```
+
+### Morse.flf:
 
 ```text
 .... . .-.. .-.. --- --..--    .-- --- .-. .-.. -.. .-.-.- 
 ```
 
-### fonts/Morse2.flf:
+### Morse2.flf:
 
 ```text
 .... . .-.. .-.. --- --..--    .-- --- .-. .-.. -.. .-.-.- 
 ```
 
-### fonts/Moscow.flf:
+### Moscow.flf:
 
 ```text
                                                                          
@@ -3276,7 +4369,7 @@ hello,&SPworld!
 #   # ##### #   # #   #  ###  #        ###   ###  #     #   # #    #  #  
 ```
 
-### fonts/Mshebrew210.flf:
+### Mshebrew210.flf:
 
 ```text
                                                                                
@@ -3285,7 +4378,7 @@ hello,&SPworld!
                                                    |                   |  ||   
 ```
 
-### fonts/Muzzle.flf:
+### Muzzle.flf:
 
 ```text
       __              ,                             
@@ -3294,7 +4387,112 @@ hello,&SPworld!
 |  | |__ |<< |<<  <<     |/ \|  <<  |  \ |<< |__| > 
 ```
 
-### fonts/NScript.flf:
+### Nancyj-Fancy.flf:
+
+```text
+dP                dP dP             
+88                88 88             
+88d888b. .d8888b. 88 88 .d8888b.    
+88'  `88 88ooood8 88 88 88'  `88    
+88    88 88.  ... 88 88 88.  .88 dP 
+dP    dP `88888P' dP dP `88888P' 88 
+                                 .P 
+                                    
+                             dP       dP dP 
+                             88       88 88 
+dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
+88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
+88.88b.88' 88.  .88 88       88 88.  .88    
+8888P Y8P  `88888P' dP       dP `88888P8 oo 
+                                            
+                                            
+```
+
+### Nancyj-Improved.flf:
+
+```text
+dP                dP dP             
+88                88 88             
+88d888b. .d8888b. 88 88 .d8888b.    
+88'  `88 88ooood8 88 88 88'  `88    
+88    88 88.  ... 88 88 88.  .88 dP 
+dP    dP `88888P' dP dP `88888P' 88 
+                                 .P 
+                                    
+                             dP       dP dP 
+                             88       88 88 
+dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
+88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
+88.88b.88' 88.  .88 88       88 88.  .88    
+8888P Y8P  `88888P' dP       dP `88888P8 oo 
+                                            
+                                            
+```
+
+### Nancyj-Underlined.flf:
+
+```text
+dP                dP dP              
+88                88 88              
+88d888b. .d8888b. 88 88 .d8888b.     
+88'  `88 88ooood8 88 88 88'  `88     
+88    88 88.  ... 88 88 88.  .88  dP 
+dP    dP `88888P' dP dP `88888P'  88 
+ooooooooooooooooooooooooooooooooo~.P~
+                                     
+                             dP       dP dP 
+                             88       88 88 
+dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
+88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
+88.88b.88' 88.  .88 88       88 88.  .88    
+8888P Y8P  `88888P' dP       dP `88888P8 oo 
+oooooooooooooooooooooooooooooooooooooooooooo
+                                            
+```
+
+### Nancyj.flf:
+
+```text
+dP                dP dP             
+88                88 88             
+88d888b. .d8888b. 88 88 .d8888b.    
+88'  `88 88ooood8 88 88 88'  `88    
+88    88 88.  ... 88 88 88.  .88 dP 
+dP    dP `88888P' dP dP `88888P' 88 
+                                 .P 
+                                    
+                             dP       dP dP 
+                             88       88 88 
+dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
+88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
+88.88b.88' 88.  .88 88       88 88.  .88    
+8888P Y8P  `88888P' dP       dP `88888P8 oo 
+                                            
+                                            
+```
+
+### Nipples.flf:
+
+```text
+                   {__ {__             
+{__                {__ {__             
+{__        {__     {__ {__   {__       
+{_ {_    {_   {__  {__ {__ {__  {__    
+{__  {__{_____ {__ {__ {__{__    {__   
+{_   {__{_         {__ {__ {__  {__    
+{__  {__  {____   {___{___   {__    {__
+                                     {_
+                              {__     {__{__
+                              {__     {__{__
+{__     {___   {__    {_ {___ {__     {__{__
+ {__  _  {__ {__  {__  {__    {__ {__ {__{_ 
+ {__ {_  {__{__    {__ {__    {__{_   {__{_ 
+ {_ {_ {_{__ {__  {__  {__    {__{_   {__   
+{___    {___   {__    {___   {___ {__ {__{__
+                                            
+```
+
+### NScript.flf:
 
 ```text
                                                    
@@ -3331,7 +4529,7 @@ P""Y88P""Y88P"   P"Y8888P"    8P      `Y88P'"Y88P"Y8888P"`Y8`Y8888P"`Y8
                                                                        
 ```
 
-### fonts/NT Greek.flf:
+### NT Greek.flf:
 
 ```text
                                                                  
@@ -3345,7 +4543,21 @@ P""Y88P""Y88P"   P"Y8888P"    8P      `Y88P'"Y88P"Y8888P"`Y8`Y8888P"`Y8
     |_|                                        |_|               
 ```
 
-### fonts/NV Script.flf:
+### ntgreek.flf:
+
+```text
+                                                                 
+          __     __                                 __      __ _ 
+          \ \    \ \                                \ \    / _) |
+ _ __  ___ \ \    \ \   ___      __   __   ___   ___ \ \   \ \| |
+| '_ \/ __) > \    > \ / _ \    / / _ \ \ / _ \ / _ \ > \ / _ \_|
+| | | > _) / ^ \  / ^ ( (_) )  | |_/ \_| ( (_) ) |_) ) ^ ( (_) ) 
+|_| | \___)_/ \_\/_/ \_\___( )  \___^___/ \___/|  __/_/ \_\___(_)
+    | |                    |/                  | |               
+    |_|                                        |_|               
+```
+
+### NV Script.flf:
 
 ```text
                                                
@@ -3382,112 +4594,7 @@ P""Y88P""Y88P" P"Y8888P"  8P      `Y88P'"Y88P"Y8888P"`Y8
                                                         
 ```
 
-### fonts/Nancyj-Fancy.flf:
-
-```text
-dP                dP dP             
-88                88 88             
-88d888b. .d8888b. 88 88 .d8888b.    
-88'  `88 88ooood8 88 88 88'  `88    
-88    88 88.  ... 88 88 88.  .88 dP 
-dP    dP `88888P' dP dP `88888P' 88 
-                                 .P 
-                                    
-                             dP       dP dP 
-                             88       88 88 
-dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
-88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
-88.88b.88' 88.  .88 88       88 88.  .88    
-8888P Y8P  `88888P' dP       dP `88888P8 oo 
-                                            
-                                            
-```
-
-### fonts/Nancyj-Improved.flf:
-
-```text
-dP                dP dP             
-88                88 88             
-88d888b. .d8888b. 88 88 .d8888b.    
-88'  `88 88ooood8 88 88 88'  `88    
-88    88 88.  ... 88 88 88.  .88 dP 
-dP    dP `88888P' dP dP `88888P' 88 
-                                 .P 
-                                    
-                             dP       dP dP 
-                             88       88 88 
-dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
-88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
-88.88b.88' 88.  .88 88       88 88.  .88    
-8888P Y8P  `88888P' dP       dP `88888P8 oo 
-                                            
-                                            
-```
-
-### fonts/Nancyj-Underlined.flf:
-
-```text
-dP                dP dP              
-88                88 88              
-88d888b. .d8888b. 88 88 .d8888b.     
-88'  `88 88ooood8 88 88 88'  `88     
-88    88 88.  ... 88 88 88.  .88  dP 
-dP    dP `88888P' dP dP `88888P'  88 
-ooooooooooooooooooooooooooooooooo~.P~
-                                     
-                             dP       dP dP 
-                             88       88 88 
-dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
-88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
-88.88b.88' 88.  .88 88       88 88.  .88    
-8888P Y8P  `88888P' dP       dP `88888P8 oo 
-oooooooooooooooooooooooooooooooooooooooooooo
-                                            
-```
-
-### fonts/Nancyj.flf:
-
-```text
-dP                dP dP             
-88                88 88             
-88d888b. .d8888b. 88 88 .d8888b.    
-88'  `88 88ooood8 88 88 88'  `88    
-88    88 88.  ... 88 88 88.  .88 dP 
-dP    dP `88888P' dP dP `88888P' 88 
-                                 .P 
-                                    
-                             dP       dP dP 
-                             88       88 88 
-dP  dP  dP .d8888b. 88d888b. 88 .d888b88 88 
-88  88  88 88'  `88 88'  `88 88 88'  `88 dP 
-88.88b.88' 88.  .88 88       88 88.  .88    
-8888P Y8P  `88888P' dP       dP `88888P8 oo 
-                                            
-                                            
-```
-
-### fonts/Nipples.flf:
-
-```text
-                   {__ {__             
-{__                {__ {__             
-{__        {__     {__ {__   {__       
-{_ {_    {_   {__  {__ {__ {__  {__    
-{__  {__{_____ {__ {__ {__{__    {__   
-{_   {__{_         {__ {__ {__  {__    
-{__  {__  {____   {___{___   {__    {__
-                                     {_
-                              {__     {__{__
-                              {__     {__{__
-{__     {___   {__    {_ {___ {__     {__{__
- {__  _  {__ {__  {__  {__    {__ {__ {__{_ 
- {__ {_  {__{__    {__ {__    {__{_   {__{_ 
- {_ {_ {_{__ {__  {__  {__    {__{_   {__   
-{___    {___   {__    {___   {___ {__ {__{__
-                                            
-```
-
-### fonts/O8.flf:
+### O8.flf:
 
 ```text
 oooo                   o888  o888                 
@@ -3504,32 +4611,13 @@ oooo  o  oooo  ooooooo  oo oooooo   888   ooooo888 8888
                                                         
 ```
 
-### fonts/OS2.flf:
-
-```text
-oo______________ooo___ooo_______________
-oo_ooo___ooooo___oo____oo____ooooo______
-ooo___o_oo____o__oo____oo___oo___oo_____
-oo____o_ooooooo__oo____oo___oo___oo_____
-oo____o_oo_______oo____oo___oo___oo__oo_
-oo____o__ooooo__ooooo_ooooo__ooooo___oo_
-____________________________________oo__
-___________________________ooo________oo_oo_
-oo_______o__ooooo__oo_ooo___oo____oooooo_oo_
-oo__oo___o_oo___oo_ooo___o__oo___oo___oo_oo_
-oo__oo___o_oo___oo_oo_______oo___oo___oo_oo_
-_oo_oo__o__oo___oo_oo_______oo___oo___oo____
-__oo__oo____ooooo__oo______ooooo__oooooo_oo_
-_________________________________________oo_
-```
-
-### fonts/Octal.flf:
+### Octal.flf:
 
 ```text
 150 145 154 154 157 054  167 157 162 154 144 041 
 ```
 
-### fonts/Ogre.flf:
+### Ogre.flf:
 
 ```text
  _          _ _                             _     _   _ 
@@ -3540,7 +4628,7 @@ _________________________________________oo_
                     |/                                  
 ```
 
-### fonts/Old Banner.flf:
+### Old Banner.flf:
 
 ```text
                                        
@@ -3559,7 +4647,53 @@ _________________________________________oo_
 #    #  ####  #    # ###### #####  ### 
 ```
 
-### fonts/Patorjk's Cheese.flf:
+### oldbanner.flf:
+
+```text
+                                       
+#    # ###### #      #       ####      
+#    # #      #      #      #    #     
+###### #####  #      #      #    # ### 
+#    # #      #      #      #    # ### 
+#    # #      #      #      #    #  #  
+#    # ###### ###### ######  ####  #   
+                                   ### 
+#    #  ####  #####  #      #####  ### 
+#    # #    # #    # #      #    # ### 
+#    # #    # #    # #      #    #  #  
+# ## # #    # #####  #      #    #     
+##  ## #    # #   #  #      #    # ### 
+#    #  ####  #    # ###### #####  ### 
+```
+
+### OS2.flf:
+
+```text
+oo______________ooo___ooo_______________
+oo_ooo___ooooo___oo____oo____ooooo______
+ooo___o_oo____o__oo____oo___oo___oo_____
+oo____o_ooooooo__oo____oo___oo___oo_____
+oo____o_oo_______oo____oo___oo___oo__oo_
+oo____o__ooooo__ooooo_ooooo__ooooo___oo_
+____________________________________oo__
+___________________________ooo________oo_oo_
+oo_______o__ooooo__oo_ooo___oo____oooooo_oo_
+oo__oo___o_oo___oo_ooo___o__oo___oo___oo_oo_
+oo__oo___o_oo___oo_oo_______oo___oo___oo_oo_
+_oo_oo__o__oo___oo_oo_______oo___oo___oo____
+__oo__oo____ooooo__oo______ooooo__oooooo_oo_
+_________________________________________oo_
+```
+
+### pagga.tlf:
+
+```text
+░█░█░█▀▀░█░░░█░░░█▀█░░░░░░░█░█░█▀█░█▀▄░█░░░█▀▄░█
+░█▀█░█▀▀░█░░░█░░░█░█░░░░░░░█▄█░█░█░█▀▄░█░░░█░█░▀
+░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▄▀░░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀░░▀
+```
+
+### Patorjk's Cheese.flf:
 
 ```text
                                                                       
@@ -3592,7 +4726,7 @@ _________________________________________oo_
             '                                                             
 ```
 
-### fonts/Patorjk-HeX.flf:
+### Patorjk-HeX.flf:
 
 ```text
                                _____                                     
@@ -3645,7 +4779,7 @@ _________________________________________oo_
                  
 ```
 
-### fonts/Pawp.flf:
+### Pawp.flf:
 
 ```text
                                                                        _ 
@@ -3659,7 +4793,7 @@ _________________________________________oo_
                                                                          
 ```
 
-### fonts/Peaks Slant.flf:
+### Peaks Slant.flf:
 
 ```text
      _/\/\____________________/\/\____/\/\_____________________
@@ -3676,7 +4810,7 @@ _____________________________________________________/\___
 __________________________________________________________________     
 ```
 
-### fonts/Peaks.flf:
+### Peaks.flf:
 
 ```text
                    /^^ /^^             
@@ -3697,7 +4831,24 @@ __________________________________________________________________
                                             
 ```
 
-### fonts/Pebbles.flf:
+### peaksslant.flf:
+
+```text
+     _/\/\____________________/\/\____/\/\_____________________
+    _/\/\__________/\/\/\____/\/\____/\/\______/\/\/\_________ 
+   _/\/\/\/\____/\/\/\/\/\__/\/\____/\/\____/\/\__/\/\_______  
+  _/\/\__/\/\__/\/\________/\/\____/\/\____/\/\__/\/\__/\/\_   
+ _/\/\__/\/\____/\/\/\/\__/\/\/\__/\/\/\____/\/\/\____/\/\_    
+_____________________________________________________/\___     
+     _________________________________________/\/\__________/\/\__/\/\_
+    _/\/\______/\/\____/\/\/\____/\/\__/\/\__/\/\__________/\/\__/\/\_ 
+   _/\/\__/\__/\/\__/\/\__/\/\__/\/\/\/\____/\/\______/\/\/\/\__/\/\_  
+  _/\/\/\/\/\/\/\__/\/\__/\/\__/\/\________/\/\____/\/\__/\/\_______   
+ ___/\/\__/\/\______/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_    
+__________________________________________________________________     
+```
+
+### Pebbles.flf:
 
 ```text
  o           o  o                                       o      o oO 
@@ -3712,7 +4863,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                         o'                                          
 ```
 
-### fonts/Pepper.flf:
+### Pepper.flf:
 
 ```text
                            
@@ -3721,7 +4872,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                            
 ```
 
-### fonts/Poison.flf:
+### Poison.flf:
 
 ```text
                                                        
@@ -3750,7 +4901,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                                                             
 ```
 
-### fonts/Puffy.flf:
+### Puffy.flf:
 
 ```text
  _             _    _                                        _        _  _ 
@@ -3763,7 +4914,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                                                                            
 ```
 
-### fonts/Puzzle.flf:
+### Puzzle.flf:
 
 ```text
      _         _         _         _         _    ,
@@ -3778,7 +4929,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
   |_( )__|  |_( )__|  |_( )__|  |_( )__|  |_( )__|  |_( )__|
 ```
 
-### fonts/Pyramid.flf:
+### Pyramid.flf:
 
 ```text
   ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^  
@@ -3786,7 +4937,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
 <___><___><___><___><___><___><___><___><___><___><___><___>
 ```
 
-### fonts/Rammstein.flf:
+### Rammstein.flf:
 
 ```text
                                            
@@ -3805,7 +4956,34 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                                                  
 ```
 
-### fonts/Rectangles.flf:
+### rebel.tlf:
+
+```text
+ █████               ████  ████              
+▒▒███               ▒▒███ ▒▒███              
+ ▒███████    ██████  ▒███  ▒███   ██████     
+ ▒███▒▒███  ███▒▒███ ▒███  ▒███  ███▒▒███    
+ ▒███ ▒███ ▒███████  ▒███  ▒███ ▒███ ▒███    
+ ▒███ ▒███ ▒███▒▒▒   ▒███  ▒███ ▒███ ▒███    
+ ████ █████▒▒██████  █████ █████▒▒██████   ██
+▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒   ██ 
+                                         ▒▒  
+                                             
+                                             
+                                    ████      █████ ███
+                                   ▒▒███     ▒▒███ ▒███
+ █████ ███ █████  ██████  ████████  ▒███   ███████ ▒███
+▒▒███ ▒███▒▒███  ███▒▒███▒▒███▒▒███ ▒███  ███▒▒███ ▒███
+ ▒███ ▒███ ▒███ ▒███ ▒███ ▒███ ▒▒▒  ▒███ ▒███ ▒███ ▒███
+ ▒▒███████████  ▒███ ▒███ ▒███      ▒███ ▒███ ▒███ ▒▒▒ 
+  ▒▒████▒████   ▒▒██████  █████     █████▒▒████████ ███
+   ▒▒▒▒ ▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒▒     ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ ▒▒▒ 
+                                                       
+                                                       
+                                                       
+```
+
+### Rectangles.flf:
 
 ```text
                                           __ 
@@ -3816,7 +4994,7 @@ O   o `OoO' Oo Oo `OoO' oO        `Oo'oO' `OoO'  o     Oo `OoO'o oO
                 |_|                          
 ```
 
-### fonts/Red Phoenix.flf:
+### Red Phoenix.flf:
 
 ```text
 .__             .__   .__             
@@ -3835,7 +5013,26 @@ __  _  __ ____ _______ |  |    __| _/| |
                                          
 ```
 
-### fonts/Relief.flf:
+### red_phoenix.flf:
+
+```text
+.__               .__    .__                 
+|  |__     ____   |  |   |  |     ____       
+|  |  \  _/ __ \  |  |   |  |    /  _ \      
+|   Y  \ \  ___/  |  |__ |  |__ (  <_> )     
+|___|  /  \___  > |____/ |____/  \____/   /\ 
+     \/       \/                          )/ 
+                                             
+                            .__        .___ ._. 
+__  _  __   ____   _______  |  |     __| _/ | | 
+\ \/ \/ /  /  _ \  \_  __ \ |  |    / __ |  | | 
+ \     /  (  <_> )  |  | \/ |  |__ / /_/ |   \| 
+  \/\_/    \____/   |__|    |____/ \____ |   __ 
+                                        \/   \/ 
+                                                
+```
+
+### Relief.flf:
 
 ```text
 ____________________________________________________________
@@ -3854,7 +5051,7 @@ _/~~~~~~~~\___/~~~~~~\__/~~\__/~~\_/~~~~~~~~\_/~~~~~~~\__/~~\_
 ______________________________________________________________
 ```
 
-### fonts/Relief2.flf:
+### Relief2.flf:
 
 ```text
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -3873,7 +5070,7 @@ ______________________________________________________________
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 ```
 
-### fonts/Reverse.flf:
+### rev.flf:
 
 ```text
 =================================
@@ -3900,7 +5097,34 @@ ______________________________________________________________
 ==========================================
 ```
 
-### fonts/Roman.flf:
+### Reverse.flf:
+
+```text
+=================================
+=  ============  ==  ============
+=  ============  ==  ============
+=  ============  ==  ============
+=  ======   ===  ==  ===   ======
+=    ===  =  ==  ==  ==     =====
+=  =  ==     ==  ==  ==  =  =====
+=  =  ==  =====  ==  ==  =  ==  =
+=  =  ==  =  ==  ==  ==  =  === =
+=  =  ===   ===  ==  ===   ==== =
+=================================
+==========================================
+============================  =====  ==  =
+============================  =====  ==  =
+============================  =====  ==  =
+=  =   =  ===   ===  =   ===  =====  ==  =
+=  =   =  ==     ==    =  ==  ===    ==  =
+==   =   ===  =  ==  =======  ==  =  ==  =
+==   =   ===  =  ==  =======  ==  =  =====
+=== === ====  =  ==  =======  ==  =  ==  =
+=== === =====   ===  =======  ===    ==  =
+==========================================
+```
+
+### Roman.flf:
 
 ```text
 oooo                  oooo  oooo                
@@ -3925,13 +5149,13 @@ oooo oooo    ooo  .ooooo.  oooo d8b  888   .oooo888  888
                                                          
 ```
 
-### fonts/Rot13.flf:
+### Rot13.flf:
 
 ```text
 uryyb, jbeyq!
 ```
 
-### fonts/Rotated.flf:
+### Rotated.flf:
 
 ```text
  ___   _   ___  ___   _  ,      __   _   ___  ___   _   o-- 
@@ -3939,7 +5163,7 @@ uryyb, jbeyq!
                                (__                          
 ```
 
-### fonts/Rounded.flf:
+### Rounded.flf:
 
 ```text
  _           _ _                             _     _ _ 
@@ -3951,7 +5175,7 @@ uryyb, jbeyq!
                      |/                                
 ```
 
-### fonts/Rowan Cap.flf:
+### Rowan Cap.flf:
 
 ```text
     dMP dMP dMMMMMP dMP     dMP    .aMMMb 
@@ -3968,7 +5192,24 @@ VMMMPVMMP"  VMMMP" dMP dMP dMMMMMP dMMMMP"
                                               
 ```
 
-### fonts/Rozzo.flf:
+### rowancap.flf:
+
+```text
+    dMP dMP dMMMMMP dMP     dMP    .aMMMb 
+   dMP dMP dMP     dMP     dMP    dMP"dMP 
+  dMMMMMP dMMMP   dMP     dMP    dMP dMP  
+ dMP dMP dMP     dMP     dMP    dMP.aMP   
+dMP dMP dMMMMMP dMMMMMP dMMMMMP VMMMP"    
+                                          
+   dMP dMP dMP .aMMMb  dMMMMb  dMP     dMMMMb 
+  dMP dMP dMP dMP"dMP dMP.dMP dMP     dMP VMP 
+ dMP dMP dMP dMP dMP dMMMMK" dMP     dMP dMP  
+dMP.dMP.dMP dMP.aMP dMP"AMF dMP     dMP.aMP   
+VMMMPVMMP"  VMMMP" dMP dMP dMMMMMP dMMMMP"    
+                                              
+```
+
+### Rozzo.flf:
 
 ```text
 888             888 888               
@@ -3987,7 +5228,7 @@ Y8b Y8b Y888P  e88 88e  888,8, 888  e88 888 888
                                                 
 ```
 
-### fonts/Runic.flf:
+### Runic.flf:
 
 ```text
      
@@ -3998,7 +5239,7 @@ Y8b Y8b Y888P  e88 88e  888,8, 888  e88 888 888
      
 ```
 
-### fonts/Runyc.flf:
+### Runyc.flf:
 
 ```text
                                          
@@ -4009,7 +5250,23 @@ Y8b Y8b Y888P  e88 88e  888,8, 888  e88 888 888
 | | |  | |  |  /\      |  /\ |\ |  |/ \| 
 ```
 
-### fonts/S Blood.flf:
+### rusto.tlf:
+
+```text
+┬ ┬┬─┐┬  ┬  ┌─┐   ┐ ┬┌─┐┬─┐┬  ┬─┐┐
+│─┤├─ │  │  │ │   ││││ ││┬┘│  │ ││
+┆ ┴┴─┘┆─┘┆─┘┘─┘┘  └┴┆┘─┘┆└┘┆─┘┆─┘o
+```
+
+### rustofat.tlf:
+
+```text
+┳ ┳┳━┓┳  ┳  ┏━┓   ┓ ┳┏━┓┳━┓┳  ┳━┓┓
+┃━┫┣━ ┃  ┃  ┃ ┃   ┃┃┃┃ ┃┃┳┛┃  ┃ ┃┃
+┇ ┻┻━┛┇━┛┇━┛┛━┛┛  ┗┻┇┛━┛┇┗┛┇━┛┇━┛o
+```
+
+### S Blood.flf:
 
 ```text
  @@@  @@@ @@@@@@@@ @@@      @@@       @@@@@@     
@@ -4026,79 +5283,7 @@ Y8b Y8b Y888P  e88 88e  888,8, 888  e88 888 888
                                                       
 ```
 
-### fonts/SL Script.flf:
-
-```text
-          _  _                     _      
-  /      // //                    //   / /
- /_  _  // // __    , , , __ __  // __/ / 
-/ /_</_</_</_(_)o  (_(_/_(_)/ (_</_(_/_'  
-                '                     o   
-                                          
-```
-
-### fonts/Santa Clara.flf:
-
-```text
-          _  _                     _      
-  /      // //                    //   / /
- /_  _  // // __    , , , __ _   // __/ / 
-/ /_(/_(/_(/_(_)o  (_(_/_(_)/ (_(/_(_/_'  
-                '                     o   
-                                          
-```
-
-### fonts/Script.flf:
-
-```text
- _          _   _                             _         
-| |        | | | |                           | |    |  |
-| |     _  | | | |  __             __   ,_   | |  __|  |
-|/ \   |/  |/  |/  /  \_  |  |  |_/  \_/  |  |/  /  |  |
-|   |_/|__/|__/|__/\__/o   \/ \/  \__/    |_/|__/\_/|_/o
-                       /                                
-                                                        
-```
-
-### fonts/Serifcap.flf:
-
-```text
- _  _  ___  __    __    __       _    _  __  ___   __    ___   _ 
-( )( )(  _)(  )  (  )  /  \     ( \/\/ )/  \(  ,) (  )  (   \ / \
- )__(  ) _) )(__  )(__( () )_    \    /( () ))  \  )(__  ) ) )\_/
-(_)(_)(___)(____)(____)\__//_)    \/\/  \__/(_)\_)(____)(___/ (_)
-```
-
-### fonts/Shadow.flf:
-
-```text
- |          | |                               |     | | 
- __ \   _ \ | |  _ \     \ \  \   / _ \   __| |  _` | | 
- | | |  __/ | | (   |     \ \  \ / (   | |    | (   |_| 
-_| |_|\___|_|_|\___/ )     \_/\_/ \___/ _|   _|\__,_|_) 
-                    /                                   
-```
-
-### fonts/Shimrod.flf:
-
-```text
-.       . .                       .   . . 
-|       | |                       |   | | 
-|-. ,-. | | ,-.     , , , ,-. ;-. | ,-| | 
-| | |-' | | | |     |/|/  | | |   | | |   
-' ' `-' ' ' `-' p   ' '   `-' '   ' `-' o 
-                                          
-```
-
-### fonts/Short.flf:
-
-```text
-|_ _ ||            | | |
-||(/_||(),  LL|()|`|(| .
-                        
-```
-
-### fonts/Slant Relief.flf:
+### s-relief.flf:
 
 ```text
 __/\\\_________________________/\\\\\\_____/\\\\\\__________________        
@@ -4139,7 +5324,148 @@ _________/\\\______/\\\____
         __\///////\//_____\///_____
 ```
 
-### fonts/Slant.flf:
+### Santa Clara.flf:
+
+```text
+          _  _                     _      
+  /      // //                    //   / /
+ /_  _  // // __    , , , __ _   // __/ / 
+/ /_(/_(/_(/_(_)o  (_(_/_(_)/ (_(/_(_/_'  
+                '                     o   
+                                          
+```
+
+### santaclara.flf:
+
+```text
+          _  _                     _      
+  /      // //                    //   / /
+ /_  _  // // __    , , , __ _   // __/ / 
+/ /_(/_(/_(/_(_)o  (_(_/_(_)/ (_(/_(_/_'  
+                '                     o   
+                                          
+```
+
+### sblood.flf:
+
+```text
+ @@@  @@@ @@@@@@@@ @@@      @@@       @@@@@@     
+ @@!  @@@ @@!      @@!      @@!      @@!  @@@    
+ @!@!@!@! @!!!:!   @!!      @!!      @!@  !@!    
+ !!:  !!! !!:      !!:      !!:      !!:  !!!  !!
+  :   : : : :: ::: : ::.: : : ::.: :  : :. :   ::
+                                              .: 
+ @@@  @@@  @@@  @@@@@@  @@@@@@@  @@@      @@@@@@@  @@@
+ @@!  @@!  @@! @@!  @@@ @@!  @@@ @@!      @@!  @@@ @@@
+ @!!  !!@  @!@ @!@  !@! @!@!!@!  @!!      @!@  !@! !@!
+  !:  !!:  !!  !!:  !!! !!: :!!  !!:      !!:  !!!    
+   ::.:  :::    : :. :   :   : : : ::.: : :: :  :  :.:
+                                                      
+```
+
+### Script.flf:
+
+```text
+ _          _   _                             _         
+| |        | | | |                           | |    |  |
+| |     _  | | | |  __             __   ,_   | |  __|  |
+|/ \   |/  |/  |/  /  \_  |  |  |_/  \_/  |  |/  /  |  |
+|   |_/|__/|__/|__/\__/o   \/ \/  \__/    |_/|__/\_/|_/o
+                       /                                
+                                                        
+```
+
+### Serifcap.flf:
+
+```text
+ _  _  ___  __    __    __       _    _  __  ___   __    ___   _ 
+( )( )(  _)(  )  (  )  /  \     ( \/\/ )/  \(  ,) (  )  (   \ / \
+ )__(  ) _) )(__  )(__( () )_    \    /( () ))  \  )(__  ) ) )\_/
+(_)(_)(___)(____)(____)\__//_)    \/\/  \__/(_)\_)(____)(___/ (_)
+```
+
+### Shadow.flf:
+
+```text
+ |          | |                               |     | | 
+ __ \   _ \ | |  _ \     \ \  \   / _ \   __| |  _` | | 
+ | | |  __/ | | (   |     \ \  \ / (   | |    | (   |_| 
+_| |_|\___|_|_|\___/ )     \_/\_/ \___/ _|   _|\__,_|_) 
+                    /                                   
+```
+
+### Shimrod.flf:
+
+```text
+.       . .                       .   . . 
+|       | |                       |   | | 
+|-. ,-. | | ,-.     , , , ,-. ;-. | ,-| | 
+| | |-' | | | |     |/|/  | | |   | | |   
+' ' `-' ' ' `-' p   ' '   `-' '   ' `-' o 
+                                          
+```
+
+### Short.flf:
+
+```text
+|_ _ ||            | | |
+||(/_||(),  LL|()|`|(| .
+                        
+```
+
+### SL Script.flf:
+
+```text
+          _  _                     _      
+  /      // //                    //   / /
+ /_  _  // // __    , , , __ __  // __/ / 
+/ /_</_</_</_(_)o  (_(_/_(_)/ (_</_(_/_'  
+                '                     o   
+                                          
+```
+
+### Slant Relief.flf:
+
+```text
+__/\\\_________________________/\\\\\\_____/\\\\\\__________________        
+ _\/\\\________________________\////\\\____\////\\\__________________       
+  _\/\\\___________________________\/\\\_______\/\\\__________________      
+   _\/\\\_____________/\\\\\\\\_____\/\\\_______\/\\\________/\\\\\____     
+    _\/\\\\\\\\\\____/\\\/////\\\____\/\\\_______\/\\\______/\\\///\\\__    
+     _\/\\\/////\\\__/\\\\\\\\\\\_____\/\\\_______\/\\\_____/\\\__\//\\\_   
+      _\/\\\___\/\\\_\//\\///////______\/\\\_______\/\\\____\//\\\__/\\\__  
+       _\/\\\___\/\\\__\//\\\\\\\\\\__/\\\\\\\\\__/\\\\\\\\\__\///\\\\\/___ 
+        _\///____\///____\//////////__\/////////__\/////////_____\/////_____
+________        
+ ________       
+  ________      
+   ________     
+    ________    
+     __/\\\\_   
+      _\///\\_  
+       __/\\/__ 
+        _\//____
+________________________________________________/\\\\\\____        
+ _______________________________________________\////\\\____       
+  __________________________________________________\/\\\____      
+   __/\\____/\\___/\\_____/\\\\\_____/\\/\\\\\\\_____\/\\\____     
+    _\/\\\__/\\\\_/\\\___/\\\///\\\__\/\\\/////\\\____\/\\\____    
+     _\//\\\/\\\\\/\\\___/\\\__\//\\\_\/\\\___\///_____\/\\\____   
+      __\//\\\\\/\\\\\___\//\\\__/\\\__\/\\\____________\/\\\____  
+       ___\//\\\\//\\\_____\///\\\\\/___\/\\\__________/\\\\\\\\\_ 
+        ____\///__\///________\/////_____\///__________\/////////__
+_________/\\\______/\\\____        
+ ________\/\\\____/\\\\\\\__       
+  ________\/\\\___/\\\\\\\\\_      
+   ________\/\\\__\//\\\\\\\__     
+    ___/\\\\\\\\\___\//\\\\\___    
+     __/\\\////\\\____\//\\\____   
+      _\/\\\__\/\\\_____\///_____  
+       _\//\\\\\\\/\\_____/\\\____ 
+        __\///////\//_____\///_____
+```
+
+### Slant.flf:
 
 ```text
     __         ____                               __    ____
@@ -4150,7 +5476,7 @@ _________/\\\______/\\\____
                      |/                                     
 ```
 
-### fonts/Slide.flf:
+### Slide.flf:
 
 ```text
 ##        #| #|                          #|   H|#| 
@@ -4161,7 +5487,18 @@ _________/\\\______/\\\____
                     #                              
 ```
 
-### fonts/Small Caps.flf:
+### slscript.flf:
+
+```text
+          _  _                     _      
+  /      // //                    //   / /
+ /_  _  // // __    , , , __ __  // __/ / 
+/ /_</_</_</_(_)o  (_(_/_(_)/ (_</_(_/_'  
+                '                     o   
+                                          
+```
+
+### Small Caps.flf:
 
 ```text
  _  _   ___   _      _      ____       __   __ ____   ____   _      ___   _  
@@ -4171,7 +5508,7 @@ _________/\\\______/\\\____
                                                                              
 ```
 
-### fonts/Small Isometric1.flf:
+### Small Isometric1.flf:
 
 ```text
     ___       ___       ___       ___       ___   
@@ -4190,7 +5527,7 @@ _________/\\\______/\\\____
    \/__/     \/__/     \|__|     \/__/     \/__/  
 ```
 
-### fonts/Small Keyboard.flf:
+### Small Keyboard.flf:
 
 ```text
  ____ ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
@@ -4199,7 +5536,7 @@ _________/\\\______/\\\____
 |/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
 ```
 
-### fonts/Small Poison.flf:
+### Small Poison.flf:
 
 ```text
                                                  
@@ -4218,7 +5555,7 @@ _________/\\\______/\\\____
                                                       
 ```
 
-### fonts/Small Script.flf:
+### Small Script.flf:
 
 ```text
                                                
@@ -4228,7 +5565,7 @@ _________/\\\______/\\\____
                  /                             
 ```
 
-### fonts/Small Shadow.flf:
+### Small Shadow.flf:
 
 ```text
  |         | |                       |     | | 
@@ -4237,7 +5574,7 @@ _| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_)
                   /                            
 ```
 
-### fonts/Small Slant.flf:
+### Small Slant.flf:
 
 ```text
    __       ____                         __   ____
@@ -4247,7 +5584,7 @@ _| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_)
                   |/                              
 ```
 
-### fonts/Small Tengwar.flf:
+### Small Tengwar.flf:
 
 ```text
 \  ,'         c        c         _ _  / 
@@ -4255,7 +5592,7 @@ _| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_)
       (_, (_,   /  ~~~   (, (_, |     / 
 ```
 
-### fonts/Small.flf:
+### Small.flf:
 
 ```text
  _        _ _                        _    _ _ 
@@ -4265,7 +5602,173 @@ _| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_)
                  |/                           
 ```
 
-### fonts/Soft.flf:
+### smallcaps.flf:
+
+```text
+ _  _   ___   _      _      ____       __   __ ____   ____   _      ___   _  
+) () ( ) __( ) |    ) |    / __ \      ) (_) (/ __ \ /  _ \ ) |    \   \ ) | 
+| -- | | _)  | (__  | (__  ))__((      \  _  /))__(( )  ' / | (__  | ) ( |_( 
+)_()_( )___( )____( )____( \____/ )/    )/ \( \____/ |_()_\ )____( /___/ )_/ 
+                                                                             
+```
+
+### smascii12.tlf:
+
+```text
+                                                                 
+.,        .m,  .m,                                .m,     .,  m  
+][        'T[  'T[                                'T[     ][  W  
+]bWW, dWb  ][   ][   dWb           W   W dWb  WdW[ ][   dWd[  W  
+]P ][]bmd[ ][   ][  ]P T[          T W P]P T[ W`   ][  ]P T[  W  
+][ ][]P""` ][   ][  ][ ][          ]bWd[][ ][ W    ][  ][ ][  "  
+][ ]['Wmm[ ]bm  ]bm 'WmW`  W       'W W`'WmW` W    ]bm 'WmW[  m  
+'` '` '""   ""   ""  '"`   W        " "  '"`  "     ""  '"'`  "  
+                          '`                                     
+                                                                 
+```
+
+### smascii9.tlf:
+
+```text
+                                                    
+]       'T  'T                          'T    ]  .  
+].,  m,  ]   ]   m,         ,  , m,  ,m  ]   md  ]  
+]`] ]`]  ]   ]  ]`T         \..`]`T  P ` ]  ]`T  ]  
+] ] ]""  ]   ]  ] ]         ]dd ] ]  [   ]  ] ]  '  
+] ] 'b/  'm  'm 'bP  ]       [[ 'bP  [   'm 'bW  ]  
+                     `                              
+                                                    
+```
+
+### smblock.tlf:
+
+```text
+▌     ▜▜                 ▜   ▌▐ 
+▛▀▖▞▀▖▐▐ ▞▀▖   ▌  ▌▞▀▖▙▀▖▐ ▞▀▌▐ 
+▌ ▌▛▀ ▐▐ ▌ ▌▗▖ ▐▐▐ ▌ ▌▌  ▐ ▌ ▌▝ 
+▘ ▘▝▀▘ ▘▘▝▀ ▗▘  ▘▘ ▝▀ ▘   ▘▝▀▘▝ 
+```
+
+### smbraille.tlf:
+
+```text
+ ⣇⡀ ⢀⡀ ⡇ ⡇ ⢀⡀    ⡀ ⢀ ⢀⡀ ⡀⣀ ⡇ ⢀⣸ ⡇
+ ⠇⠸ ⠣⠭ ⠣ ⠣ ⠣⠜,   ⠱⠱⠃ ⠣⠜ ⠏  ⠣ ⠣⠼ ⠅
+```
+
+### smisome1.flf:
+
+```text
+    ___       ___       ___       ___       ___   
+   /\__\     /\  \     /\__\     /\__\     /\  \  
+  /:/__/_   /::\  \   /:/  /    /:/  /    /::\  \ 
+ /::\/\__\ /::\:\__\ /:/__/    /:/__/    /:/\:\__\
+ \/\::/  / \:\:\/  / \:\  \    \:\  \    \:\/:/  /
+   /:/  /   \:\/  /   \:\__\    \:\__\    \::/  / 
+   \/__/     \/__/     \/__/     \/__/     \/__/  
+    ___       ___       ___       ___       ___   
+   /\__\     /\  \     /\  \     /\__\     /\  \  
+  /:/\__\   /::\  \   /::\  \   /:/  /    /::\  \ 
+ /:/:/\__\ /:/\:\__\ /::\:\__\ /:/__/    /:/\:\__\
+ \::/:/  / \:\/:/  / \;:::/  / \:\  \    \:\/:/  /
+  \::/  /   \::/  /   |:\/__/   \:\__\    \::/  / 
+   \/__/     \/__/     \|__|     \/__/     \/__/  
+```
+
+### smkeyboard.flf:
+
+```text
+ ____ ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
+||h |||e |||l |||l |||o |||, |||       |||w |||o |||r |||l |||d |||! ||
+||__|||__|||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
+```
+
+### smmono12.tlf:
+
+```text
+                                                                 
+▗▖        ▗▄▖  ▗▄▖                                ▗▄▖     ▗▖  ▄  
+▐▌        ▝▜▌  ▝▜▌                                ▝▜▌     ▐▌  █  
+▐▙██▖ ▟█▙  ▐▌   ▐▌   ▟█▙           █   █ ▟█▙  █▟█▌ ▐▌   ▟█▟▌  █  
+▐▛ ▐▌▐▙▄▟▌ ▐▌   ▐▌  ▐▛ ▜▌          ▜ █ ▛▐▛ ▜▌ █▘   ▐▌  ▐▛ ▜▌  █  
+▐▌ ▐▌▐▛▀▀▘ ▐▌   ▐▌  ▐▌ ▐▌          ▐▙█▟▌▐▌ ▐▌ █    ▐▌  ▐▌ ▐▌  ▀  
+▐▌ ▐▌▝█▄▄▌ ▐▙▄  ▐▙▄ ▝█▄█▘  █       ▝█ █▘▝█▄█▘ █    ▐▙▄ ▝█▄█▌  ▄  
+▝▘ ▝▘ ▝▀▀   ▀▀   ▀▀  ▝▀▘   █        ▀ ▀  ▝▀▘  ▀     ▀▀  ▝▀▝▘  ▀  
+                          ▝▘                                     
+                                                                 
+```
+
+### smmono9.tlf:
+
+```text
+                                                    
+▐       ▝▜  ▝▜                          ▝▜    ▐  ▗  
+▐▗▖  ▄▖  ▐   ▐   ▄▖         ▖  ▖ ▄▖  ▖▄  ▐   ▄▟  ▐  
+▐▘▐ ▐▘▐  ▐   ▐  ▐▘▜         ▚▗▗▘▐▘▜  ▛ ▘ ▐  ▐▘▜  ▐  
+▐ ▐ ▐▀▀  ▐   ▐  ▐ ▐         ▐▟▟ ▐ ▐  ▌   ▐  ▐ ▐  ▝  
+▐ ▐ ▝▙▞  ▝▄  ▝▄ ▝▙▛  ▐       ▌▌ ▝▙▛  ▌   ▝▄ ▝▙█  ▐  
+                     ▘                              
+                                                    
+```
+
+### smpoison.flf:
+
+```text
+                                                 
+@@@  @@@ @@@@@@@@ @@@      @@@       @@@@@@      
+@@!  @@@ @@!      @@!      @@!      @@!  @@@     
+@!@!@!@! @!!!:!   @!!      @!!      @!@  !@!     
+!!:  !!! !!:      !!:      !!:      !!:  !!! !:! 
+ :   : : : :: ::  : ::.: : : ::.: :  : :. :  ::  
+                                             :   
+                                                      
+@@@  @@@  @@@  @@@@@@  @@@@@@@  @@@      @@@@@@@  @@@ 
+@@!  @@!  @@! @@!  @@@ @@!  @@@ @@!      @@!  @@@ @@@ 
+@!!  !!@  @!@ @!@  !@! @!@!!@!  @!!      @!@  !@! !@! 
+ !:  !!:  !!  !!:  !!! !!: :!!  !!:      !!:  !!!     
+  ::.:  :::    : :. :   :   : : : ::.: : :: :  :  :.: 
+                                                      
+```
+
+### smscript.flf:
+
+```text
+                                               
+|)    _ |\ |\  _              _   ,_  |\  _|  |
+|/\  |/ |/ |/ / \_   |  |  |_/ \_/  | |/ / |  |
+|  |/|_/|_/|_/\_/o    \/ \/  \_/    |/|_/\/|_/o
+                 /                             
+```
+
+### smshadow.flf:
+
+```text
+ |         | |                       |     | | 
+   \   -_) | |  _ \  \ \  \ / _ \  _||  _` |_| 
+_| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_) 
+                  /                            
+```
+
+### smslant.flf:
+
+```text
+   __       ____                         __   ____
+  / /  ___ / / /__      _    _____  ____/ /__/ / /
+ / _ \/ -_) / / _ \_   | |/|/ / _ \/ __/ / _  /_/ 
+/_//_/\__/_/_/\___( )  |__,__/\___/_/ /_/\_,_(_)  
+                  |/                              
+```
+
+### smtengwar.flf:
+
+```text
+\  ,'         c        c         _ _  / 
+/\  | --- --- |    |~) | \/ --- | ) ) \ 
+      (_, (_,   /  ~~~   (, (_, |     / 
+```
+
+### Soft.flf:
 
 ```text
                                     
@@ -4284,7 +5787,7 @@ _| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_)
                                     '--'  
 ```
 
-### fonts/Speed.flf:
+### Speed.flf:
 
 ```text
 ______      ___________                                     ___________________
@@ -4295,7 +5798,7 @@ _  / / /  __/  / _  / / /_/ /__      __ |/ |/ // /_/ /  /   _  / / /_/ /  /_/
                             _|/                                                
 ```
 
-### fonts/Spliff.flf:
+### Spliff.flf:
 
 ```text
  __ __  _____  ____   ____   _____    
@@ -4310,7 +5813,7 @@ _  / / /  __/  / _  / / /_/ /__      __ |/ |/ // /_/ /  /   _  / / /_/ /  /_/
                                          
 ```
 
-### fonts/Stacey.flf:
+### Stacey.flf:
 
 ```text
 __________________   ____   _______   
@@ -4329,7 +5832,7 @@ ___ __ _____________________   _____  ____
                                           
 ```
 
-### fonts/Stampate.flf:
+### Stampate.flf:
 
 ```text
 .       .  .                         .    . /\ 
@@ -4340,7 +5843,7 @@ ___ __ _____________________   _____  ____
                                                
 ```
 
-### fonts/Stampatello.flf:
+### Stampatello.flf:
 
 ```text
 .       .  .                         .    . /\ 
@@ -4351,7 +5854,7 @@ ___ __ _____________________   _____  ____
                                                
 ```
 
-### fonts/Standard.flf:
+### Standard.flf:
 
 ```text
  _          _ _                             _     _ _ 
@@ -4362,7 +5865,7 @@ ___ __ _____________________   _____  ____
                     |/                                
 ```
 
-### fonts/Star Strips.flf:
+### Star Strips.flf:
 
 ```text
 ----    ---- ------------ ----         ----           --------   , 
@@ -4385,7 +5888,7 @@ ___ __ _____________________   _____  ____
                                                                    
 ```
 
-### fonts/Star Wars.flf:
+### Star Wars.flf:
 
 ```text
  __    __   _______  __       __        ______       
@@ -4404,7 +5907,49 @@ ____    __    ____  ______   .______       __       _______   __
                                                                   
 ```
 
-### fonts/Stellar.flf:
+### starstrips.flf:
+
+```text
+----    --------------------        ----          -------- ,
+****    ********************        ****         ********** 
+----    --------        ----        ----        ----    ----
+****************************        ****        ***      ***
+----------------------------        ----        ---      ---
+****    ********        ****************************    ****
+----    ---------------------------------------- ---------- 
+****    ****************************************  ********  
+                                                            
+---      ---  --------  ----------- ----        ---------- !
+***  **  *** ********** *********** ****        ************
+---  --  -------    --------    --- ----        --        --
+***  **  ******      ************   ****        **        **
+---  --  ------      ------------   ----        --        --
+****************    ********  ****  **************        **
+ ----------  ---------- ----   ---- ------------------------
+  ********    ********  ****    **************************  
+                                                            
+```
+
+### starwars.flf:
+
+```text
+ __    __   _______  __       __        ______       
+|  |  |  | |   ____||  |     |  |      /  __  \      
+|  |__|  | |  |__   |  |     |  |     |  |  |  |     
+|   __   | |   __|  |  |     |  |     |  |  |  |     
+|  |  |  | |  |____ |  `----.|  `----.|  `--'  |  __ 
+|__|  |__| |_______||_______||_______| \______/  (_ )
+                                                  |/ 
+____    __    ____  ______   .______       __       _______   __  
+\   \  /  \  /   / /  __  \  |   _  \     |  |     |       \ |  | 
+ \   \/    \/   / |  |  |  | |  |_)  |    |  |     |  .--.  ||  | 
+  \            /  |  |  |  | |      /     |  |     |  |  |  ||  | 
+   \    /\    /   |  `--'  | |  |\  \----.|  `----.|  '--'  ||__| 
+    \__/  \__/     \______/  | _| `._____||_______||_______/ (__) 
+                                                                  
+```
+
+### Stellar.flf:
 
 ```text
                    `.. `..             
@@ -4425,7 +5970,7 @@ ____    __    ____  ______   .______       __       _______   __
                                             
 ```
 
-### fonts/Stforek.flf:
+### Stforek.flf:
 
 ```text
  _  _ ___ _   _   __     _   _  __  ___ _   __  _  
@@ -4434,7 +5979,7 @@ ____    __    ____  ______   .______       __       _______   __
 |_||_|___|___|___\__[_/ !_/ \_!\__/|_|_\___|__/(_) 
 ```
 
-### fonts/Stick Letters.flf:
+### Stick Letters.flf:
 
 ```text
       ___            __             __   __        __    /
@@ -4443,7 +5988,7 @@ ____    __    ____  ______   .______       __       _______   __
                          '                                
 ```
 
-### fonts/Stop.flf:
+### Stop.flf:
 
 ```text
  _           _ _                             _     _ _ 
@@ -4455,7 +6000,7 @@ ____    __    ____  ______   .______       __       _______   __
                      |/                                
 ```
 
-### fonts/Straight.flf:
+### Straight.flf:
 
 ```text
                             
@@ -4464,7 +6009,7 @@ ____    __    ____  ______   .______       __       _______   __
                             
 ```
 
-### fonts/Stronger Than All.flf:
+### Stronger Than All.flf:
 
 ```text
 .___.__  ._______.___    .___    ._______  
@@ -4487,7 +6032,7 @@ ____    __    ____  ______   .______       __       _______   __
                                                  
 ```
 
-### fonts/Sub-Zero.flf:
+### Sub-Zero.flf:
 
 ```text
  __  __     ______     __         __         ______    
@@ -4504,7 +6049,7 @@ ____    __    ____  ______   .______       __       _______   __
                                                          
 ```
 
-### fonts/Swamp Land.flf:
+### Swamp Land.flf:
 
 ```text
  ___   ___   ______   __       __       ______             
@@ -4525,7 +6070,28 @@ ____    __    ____  ______   .______       __       _______   __
                                                           
 ```
 
-### fonts/Swan.flf:
+### swampland.flf:
+
+```text
+ ___   ___   ______   __       __       ______             
+/__/\ /__/\ /_____/\ /_/\     /_/\     /_____/\            
+\::\ \\  \ \\::::_\/_\:\ \    \:\ \    \:::_ \ \           
+ \::\/_\ .\ \\:\/___/\\:\ \    \:\ \    \:\ \ \ \   ____   
+  \:: ___::\ \\::___\/_\:\ \____\:\ \____\:\ \ \ \ /___/\  
+   \: \ \\::\ \\:\____/\\:\/___/\\:\/___/\\:\_\ \ \\:::\ \ 
+    \__\/ \::\/ \_____\/ \_____\/ \_____\/ \_____\/  \::\/ 
+                                                           
+ __ __ __   ______   ______    __       ______   __       
+/_//_//_/\ /_____/\ /_____/\  /_/\     /_____/\ /__/\     
+\:\\:\\:\ \\:::_ \ \\:::_ \ \ \:\ \    \:::_ \ \\.:\ \    
+ \:\\:\\:\ \\:\ \ \ \\:(_) ) )_\:\ \    \:\ \ \ \\::\ \   
+  \:\\:\\:\ \\:\ \ \ \\: __ `\ \\:\ \____\:\ \ \ \\__\/_  
+   \:\\:\\:\ \\:\_\ \ \\ \ `\ \ \\:\/___/\\:\/.:| | /__/\ 
+    \_______\/ \_____\/ \_\/ \_\/ \_____\/ \____/_/ \__\/ 
+                                                          
+```
+
+### Swan.flf:
 
 ```text
                                              
@@ -4539,7 +6105,7 @@ ____    __    ____  ______   .______       __       _______   __
                                              
 ```
 
-### fonts/Sweet.flf:
+### Sweet.flf:
 
 ```text
  ___                 ___   ___                  
@@ -4570,26 +6136,7 @@ ____    __    ____  ______   .______       __       _______   __
                                                           
 ```
 
-### fonts/THIS.flf:
-
-```text
- ▄▀▀▄ ▄▄   ▄▀▀█▄▄▄▄  ▄▀▀▀▀▄    ▄▀▀▀▀▄    ▄▀▀▀▀▄  
-█  █   ▄▀ ▐  ▄▀   ▐ █    █    █    █    █      █ 
-▐  █▄▄▄█    █▄▄▄▄▄  ▐    █    ▐    █    █      █ 
-   █   █    █    ▌      █         █     ▀▄    ▄▀ 
-  ▄▀  ▄▀   ▄▀▄▄▄▄     ▄▀▄▄▄▄▄▄▀ ▄▀▄▄▄▄▄▄▀ ▀▀▀▀   
- █   █     █    ▐     █         █                
- ▐   ▐     ▐          ▐         ▐                
- ▄▀▀▄    ▄▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄  ▄▀▀▀▀▄     ▄▀▀█▄▄  
-█   █    ▐  █ █      █ █   █   █ █    █     █ ▄▀   █ 
-▐  █        █ █      █ ▐  █▀▀█▀  ▐    █     ▐ █    █ 
-  █   ▄    █  ▀▄    ▄▀  ▄▀    █      █        █    █ 
-   ▀▄▀ ▀▄ ▄▀    ▀▀▀▀   █     █     ▄▀▄▄▄▄▄▄▀ ▄▀▄▄▄▄▀ 
-         ▀             ▐     ▐     █        █     ▐  
-                                   ▐        ▐        
-```
-
-### fonts/Tanja.flf:
+### Tanja.flf:
 
 ```text
 h)              l)L  l)L              
@@ -4610,7 +6157,7 @@ w)  WW  WW o)   OO r)       l)  d)   DD
                                              
 ```
 
-### fonts/Tengwar.flf:
+### Tengwar.flf:
 
 ```text
 `Yb.           .dP'                           .dP"Yb    
@@ -4635,13 +6182,13 @@ w)  WW  WW o)   OO r)       l)  d)   DD
                        `""'                 .8P                   
 ```
 
-### fonts/Term.flf:
+### Term.flf:
 
 ```text
 hello, world!
 ```
 
-### fonts/Test1.flf:
+### Test1.flf:
 
 ```text
  ____ ____ __________ ____      ____      _________ 
@@ -4654,7 +6201,7 @@ hello, world!
  `BBBBBBB' `BBBBBBB' `BB' `BBB'`BBBBBBBB'`BBBBBBB' 
 ```
 
-### fonts/The Edge.flf:
+### The Edge.flf:
 
 ```text
  ▄  █ ▄███▄   █    █    ████▄       ▄ ▄   ████▄ █▄▄▄▄ █     ██▄     ▄ 
@@ -4666,7 +6213,7 @@ hello, world!
                                                                       
 ```
 
-### fonts/Thick.flf:
+### Thick.flf:
 
 ```text
 8           8 8                                   8    8 8 
@@ -4676,7 +6223,7 @@ hello, world!
                       ."                                   
 ```
 
-### fonts/Thin.flf:
+### Thin.flf:
 
 ```text
                                                            
@@ -4687,7 +6234,26 @@ hello, world!
                          '                                 
 ```
 
-### fonts/Thorned.flf:
+### THIS.flf:
+
+```text
+ ▄▀▀▄ ▄▄   ▄▀▀█▄▄▄▄  ▄▀▀▀▀▄    ▄▀▀▀▀▄    ▄▀▀▀▀▄  
+█  █   ▄▀ ▐  ▄▀   ▐ █    █    █    █    █      █ 
+▐  █▄▄▄█    █▄▄▄▄▄  ▐    █    ▐    █    █      █ 
+   █   █    █    ▌      █         █     ▀▄    ▄▀ 
+  ▄▀  ▄▀   ▄▀▄▄▄▄     ▄▀▄▄▄▄▄▄▀ ▄▀▄▄▄▄▄▄▀ ▀▀▀▀   
+ █   █     █    ▐     █         █                
+ ▐   ▐     ▐          ▐         ▐                
+ ▄▀▀▄    ▄▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄  ▄▀▀▀▀▄     ▄▀▀█▄▄  
+█   █    ▐  █ █      █ █   █   █ █    █     █ ▄▀   █ 
+▐  █        █ █      █ ▐  █▀▀█▀  ▐    █     ▐ █    █ 
+  █   ▄    █  ▀▄    ▄▀  ▄▀    █      █        █    █ 
+   ▀▄▀ ▀▄ ▄▀    ▀▀▀▀   █     █     ▄▀▄▄▄▄▄▄▀ ▄▀▄▄▄▄▀ 
+         ▀             ▐     ▐     █        █     ▐  
+                                   ▐        ▐        
+```
+
+### Thorned.flf:
 
 ```text
  , ,  _,,   ,    _, ,   ,  ,  _, ,_  ,   ,_ !
@@ -4697,7 +6263,7 @@ hello, world!
                                              
 ```
 
-### fonts/Three Point.flf:
+### Three Point.flf:
 
 ```text
 |_  _ || _       _  _| _||
@@ -4705,7 +6271,15 @@ hello, world!
                           
 ```
 
-### fonts/Ticks Slant.flf:
+### threepoint.flf:
+
+```text
+|_  _ || _       _  _| _||
+| |(/_||(_),  VV(_)| |(_|.
+                          
+```
+
+### Ticks Slant.flf:
 
 ```text
      _/\/\____________________/\/\____/\/\_____________________
@@ -4722,7 +6296,7 @@ _____________________________________________________/\___
 __________________________________________________________________     
 ```
 
-### fonts/Ticks.flf:
+### Ticks.flf:
 
 ```text
 _/\/\____________________/\/\____/\/\_____________________
@@ -4739,7 +6313,24 @@ ___/\/\__/\/\______/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_
 __________________________________________________________________
 ```
 
-### fonts/Tiles.flf:
+### ticksslant.flf:
+
+```text
+     _/\/\____________________/\/\____/\/\_____________________
+    _/\/\__________/\/\/\____/\/\____/\/\______/\/\/\_________ 
+   _/\/\/\/\____/\/\/\/\/\__/\/\____/\/\____/\/\__/\/\_______  
+  _/\/\__/\/\__/\/\________/\/\____/\/\____/\/\__/\/\__/\/\_   
+ _/\/\__/\/\____/\/\/\/\__/\/\/\__/\/\/\____/\/\/\____/\/\_    
+_____________________________________________________/\___     
+     _________________________________________/\/\__________/\/\__/\/\_
+    _/\/\______/\/\____/\/\/\____/\/\__/\/\__/\/\__________/\/\__/\/\_ 
+   _/\/\__/\__/\/\__/\/\__/\/\__/\/\/\/\____/\/\______/\/\/\/\__/\/\_  
+  _/\/\/\/\/\/\/\__/\/\__/\/\__/\/\________/\/\____/\/\__/\/\_______   
+ ___/\/\__/\/\______/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_    
+__________________________________________________________________     
+```
+
+### Tiles.flf:
 
 ```text
                    [.. [..             
@@ -4760,7 +6351,7 @@ __________________________________________________________________
                                             
 ```
 
-### fonts/Tinker-Toy.flf:
+### Tinker-Toy.flf:
 
 ```text
 o        o o                            o    o o 
@@ -4772,7 +6363,7 @@ o  o o-o o o o-o o       o   o  o-o o   o  o-o O
                                                  
 ```
 
-### fonts/Tombstone.flf:
+### Tombstone.flf:
 
 ```text
  _,_ __, _,  _,   _,     _  _  _, __, _,  __, ,
@@ -4782,7 +6373,7 @@ o  o o-o o o o-o o       o   o  o-o o   o  o-o O
                                                
 ```
 
-### fonts/Train.flf:
+### Train.flf:
 
 ```text
   _                 _       _                    
@@ -4799,7 +6390,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 ```
 
-### fonts/Trek.flf:
+### Trek.flf:
 
 ```text
      dBP dBP dBBBP  dBP    dBP    dBBBBP  
@@ -4816,7 +6407,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |
                                            dBP     
 ```
 
-### fonts/Tsalagi.flf:
+### Tsalagi.flf:
 
 ```text
   __    ___    ___    ___   ___  __       
@@ -4831,7 +6422,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |
 _/   \_   \/   \__/    `__'   |/    @     
 ```
 
-### fonts/Tubular.flf:
+### Tubular.flf:
 
 ```text
                    O~~ O~~             
@@ -4852,7 +6443,7 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
                                             
 ```
 
-### fonts/Twisted.flf:
+### Twisted.flf:
 
 ```text
   __   __     _____   __       __       _____       
@@ -4873,31 +6464,21 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
                                                           
 ```
 
-### fonts/Two Point.flf:
+### Two Point.flf:
 
 ```text
 |_  _|| _         _ ._| _||
 | |}_||(_))  \/\/(_)| |(_|o
 ```
 
-### fonts/USA Flag.flf:
+### twopoint.flf:
 
 ```text
- :::  === :::===== :::      :::      :::====     
- :::  === :::      :::      :::      :::  ===    
- ======== ======   ===      ===      ===  ===    
- ===  === ===      ===      ===      ===  ===  ==
- ===  === ======== ======== ========  ======   ==
-                                              == 
- :::  ===  === :::====  :::====  :::      :::====  ===
- :::  ===  === :::  === :::  === :::      :::  === ===
- ===  ===  === ===  === =======  ===      ===  === ===
-  ===========  ===  === === ===  ===      ===  ===    
-   ==== ====    ======  ===  === ======== =======  ===
-                                                      
+|_  _|| _         _ ._| _||
+| |}_||(_))  \/\/(_)| |(_|o
 ```
 
-### fonts/Univers.flf:
+### Univers.flf:
 
 ```text
                                               
@@ -4924,7 +6505,41 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
                                                              
 ```
 
-### fonts/Varsity.flf:
+### USA Flag.flf:
+
+```text
+ :::  === :::===== :::      :::      :::====     
+ :::  === :::      :::      :::      :::  ===    
+ ======== ======   ===      ===      ===  ===    
+ ===  === ===      ===      ===      ===  ===  ==
+ ===  === ======== ======== ========  ======   ==
+                                              == 
+ :::  ===  === :::====  :::====  :::      :::====  ===
+ :::  ===  === :::  === :::  === :::      :::  === ===
+ ===  ===  === ===  === =======  ===      ===  === ===
+  ===========  ===  === === ===  ===      ===  ===    
+   ==== ====    ======  ===  === ======== =======  ===
+                                                      
+```
+
+### usaflag.flf:
+
+```text
+ :::  === :::===== :::      :::      :::====     
+ :::  === :::      :::      :::      :::  ===    
+ ======== ======   ===      ===      ===  ===    
+ ===  === ===      ===      ===      ===  ===  ==
+ ===  === ======== ======== ========  ======   ==
+                                              == 
+ :::  ===  === :::====  :::====  :::      :::====  ===
+ :::  ===  === :::  === :::  === :::      :::  === ===
+ ===  ===  === ===  === =======  ===      ===  === ===
+  ===========  ===  === === ===  ===      ===  ===    
+   ==== ====    ======  ===  === ======== =======  ===
+                                                      
+```
+
+### Varsity.flf:
 
 ```text
  __             __   __            
@@ -4943,7 +6558,7 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
                                              
 ```
 
-### fonts/Wavy.flf:
+### Wavy.flf:
 
 ```text
                                           
@@ -4952,7 +6567,7 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
     (_           /                        
 ```
 
-### fonts/Weird.flf:
+### Weird.flf:
 
 ```text
                                                        
@@ -4963,7 +6578,7 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
                    /                                   
 ```
 
-### fonts/Wet Letter.flf:
+### Wet Letter.flf:
 
 ```text
  .-. .-.,---.  ,-.    ,-.    .---.  ,
@@ -4982,7 +6597,26 @@ O~~~     O~~   O~~    O~~~   O~~~ O~~ O~~O~~
         (_)         (__)(_)                  
 ```
 
-### fonts/Whimsy.flf:
+### wetletter.flf:
+
+```text
+ .-. .-.,---.  ,-.    ,-.    .---.  ,
+ | | | || .-'  | |    | |   / .-. )  
+ | `-' || `-.  | |    | |   | | |(_) 
+ | .-. || .-'  | |    | |   | | | |  
+ | | |)||  `--.| `--. | `--.\ `-' /  
+ /(  (_)/( __.'|( __.'|( __.')---'   
+(__)   (__)    (_)    (_)   (_)      
+.-.  .-. .---.  ,---.   ,-.     ,'|"\   .-.  
+| |/\| |/ .-. ) | .-.\  | |     | |\ \  |  ) 
+| /  \ || | |(_)| `-'/  | |     | | \ \ | /  
+|  /\  || | | | |   (   | |     | |  \ \|/   
+|(/  \ |\ `-' / | |\ \  | `--.  /(|`-' /(    
+(_)   \| )---'  |_| \)\ |( __.'(__)`--'(_)   
+        (_)         (__)(_)                  
+```
+
+### Whimsy.flf:
 
 ```text
  d8b              d8b  d8b         
@@ -5007,1649 +6641,15 @@ d88'   88b`?888P'  88b  88b`?8888P'
                                                
 ```
 
-### fonts/Wow.flf:
-
-```text
-][-][ ]E ][_ ][_ [[]] ,  \\/\\/ [[]] ][2 ][_ ][_) !!1 
-```
-
-### fonts/alligator3.flf:
-
-```text
-:::    ::::::::::::::::       :::       ::::::::     
-:+:    :+::+:       :+:       :+:      :+:    :+:    
-+:+    +:++:+       +:+       +:+      +:+    +:+    
-+#++:++#+++#++:++#  +#+       +#+      +#+    +:+    
-+#+    +#++#+       +#+       +#+      +#+    +#+    
-#+#    #+##+#       #+#       #+#      #+#    #+##+# 
-###    ######################################### ##  
-:::       ::: :::::::: ::::::::: :::       ::::::::: ::: 
-:+:       :+::+:    :+::+:    :+::+:       :+:    :+::+: 
-+:+       +:++:+    +:++:+    +:++:+       +:+    +:++:+ 
-+#+  +:+  +#++#+    +:++#++:++#: +#+       +#+    +:++#+ 
-+#+ +#+#+ +#++#+    +#++#+    +#++#+       +#+    +#++#+ 
- #+#+# #+#+# #+#    #+##+#    #+##+#       #+#    #+#    
-  ###   ###   ######## ###    ###################### ### 
-```
-
-### fonts/amc3line.flf:
-
-```text
-. . .-. .   .   .-.     . . . .-. .-. .   .-. . 
-|-| |-  |   |   | |     | | | | | |(  |   |  )| 
-' ` `-' `-' `-' `-' ,   `.'.' `-' ' ' `-' `-' . 
-                                                
-```
-
-### fonts/amc3liv1.flf:
-
-```text
-.:;S;:.              :.      :. .:;S;:. 
-   S    S  S  S       S       S S     S 
-`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:' 
-                                        
-.:;S;:. .:;S;:. .:;.;:.      :.  .:;:.          
-     (  S     S S  S          S S     S .:;s ;: 
-`:;S;:' `:;S;:' `:;S;:' `:;S;:' `:;S;:'         
-                                                
-```
-
-### fonts/amcaaa01.flf:
-
-```text
- .S    S.     sSSs  S.      S.        sSSs_sSSs    
-.SS    SS.   d%%SP  SS.     SS.      d%%SP~YS%%b   
-S%S    S%S  d%S'    S%S     S%S     d%S'     `S%b  
-S%S    S%S  S%S     S%S     S%S     S%S       S%S  
-S%S SSSS%S  S&S     S&S     S&S     S&S       S&S  
-S&S  SSS&S  S&S_Ss  S&S     S&S     S&S       S&S  
-S&S    S&S  S&S~SP  S&S     S&S     S&S       S&S  
-S&S    S&S  S&S     S&S     S&S     S&S       S&S  
-S*S    S*S  S*b     S*b     S*b     S*b       d*S  
-S*S    S*S  S*S.    S*S.    S*S.    S*S.     .S*S  
-S*S    S*S   SSSbs   SSSbs   SSSbs   SSSbs_sdSSS   
-SSS    S*S    YSSP    YSSP    YSSP    YSSP~YSSY    
-       SP                                          
-       Y                                           
-                                                   
- .S     S.     sSSs_sSSs     .S_sSSs    S.       .S_sSSs    
-.SS     SS.   d%%SP~YS%%b   .SS~YS%%b   SS.     .SS~YS%%b   
-S%S     S%S  d%S'     `S%b  S%S   `S%b  S%S     S%S   `S%b  
-S%S     S%S  S%S       S%S  S%S    S%S  S%S     S%S    S%S  
-S%S     S%S  S&S       S&S  S%S    d*S  S&S     S%S    S&S  
-S&S     S&S  S&S       S&S  S&S   .S*S  S&S     S&S    S&S  
-S&S     S&S  S&S       S&S  S&S_sdSSS   S&S     S&S    S&S  
-S&S     S&S  S&S       S&S  S&S~YSY%b   S&S     S&S    S&S  
-S*S     S*S  S*b       d*S  S*S   `S%b  S*b     S*S    d*S  
-S*S  .  S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S   .S*S  
-S*S_sSs_S*S   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S_sdSSS   
-SSS~SSS~S*S    YSSP~YSSY    S*S    SSS    YSSP  SSS~YSSY    
-                            SP                              
-                            Y                               
-                                                            
-```
-
-### fonts/amcneko.flf:
-
-```text
-                                                                  
-.sSSS SSSSS .sSSSSs.    SSSSS       SSSSS       .sSSSSs.          
-S SSS SSSSS S SSSSSSSs. S SSS       S SSS       S SSSSSSSs.       
-S  SS SSSSS S  SS SSSS' S  SS       S  SS       S  SS SSSSS       
-S..SSsSSSSS S..SS       S..SS       S..SS       S..SS SSSSS       
-S:::S SSSSS S:::SSSS    S:::S       S:::S       S:::S SSSSS       
-S;;;S SSSSS S;;;S       S;;;S       S;;;S       S;;;S SSSSS .sSs. 
-S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S 
-SSSSS SSSSS SSSSSsSS;:' SSSSSsSS;:' SSSSSsSS;:' SSSSSsSSSSS `"":5 
-                                                              ;:' 
-                                                                  SSSSS 
-.sSSS       s.    .sSSSSs.    .sSSSSSSSs. SSSSS       .sSSSSs.    S SSS 
-S SSS       SSSs. S SSSSSSSs. S SSS SSSSS S SSS       S SSSSSSSs. S  SS 
-S  SS       SSSSS S  SS SSSSS S  SS SSSS' S  SS       S  SS SSSSS S;;;S 
-S..SS       SSSSS S..SS SSSSS S..SSsSSSa. S..SS       S..SS SSSSS S%%%S 
-S:::S       SSSSS S:::S SSSSS S:::S SSSSS S:::S       S:::S SSSSS SSSSS 
-S;;;S   S   SSSSS S;;;S SSSSS S;;;S SSSSS S;;;S       S;;;S SSSSS .sSs. 
-S%%%S  SSS  SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSS' S%%%S 
-SSSSSsSS SSsSSSSS SSSSSsSSSSS SSSSS SSSSS SSSSSsSS;:' SSSSSsS;:'  `:;:' 
-                                                                        
-```
-
-### fonts/amcrazo2.flf:
-
-```text
-   . .       . .       .         .         . .    
-.+'| |`+. .+'|=|`+. .+'|      .+'|      .+'|=|`+. 
-|  | |  | |  | `+.| |  |      |  |      |  | |  | 
-|  |=|  | |  |=|`.  |  |      |  |      |  | |  | 
-|  | |  | |  | `.|  |  |      |  |      |  | |  | 
-|  | |  | |  |    . |  |    . |  |    . |  | |  | 
-|  | |  | |  | .+'| |  | .+'| |  | .+'| |  | |  | 
-`+.| |..| `+.|=|.+' `+.|=|.+' `+.|=|.+' `+.|=|.+' 
-                                                  
-   .    .    .    . .       . .       .         . .    .    
-.+'|  .'|  .'| .+'|=|`+. .+'|=|`+. .+'|      .+'|=|`+. |`+. 
-|  |  | |  | | |  | |  | |  | |  | |  |      |  | `+ | |  | 
-|  |  | |  | | |  | |  | |  |'. '. |  |      |  |  | | |  | 
-|  |  | |  | | |  | |  | |  | |  | |  |      |  |  | | `+.| 
-|  |  | |  | | |  | |  | |  | |  | |  |    . |  |  | | .    
-|  | .+ | .+ | |  | |  | |  | |  | |  | .+'| |  | .+ | |`+. 
-`+.|=|.+'=|.+' `+.|=|.+' `+.| |.+' `+.|=|.+' `+.|=|.+' `+.| 
-                                                            
-```
-
-### fonts/amcrazor.flf:
-
-```text
-                   ___                                       
-  .'| |`.     .'|=|_.'   .'|        .'|        .'|=|`.       
-.'  | |  `. .'  |  ___ .'  |      .'  |      .'  | |  `.     
-|   |=|   | |   |=|_.' |   |      |   |      |   | |   |     
-|   | |   | |   |  ___ |   |  ___ |   |  ___ `.  | |  .' .-. 
-|___| |___| |___|=|_.' |___|=|_.' |___|=|_.'   `.|=|.'   `/' 
-                                                             
- ___    ___                     __                         
-|   |  |   |   .'|=|`.     .'|=|  |   .'|        .'|=|`.   
-|   |  |   | .'  | |  `. .'  | |  | .'  |      .'  | |  `. 
-|   |  |   | |   | |   | |   |=|.'  |   |      |   | |   | 
-`.  |  |  .' `.  | |  .' |   |  |`. |   |  ___ |   | |  .' 
-  `.|/\|.'     `.|=|.'   |___|  |_| |___|=|_.' |___|=|.'   
-                                                           
-```
-
-### fonts/amcslash.flf:
-
-```text
-                                                  
-.s    s.  .s5SSSs.  .s        .s        .s5SSSs.  
-      SS.       SS.                           SS. 
-sS    S%S sS    `:; sS        sS        sS    S%S 
-SSSs. S%S SSSs.     SS        SS        SS    S%S 
-SS    S%S SS        SS        SS        SS    S%S 
-SS    `:; SS        SS        SS        SS    `:; 
-SS    ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
-:;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' 
-                                                  
-                                                   
-.s s.  s.  .s5SSSs.  .s5SSSs.  .s        .s5SSSs.  
-   SS. SS.       SS.       SS.                 SS. 
-sS S%S S%S sS    S%S sS    S%S sS        sS    S%S 
-SS S%S S%S SS    S%S SS .sS;:' SS        SS    S%S 
-SS S%S S%S SS    S%S SS    ;,  SS        SS    S%S 
-SS `:; `:; SS    `:; SS    `:; SS        SS    `:; 
-SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
-`:;;:'`::' `:;;;;;:' `:    ;:' `:;;;;;:' ;;;;;;;:' 
-                                                   
-```
-
-### fonts/amcslder.flf:
-
-```text
-             ____                             ______    
-|         | |            |        |         .~      ~.  
-|_________| |______      |        |        |          | 
-|         | |            |        |        |          | 
-|         | |___________ |_______ |_______  `.______.'  
-                                                        
-                       ______                                   
-`.               .'  .~      ~.  |`````````, |        |``````.  
-  `.           .'   |          | |'''|'''''  |        |       | 
-    `.   .   .'     |          | |    `.     |        |       | 
-      `.' `.'        `.______.'  |      `.   |_______ |......'  
-                                                                
-```
-
-### fonts/amcthin.flf:
-
-```text
-.-.   .-. .-..--. .-.     .-.     .-..-..-.     
-| | _ | | | | ~~  | |     | |     | | ~ | |     
-| |`-'| | | | _   | |     | |     | |   | |     
-| |   | | | |`-'  | |     | |     | |   | |     
-| |   | | | | __  | | __  | | __  | | _ | |  _  
-`-'   `-' `-'`--' `-'`--' `-'`--' `-'`-'`-' `/' 
-                                                
-.-. .-. .-. .-..-..-. .-..-.   .-.     .-..-.   .-. 
-| | | | | | | | ~ | | | | ~.-. | |     | | ~.-. | | 
-| | | | | | | |   | | | |.-.~  | |     | |  | | | | 
-| | | | | | | |   | | | | ~.-. | |     | |  | | `-' 
-`-'_`-'_`-' | | _ | | | |  | | | | __  | | _`-'  _  
-  `-' `-'   `-'`-'`-' `-'  `-' `-'`--' `-'`-'   `-' 
-                                                    
-```
-
-### fonts/amctubes.flf:
-
-```text
-d    d d sss   d      d        sSSSs   
-S    S S       S      S       S     S  
-S    S S       S      S      S       S 
-S sSSS S sSSs  S      S      S       S 
-S    S S       S      S      S       S 
-S    S S       S      S       S     S  
-P    P P sSSss P sSSs P sSSs   "sss"   
-                                       
-d  d  b   sSSSs   d ss.  d      d ss    
-S  S  S  S     S  S    b S      S   ~o  
-S  S  S S       S S    P S      S     b 
-S  S  S S       S S sS'  S      S     S 
-S  S  S S       S S   S  S      S     P 
- S  S S  S     S  S    S S      S    S  
-  "ss"S   "sss"   P    P P sSSs P ss"   
-                                        
-```
-
-### fonts/amcun1.flf:
-
-```text
-                                                
-                                                
-,'', ,'', ,'',,'', ,'',     ,'',      ,'',,'',  
-;  ;,;  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
-;  ;';  ; ;  ;',,' ;  ;     ;  ;     ;   ;;   ; 
-;  ; ;  ; ;  ; ,,  ;  ;,'', ;  ;,'', ;   ;;   ; 
-',,' ',,' ',,'',,' ',,'',,' ',,'',,'  ',,'',,'  
-                                                
-                                                     
-                                                     
-,'', ,', ,',  ,'',,'',  ,'',,'',  ,'',     ,'',,'',  
-;  ; ; ; ; ; ;   ;;   ; ;  ;',  ; ;  ;     ;  ;;   ; 
-;  ; ; ; ; ; ;   ;;   ; ;  ;,' ,' ;  ;     ;  ;;   ; 
-;  ;,' ;,' ; ;   ;;   ; ;  ;', ', ;  ;,'', ;  ;;   ; 
-',,'',,'',,'  ',,'',,'  ',,' ',,' ',,'',,' ',,'',,'  
-                                                     
-```
-
-### fonts/ascii12.tlf:
-
-```text
-                                                            
- mm                  mmmm      mmmm                         
- ##                  ""##      ""##                         
- ##m####m   m####m     ##        ##       m####m            
- ##"   ##  ##mmmm##    ##        ##      ##"  "##           
- ##    ##  ##""""""    ##        ##      ##    ##           
- ##    ##  "##mmmm#    ##mmm     ##mmm   "##mm##"     ##    
- ""    ""    """""      """"      """"     """"       ##    
-                                                     ""     
-                                                            
-                                                            
-                               mmmm            mm     mm    
-                               ""##            ##     ##    
-##      ##  m####m    ##m####    ##       m###m##     ##    
-"#  ##  #" ##"  "##   ##"        ##      ##"  "##     ##    
- ##m##m##  ##    ##   ##         ##      ##    ##     ""    
- "##  ##"  "##mm##"   ##         ##mmm   "##mm###     mm    
-  ""  ""     """"     ""          """"     """ ""     ""    
-                                                            
-                                                            
-```
-
-### fonts/ascii9.tlf:
-
-```text
-                                          
- #             ""#    ""#                 
- # mm    mmm     #      #     mmm         
- #"  #  #"  #    #      #    #" "#        
- #   #  #""""    #      #    #   #        
- #   #  "#mm"    "mm    "mm  "#m#"    #   
-                                     "    
-                                          
-                                          
-                      ""#        #    m   
-m     m  mmm    m mm    #     mmm#    #   
-"m m m" #" "#   #"  "   #    #" "#    #   
- #m#m#  #   #   #       #    #   #    "   
-  # #   "#m#"   #       "mm  "#m##    #   
-                                          
-                                          
-```
-
-### fonts/ascii_new_roman.flf:
-
-```text
- __, _,____,__,  __,  ____,,  _   _,____, ____, __,  ____,__, 
-(-|__|(-|_,(-|  (-|  (-/  \  (-|  |(-/  \(-|__)(-|  (-|  (-V  
- _|  |,_|__,_|__,_|__,_\__/,  _|/\|,_\__/,_|  \,_|__,_|__/_o  
-(     (    (    (    (       (     (     (     (    (    (    
-```
-
-### fonts/bigascii12.tlf:
-
-```text
-                                                            
-                                                            
-                                                            
- ##                  ####      ####                         
- ##                  ####      ####                         
- ##                    ##        ##                         
- ##.####    .####:     ##        ##       .####.            
- #######   .######:    ##        ##      .######.           
- ###  :##  ##:  :##    ##        ##      ###  ###           
- ##    ##  ########    ##        ##      ##.  .##           
- ##    ##  ########    ##        ##      ##    ##           
- ##    ##  ##          ##        ##      ##.  .##           
- ##    ##  ###.  :#    ##:       ##:     ###  ###     ##    
- ##    ##  .#######    #####     #####   .######.     ##    
- ##    ##   .#####:    .####     .####    .####.     .##    
-                                                     :#     
-                                                     ##.    
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                               ####            ##     ##    
-                               ####            ##     ##    
-                                 ##            ##     ##    
-##      ##  .####.    ##.####    ##       :###.##     ##    
-##.    .## .######.   #######    ##      :#######     ##    
- #: ## :#  ###  ###   ###.       ##      ###  ###     ##    
-:#:.##.:#: ##.  .##   ##         ##      ##.  .##     ##    
- # :##:##  ##    ##   ##         ##      ##    ##     ##    
- ## ## ##  ##.  .##   ##         ##      ##.  .##           
- ###::##   ###  ###   ##         ##:     ###  ###           
- :##..##:  .######.   ##         #####   :#######     ##    
- .##  ##    .####.    ##         .####    :###.##     ##    
-                                                            
-                                                            
-                                                            
-                                                            
-```
-
-### fonts/bigascii9.tlf:
-
-```text
-                                          
-                                          
- #             ###    ###                 
- #               #      #                 
- #               #      #                 
- #:##:   ###     #      #     ###         
- #  :#     :#    #      #    #   #        
- #   #  #   #    #      #    #   #        
- #   #  #####    #      #    #   #        
- #   #  #        #      #    #   #        
- #   #      #    #.     #.   #   #    #   
- #   #   ###:    :##    :##   ###    .#   
-                                     #:   
-                                          
-                                          
-                                          
-                                          
-                      ###        #        
-                        #        #    #   
-                        #        #    #   
-#.    #  ###    #:##:   #     ## #    #   
- :   :# #   #   ##  #   #    #   #    #   
-.# # #: #   #   #       #    #   #    #   
- #:#:#  #   #   #       #    #   #    #   
- #####  #   #   #       #    #   #        
- :#:#:  #   #   #       #.   #   #    #   
-  # #    ###    #       :##   ## #    #   
-                                          
-                                          
-                                          
-```
-
-### fonts/bigchief.flf:
-
-```text
-______________________________________________________________________
-                                                                    / 
-    /           /   /                                  /       /   /  
----/__----__---/---/----__-----------------__---)__---/----__-/---/---
-  /   ) /___) /   /   /   )      | /| /  /   ) /   ) /   /   /   /    
-_/___/_(___ _/___/___(___/__/____|/_|/__(___/_/_____/___(___/___o_____
-                           /                                          
-                                                                      
-```
-
-### fonts/bigmono12.tlf:
-
-```text
-                                                            
-                                                            
-                                                            
- ██                  ████      ████                         
- ██                  ████      ████                         
- ██                    ██        ██                         
- ██░████    ░████▒     ██        ██       ░████░            
- ███████▓  ░██████▒    ██        ██      ░██████░           
- ███  ▒██  ██▒  ▒██    ██        ██      ███  ███           
- ██    ██  ████████    ██        ██      ██░  ░██           
- ██    ██  ████████    ██        ██      ██    ██           
- ██    ██  ██          ██        ██      ██░  ░██           
- ██    ██  ███░  ▒█    ██▒       ██▒     ███  ███     ██    
- ██    ██  ░███████    █████     █████   ░██████░     ██    
- ██    ██   ░█████▒    ░████     ░████    ░████░     ░██    
-                                                     ▒█▓    
-                                                     ██░    
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                               ████            ██     ██    
-                               ████            ██     ██    
-                                 ██            ██     ██    
-██      ██  ░████░    ██░████    ██       ▒███░██     ██    
-██░    ░██ ░██████░   ███████    ██      ▒███████     ██    
-▓█▒ ██ ▒█▓ ███  ███   ███░       ██      ███  ███     ██    
-▒█▒░██░▒█▒ ██░  ░██   ██         ██      ██░  ░██     ██    
- █▓▒██▒██  ██    ██   ██         ██      ██    ██     ██    
- ██▓██▓██  ██░  ░██   ██         ██      ██░  ░██           
- ███▒▒██▓  ███  ███   ██         ██▒     ███  ███           
- ▒██░░██▒  ░██████░   ██         █████   ▒███████     ██    
- ░██  ██    ░████░    ██         ░████    ▒███░██     ██    
-                                                            
-                                                            
-                                                            
-                                                            
-```
-
-### fonts/bigmono9.tlf:
-
-```text
-                                          
-                                          
- █             ███    ███                 
- █               █      █                 
- █               █      █                 
- █▒██▒   ███     █      █     ███         
- █▓ ▒█  ▓▓ ▒█    █      █    █▓ ▓█        
- █   █  █   █    █      █    █   █        
- █   █  █████    █      █    █   █        
- █   █  █        █      █    █   █        
- █   █  ▓▓  █    █░     █░   █▓ ▓█    █   
- █   █   ███▒    ▒██    ▒██   ███    ░█   
-                                     █▒   
-                                          
-                                          
-                                          
-                                          
-                      ███        █        
-                        █        █    █   
-                        █        █    █   
-█░    █  ███    █▒██▒   █     ██▓█    █   
-▓▒   ▒█ █▓ ▓█   ██  █   █    █▓ ▓█    █   
-░█ █ █▒ █   █   █       █    █   █    █   
- █▒█▒█  █   █   █       █    █   █    █   
- █████  █   █   █       █    █   █        
- ▒█▒█▒  █▓ ▓█   █       █░   █▓ ▓█    █   
-  █ █    ███    █       ▒██   ██▓█    █   
-                                          
-                                          
-                                          
-```
-
-### fonts/broadway_kb.flf:
-
-```text
- _     ____  _     _     ___          _       ___   ___   _     ___   __ 
-| |_| | |_  | |   | |   / / \  __    \ \    // / \ | |_) | |   | | \ |_/ 
-|_| | |_|__ |_|__ |_|__ \_\_/ /_/)    \_\/\/ \_\_/ |_| \ |_|__ |_|_/ (_) 
-```
-
-### fonts/calgphy2.flf:
-
-```text
-                                          
-  /               ###   ###               
-#/                 ###   ###              
-##                  ##    ##              
-##                  ##    ##              
-##                  ##    ##              
-##  /##      /##    ##    ##      /###    
-## / ###    / ###   ##    ##     / ###  / 
-##/   ###  /   ###  ##    ##    /   ###/  
-##     ## ##    ### ##    ##   ##    ##   
-##     ## ########  ##    ##   ##    ##   
-##     ## #######   ##    ##   ##    ##   
-##     ## ##        ##    ##   ##    ##   
-##     ## ####    / ##    ##   ##    ##   
-##     ##  ######/  ### / ### / ######    
- ##    ##   #####    ##/   ##/   ####   c 
-       /                                o 
-      /                                 m 
-     /                                  m 
-    /                                   a 
-                                                                     
-                                          ###         ##     ###     
-                                           ###         ##     ###    
-                                            ##         ##      ##    
-##                                          ##         ##      ##    
-##                                          ##         ##      ##    
- ##    ###    ####      /###   ###  /###    ##     ### ##      ##    
-  ##    ###     ###  / / ###  / ###/ #### / ##    #########    ##    
-  ##     ###     ###/ /   ###/   ##   ###/  ##   ##   ####     ##    
-  ##      ##      ## ##    ##    ##         ##   ##    ##      ##    
-  ##      ##      ## ##    ##    ##         ##   ##    ##      ### / 
-  ##      ##      ## ##    ##    ##         ##   ##    ##       ##/  
-  ##      ##      ## ##    ##    ##         ##   ##    ##            
-  ##      /#      /  ##    ##    ##         ##   ##    /#       #    
-   ######/ ######/    ######     ###        ### / ####/        ###   
-    #####   #####      ####       ###        ##/   ###          #    
-                                                                     
-                                                                     
-                                                                     
-                                                                     
-```
-
-### fonts/circle.tlf:
-
-```text
-ⓗⓔⓛⓛⓞ, ⓦⓞⓡⓛⓓ!
-```
-
-### fonts/cosmic.flf:
-
-```text
-  ::   .: .,::::::   :::      :::         ...        
- ,;;   ;;,;;;;''''   ;;;      ;;;      .;;;;;;;.     
-,[[[,,,[[[ [[cccc    [[[      [[[     ,[[     \[[,   
-"$$$"""$$$ $$""""    $$'      $$'     $$$,     $$$   
- 888   "88o888oo,__ o88oo,.__o88oo,.__"888,_ _,88Pd8b
- MMM    YMM""""YUMMM""""YUMMM""""YUMMM  "YMMMMMP" ,M"
-.::    .   .:::  ...    :::::::..    :::   :::::::-.   .:
-';;,  ;;  ;;;'.;;;;;;;. ;;;;``;;;;   ;;;    ;;,   `';,;;;
- '[[, [[, [[',[[     \[[,[[[,/[[['   [[[    `[[     [['[[
-   Y$c$$$c$P $$$,     $$$$$$$$$c     $$'     $$,    $$ $$
-    "88"888  "888,_ _,88P888b "88bo,o88oo,.__888_,o8P' ""
-     "M "M"    "YMMMMMP" MMMM   "W" """"YUMMMMMMMP"`   MM
-```
-
-### fonts/dancingfont.flf:
-
-```text
-  _   _  U _____ u  _       _       U  ___ u  
- |'| |'| \| ___"|/ |"|     |"|       \/"_ \/  
-/| |_| |\ |  _|" U | | u U | | u     | | | |  
-U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |  
- |_| |_|  |_____|  |_____| |_____|\_)-\___/_  
- //   \\  <<   >>  //  \\  //  \\      \\ (") 
-(_") ("_)(__) (__)(_")("_)(_")("_)    (__) \| 
-                U  ___ u   ____      _      ____    _    
- __        __    \/"_ \/U |  _"\ u  |"|    |  _"\ U|"|u  
- \"\      /"/    | | | | \| |_) |/U | | u /| | | |\| |/  
- /\ \ /\ / /\.-,_| |_| |  |  _ <   \| |/__U| |_| |\|_|   
-U  \ V  V /  U\_)-\___/   |_| \_\   |_____||____/ u(_)   
-.-,_\ /\ /_,-.     \\     //   \\_  //  \\  |||_   |||_  
- \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_) (__)_) 
-```
-
-### fonts/defleppard.flf:
-
-```text
-                                                             
-                                                       :     
-                     ,;                               t#,    
- .    .            f#i            i              i   ;##W.   
- Di   Dt         .E#t            LE             LE  :#L:WE   
- E#i  E#i       i#W,            L#E            L#E .KG  ,#D  
- E#t  E#t      L#D.            G#W.           G#W. EE    ;#f 
- E#t  E#t    :K#Wfff;         D#K.           D#K. f#.     t#i
- E########f. i##WLLLLt       E#K.           E#K.  :#G     GK 
- E#j..K#j...  .E#L         .E#E.          .E#E.    ;#L   LW. 
- E#t  E#t       f#E:      .K#E           .K#E       t#f f#:  
- E#t  E#t        ,WW;    .K#D           .K#D         f#D#; ; 
- f#t  f#t         .D#;  .W#G           .W#G           G#t t#i
-  ii   ii           tt :W##########Wt :W##########Wt   t  .W.
-                       :,,,,,,,,,,,,,.:,,,,,,,,,,,,,.      : 
-                                                             
-                                                         ;                
-                         :                               ED.              
-                        t#,                              E#Wi             
-                       ;##W.   j.                    i   E###G.       ;f. 
-           ;          :#L:WE   EW,                  LE   E#fD#W;      i##:
-         .DL         .KG  ,#D  E##j                L#E   E#t t##L     i##:
- f.     :K#L     LWL EE    ;#f E###D.             G#W.   E#t  .E#K,   i##:
- EW:   ;W##L   .E#f f#.     t#iE#jG#W;           D#K.    E#t    j##f  i##:
- E#t  t#KE#L  ,W#;  :#G     GK E#t t##f         E#K.     E#t    :E#K: i##:
- E#t f#D.L#L t#K:    ;#L   LW. E#t  :K#E:     .E#E.      E#t   t##L   i##:
- E#jG#f  L#LL#G       t#f f#:  E#KDDDD###i   .K#E        E#t .D#W;    i##:
- E###;   L###j         f#D#;   E#f,t#Wi,,,  .K#D         E#tiW#G.     i#W.
- E#K:    L#W;           G#t    E#t  ;#W:   .W#G          E#K##i       ,i. 
- EG      LE.             t     DWi   ,KK: :W##########Wt E##D.        :G#:
- ;       ;@                               :,,,,,,,,,,,,,.E#t          iKt 
-                                                         L:               
-```
-
-### fonts/dietcola.flf:
-
-```text
-                  .    .    ,                       .     .     
-     /           /    /                            /     /  __  
-    /-.   .-.   /    / .-._.   `)    (  .-._.).--./ .-../  |  / 
-   /   |./.-'_ /    / (   )    /  .   )(   )/    / (   /   |_/  
-_.'    |(__.'_/_.-_/_.-`-'    (_.' `-'  `-'/   _/_.-`-'-...-.   
-                                                          `-'   
-```
-
-### fonts/dosrebel.flf:
-
-```text
-                                                             
-                                                            
-       
-       
-       
-       
-   
-   
-                                                                               
-                                       
-                                 
-```
-
-### fonts/dotmatrix.flf:
-
-```text
- _                           _  _     _  _                                
-(_)                         (_)(_)   (_)(_)                               
-(_) _  _  _     _  _  _  _     (_)      (_)      _  _  _                  
-(_)(_)(_)(_)_  (_)(_)(_)(_)_   (_)      (_)   _ (_)(_)(_) _               
-(_)        (_)(_) _  _  _ (_)  (_)      (_)  (_)         (_)              
-(_)        (_)(_)(_)(_)(_)(_)  (_)      (_)  (_)         (_)  _  _        
-(_)        (_)(_)_  _  _  _  _ (_) _  _ (_) _(_) _  _  _ (_) (_)(_)       
-(_)        (_)  (_)(_)(_)(_)(_)(_)(_)(_)(_)(_)  (_)(_)(_)    (_)(_)       
-                                                               (_)        
-                                                              (_)         
-                                           _  _               _   _          
-                                          (_)(_)             (_) (_)         
- _             _     _  _  _    _       _  _ (_)     _  _  _ (_) (_)         
-(_)           (_) _ (_)(_)(_) _(_)_  _ (_)(_)(_)   _(_)(_)(_)(_) (_)         
-(_)     _     (_)(_)         (_) (_)(_)      (_)  (_)        (_) (_)         
-(_)_  _(_)_  _(_)(_)         (_) (_)         (_)  (_)        (_)             
-  (_)(_) (_)(_)  (_) _  _  _ (_) (_)       _ (_) _(_)_  _  _ (_)  _          
-    (_)   (_)       (_)(_)(_)    (_)      (_)(_)(_) (_)(_)(_)(_) (_)         
-                                                                             
-                                                                             
-```
-
-### fonts/doubleshorts.flf:
-
-```text
-__  __ _____ __    __     _____        __    __ _____  _____ __    _____ __ 
-||==|| ||==  ||    ||    ((   ))       \\ /\ //((   )) ||_// ||    ||  ) || 
-||  || ||___ ||__| ||__|  \\_//  //  _  \V/\V/  \\_//  || \\ ||__| ||_// .. 
-```
-
-### fonts/drpepper.flf:
-
-```text
- _         _  _                           _    _  _ 
-| |_  ___ | || | ___     _ _ _  ___  _ _ | | _| || |
-| . |/ ._>| || |/ . \ _ | | | |/ . \| '_>| |/ . ||_/
-|_|_|\___.|_||_|\___/|/ |__/_/ \___/|_|  |_|\___|<_>
-                                                    
-```
-
-### fonts/eftichess.flf:
-
-```text
-###########################         ####################################
-##|:+:|####|:+:|#####(:)###         ##/\:/\#####(:)#####[`'`']###|:+:|##
-##(o:o)####(o:o)#####|:|###         #/(o:o)\####|:|######|  |####(o:o)##
-###(:)######(:)######|:|###         ###(:)######|:|######|__|#####(:)###
-###########################         ####################################
-```
-
-### fonts/eftifont.flf:
-
-```text
-                           ||
-|| _||||_         _  _ ||||L|
-| Yo\||/o\   \VV7/o\/_||/o|  
-Ln\(L|L\_()   VV \_/L| L\_|()
-         V                   
-```
-
-### fonts/eftipiti.flf:
-
-```text
-             []
-hello,  world()
-               
-```
-
-### fonts/eftirobot.flf:
-
-```text
- _         _  _                          _    _  _ 
-( )       ( )( )                        ( )  ( )( )
-| |_  ___ | || | ___     _ _ _  ___  __ | | _| ||_|
-( _ )( o_)( )( )( o )_  ( V V )( o )( _)( )/ o ) _ 
-/_\|| \(  /_\/_\ \_/(_)  \_^_/  \_/ /_\ /_\\___\/_\
-                    /'                             
-```
-
-### fonts/eftitalic.flf:
-
-```text
-                                          /7
-  /7  __ /7/7 _             _   _  /7 _//// 
- / \,'o/////,'o|    /7/7/7,'o| //7//,'o/    
-/n_/|_(//// |_,'()  |,^,' |_,'// //|__/()   
-               /'                           
-```
-
-### fonts/eftiwall.flf:
-
-```text
-     ___           |"|         _     _       _     _     #   ___      
-    .|||.         _|_|_      o' \,=./ `o   o' \,=./ `o   #  <_*_>     
-    (o o)         (o o)         (o o)         (o o)      #  (o o)     
-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo--8---(_)--Ooo-
-,----------------------------.
-| Ask for other 'efti' fonts |
-_)---------------------------'
-  ----------------------------
- #  #  #  #    #   ___           !!!         _     _            ...      
- #  #..#  #    #  <_*_>       `  _ _  '    o' \,=./ `o     o,*,(o o)     
- #  #O #) #    #  (o o)      -  (OXO)  -      (o o)       8(o o)(_)Ooo   
-o#O-#(_#--#oo--8---(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----
-        
-        
-        
---------
-```
-
-### fonts/eftiwater.flf:
-
-```text
- _       _  _                        _    _  _ 
- ))_  __ )) )) __     __ _ _ __  __  )) __)) ))
-((`( (('(( (( ((_) _  \(((/'((_)(|  (( ((_( (( 
-                  /'                         o 
-```
-
-### fonts/emboss.tlf:
-
-```text
-┃ ┃┏━┛┃  ┃  ┏━┃   ┃┃┃┏━┃┏━┃┃  ┏━ ┃
-┏━┃┏━┛┃  ┃  ┃ ┃   ┃┃┃┃ ┃┏┏┛┃  ┃ ┃┛
-┛ ┛━━┛━━┛━━┛━━┛,  ━━┛━━┛┛ ┛━━┛━━ ┛
-```
-
-### fonts/emboss2.tlf:
-
-```text
-║ ║╔═╝║  ║  ╔═║   ║║║╔═║╔═║║  ╔═ ║
-╔═║╔═╝║  ║  ║ ║   ║║║║ ║╔╔╝║  ║ ║╝
-╝ ╝══╝══╝══╝══╝,  ══╝══╝╝ ╝══╝══ ╝
-```
-
-### fonts/fire_font-k.flf:
-
-```text
-                                                          ____ 
-    )       (   (                              (   (     |   / 
- ( /(    (  )\  )\           (  (         (    )\  )\ )  |  /  
- )\())  ))\((_)((_) (        )\))(    (   )(  ((_)(()/(  | /   
-((_)\  /((_)_   _   )\      ((_)()\   )\ (()\  _   ((_)) |/    
-| |(_)(_)) | | | | ((_)  )  _(()((_) ((_) ((_)| |  _| | (      
-| ' \ / -_)| | | |/ _ \ /(  \ V  V // _ \| '_|| |/ _` | )\     
-|_||_|\___||_| |_|\___/(_))  \_/\_/ \___/|_|  |_|\__,_|((_)    
-                                                               
-```
-
-### fonts/fire_font-s.flf:
-
-```text
-                                                ____ 
-    )     (  (                         (  (    |   / 
- ( /(   ( )\ )\         (  (       (   )\ )\ ) |  /  
- )\()) ))((_|(_)(       )\))(   (  )( ((_|()/( | /   
-((_)\ /((_)  _  )\     ((_)()\  )\(()\ _  ((_))|/    
-| |(_|_))| || |((_) )  _(()((_)((_)((_) | _| |(      
-| ' \/ -_) || / _ \/(  \ V  V / _ \ '_| / _` |)\     
-|_||_\___|_||_\___(_))  \_/\_/\___/_| |_\__,_((_)    
-                                                     
-```
-
-### fonts/flowerpower.flf:
-
-```text
-.---.  .---.     .-''-.    .---.     .---.       ,-----.          
-|   |  |_ _|   .'_ _   \   | ,_|     | ,_|     .'  .-,  '.        
-|   |  ( ' )  / ( ` )   ',-./  )   ,-./  )    / ,-.|  \ _ \       
-|   '-(_{;}_). (_ o _)  |\  '_ '`) \  '_ '`) ;  \  '_ /  | :      
-|      (_,_) |  (_,_)___| > (_)  )  > (_)  ) |  _`,/ \ _/  |      
-| _ _--.   | '  \   .---.(  .  .-' (  .  .-' : (  '\_/ \   ;_ _   
-|( ' ) |   |  \  `-'    / `-'`-'|___`-'`-'|___\ `"/  \  ) /(_I_)  
-(_{;}_)|   |   \       /   |        \|        \'. \_/``".'(_(=)_) 
-'(_,_) '---'    `'-..-'    `--------``--------`  '-----'   (_I_)  
-                                                                  
-.--.      .--.    ,-----.    .-------.      .---.      ______     .---.  
-|  |_     |  |  .'  .-,  '.  |  _ _   \     | ,_|     |    _ `''. \   /  
-| _( )_   |  | / ,-.|  \ _ \ | ( ' )  |   ,-./  )     | _ | ) _  \|   |  
-|(_ o _)  |  |;  \  '_ /  | :|(_ o _) /   \  '_ '`)   |( ''_'  ) | \ /   
-| (_,_) \ |  ||  _`,/ \ _/  || (_,_).' __  > (_)  )   | . (_) `. |  v    
-|  |/    \|  |: (  '\_/ \   ;|  |\ \  |  |(  .  .-'   |(_    ._) ' _ _   
-|  '  /\  `  | \ `"/  \  ) / |  | \ `'   / `-'`-'|___ |  (_.\.' / (_I_)  
-|    /  \    |  '. \_/``".'  |  |  \    /   |        \|       .' (_(=)_) 
-`---'    `---`    '-----'    ''-'   `'-'    `--------`'-----'`    (_I_)  
-                                                                         
-```
-
-### fonts/fourtops.flf:
-
-```text
-|       ||                   |   ||
-|/~\ /~/||/~\   \    //~\|/~\|/~~||
-|   |\/_||\_/    \/\/ \_/|   |\__|.
-             /                     
-```
-
-### fonts/funface.flf:
-
-```text
- \\  //      W  W   W  W       .-.    ,
- (o)(o)  wWw(O)(O) (O)(O)    c(O_O)c   
- ||  ||  (O)_ ||     ||     ,'.---.`,  
- |(__)| .' __)| \    | \   / /|_|_|\ \ 
- /.--.\(  _)  |  `.  |  `. | \_____/ | 
--'    `-`.__)(.-.__)(.-.__)'. `---' .` 
-              `-'    `-'     `-...-'   
-(O))  ((O)    .-.     ))    W  W      _ !
- ||    ||   c(O_O)c  (Oo)-.(O)(O)   _||\ 
- || /\ ||  ,'.---.`,  | (_)) ||    (_'\  
- ||//\\|| / /|_|_|\ \ |  .'  | \   .'  | 
- / /  \ \ | \_____/ | )|\\   |  `.((_) | 
-( /    \ )'. `---' .`(/  \) (.-.__)`-`.) 
- )      (   `-...-'   )      `-'      (  
-```
-
-### fonts/funfaces.flf:
-
-```text
- \\  //  wWw  W  W   W  W       .-.         
- (o)(o)  (O)_(O)(O) (O)(O)    c(O_O)c       
- ||  ||  / __) ||     ||     ,'.---.`,      
- |(__)| / (    | \    | \   / /|_|_|\ \     
- /.--.\(  _)   |  `.  |  `. | \_____/ | __  
--'    `-\ \_  (.-.__)(.-.__)'. `---' .`(  ) 
-         \__)  `-'    `-'     `-...-'   )/  
-(O))  ((O)    .-.   ()_() W  W    _     .--.  
- ||    ||   c(O_O)c (O o)(O)(O)  /||_  (O)(O) 
- || /\ ||  ,'.---.`, |^_\  ||     /o_) | o /  
- ||//\\|| / /|_|_|\ \|(_)) | \   / |(\ |`-/   
- / /  \ \ | \_____/ ||  /  |  `. | | ))|_/    
-( /    \ )'. `---' .`)|\\ (.-.__)| |// _      
- )      (   `-...-' (/  \) `-'   \__/ (_)     
-```
-
-### fonts/future.tlf:
-
-```text
-╻ ╻┏━╸╻  ╻  ┏━┓     ╻ ╻┏━┓┏━┓╻  ╺┳┓╻
-┣━┫┣╸ ┃  ┃  ┃ ┃     ┃╻┃┃ ┃┣┳┛┃   ┃┃╹
-╹ ╹┗━╸┗━╸┗━╸┗━┛ ┛   ┗┻┛┗━┛╹┗╸┗━╸╺┻┛╹
-```
-
-### fonts/heart_left.flf:
-
-```text
- .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-. 
-( h .'( e .'( l .'( l .'( o .'( , .'.-.-.( w .'( o .'( r .'( l .'( d .'( ! .' 
- `.(   `.(   `.(   `.(   `.(   '.(  '._.' `.(   `.(   `.(   `.(   `.(   `.(   
-                                                                              
-```
-
-### fonts/heart_right.flf:
-
-```text
-.-.-. .-.-. .-.-. .-.-. .-.-. .-.-.      .-.-. .-.-. .-.-. .-.-. .-.-. .-.-.  
-'. h )'. e )'. l )'. l )'. o )'. , ).-.-.'. w )'. o )'. r )'. l )'. d )'. ! ) 
-  ).'   ).'   ).'   ).'   ).'   ).' '._.'  ).'   ).'   ).'   ).'   ).'   ).'  
-                                                                              
-```
-
-### fonts/henry3d.flf:
-
-```text
-   _                 __  __               
-  FJ___      ____    LJ  LJ    ____       
- J  __ `.   F __ J   FJ  FJ   F __ J      
- | |--| |  | _____J J  LJ  L | |--| |     
- F L  J J  F L___--.J  LJ  L F L__J J  __ 
-J__L  J__LJ\______/FJ__LJ__LJ\______/FJ  L
-|__L  J__| J______F |__||__| J______F |_F 
-                                      |_F 
-                                __       _    __ 
-   _    _      ____     _ ___   LJ    ___FJ   LJ 
-  FJ .. L]    F __ J   J '__ ", FJ   F __  L  FJ 
- | |/  \| |  | |--| |  | |__|-JJ  L | |--| | J__L
- F   /\   J  F L__J J  F L  `-'J  L F L__J J  __ 
-J\__//\\__/LJ\______/FJ__L     J__LJ\____,__LJ__L
- \__/  \__/  J______F |__L     |__| J____,__F|__|
-                                                 
-```
-
-### fonts/horizontalleft.flf:
-
-```text
- _______   _______   _______   _______   _______      
-\__   __\ | ._ _. | /______ \ /______ \ /  ____ \     
- __| |__  | \ v / |       / |       / | | /___/ |     
-\_______\ |_/   \_|       \_|       \_| \_______/  _  
-                                                  )_/ 
-                                                      
- _______   _______   _______   _______   _______   _  
-`._   __| /  ____ \ / ___  _| /______ \ |  ___  | | | 
-  _> >__  | /___/ | | \_/  \        / | | '._.' | | | 
-.`______| \_______/ `.__.`\_|       \_| '._____.' | | 
-                                                  (_) 
-                                                      
-```
-
-### fonts/horizontalright.flf:
-
-```text
- _______   _______   _______   _______   _______      
-\__   __\ | ._ _. | / ______\ / ______\ /  ____ \     
- __| |__  | \ v / | | \       | \       | /___/ |     
-\_______\ |_/   \_| |_/       |_/       \_______/  _  
-                                                  )_/ 
-                                                      
- _______   _______   _______   _______   _______   _  
-|__   _.' /  ____ \ |_  ___ \ / ______\ |  ___  | | | 
- __< <_   | /___/ |  /  \_/ | | \       | '._.' | | | 
-|______'. \_______/ |_/'.__.' |_/       '._____.' | | 
-                                                  (_) 
-                                                      
-```
-
-### fonts/kontoslant.flf:
-
-```text
- / /  / /  /  /1    /   /  /1 / /  /`. !
-// /..  /. /. /./  ,   L/L/  /./  /`.  /. /.- 
-```
-
-### fonts/larry3d.flf:
-
-```text
- __              ___    ___                
-/\ \            /\_ \  /\_ \               
-\ \ \___      __\//\ \ \//\ \     ___      
- \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\    
-  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__ 
-   \ \_\ \_\ \____\/\____\/\____\ \____/\ \
-    \/_/\/_/\/____/\/____/\/____/\/___/\ \/
-                                        \/ 
-                                           
-                          ___       __  __     
-                         /\_ \     /\ \/\ \    
- __  __  __    ___   _ __\//\ \    \_\ \ \ \   
-/\ \/\ \/\ \  / __`\/\`'__\\ \ \   /'_` \ \ \  
-\ \ \_/ \_/ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\ 
- \ \___x___/'\ \____/\ \_\  /\____\ \___,_\/\_\
-  \/__//__/   \/___/  \/_/  \/____/\/__,_ /\/_/
-                                               
-                                               
-```
-
-### fonts/letter.tlf:
-
-```text
-H   H EEEEE L     L      OOO           W   W  OOO  RRRR  L     DDDD   ! 
-H   H E     L     L     O   O          W   W O   O R   R L     D   D  ! 
-HHHHH EEEE  L     L     O   O          W W W O   O RRRR  L     D   D  ! 
-H   H E     L     L     O   O          W W W O   O R  R  L     D   D    
-H   H EEEEE LLLLL LLLLL  OOO   ,        W W   OOO  R   R LLLLL DDDD   ! 
-                              ,,                                        
-```
-
-### fonts/lildevil.flf:
-
-```text
- (`-').-> (`-')  _                                
- (OO )__  ( OO).-/  <-.      <-.        .->       
-,--. ,'-'(,------.,--. )   ,--. )  (`-')----.     
-|  | |  | |  .---'|  (`-') |  (`-')( OO).-.  '    
-|  `-'  |(|  '--. |  |OO ) |  |OO )( _) | |  |    
-|  .-.  | |  .--'(|  '__ |(|  '__ | \|  |)|  |    
-|  | |  | |  `---.|     |' |     |'  '  '-'  ',-. 
-`--' `--' `------'`-----'  `-----'    `-----' './ 
-     .->                 (`-')          _(`-')   ,---. 
- (`(`-')/`)     .->   <-.(OO )    <-.  ( (OO ).->|   | 
-,-`( OO).',(`-')----. ,------,) ,--. )  \    .'_ |   | 
-|  |\  |  |( OO).-.  '|   /`. ' |  (`-')'`'-..__)|   | 
-|  | '.|  |( _) | |  ||  |_.' | |  |OO )|  |  ' ||  .' 
-|  |.'.|  | \|  |)|  ||  .   .'(|  '__ ||  |  / :`--'  
-|   ,'.   |  '  '-'  '|  |\  \  |     |'|  '-'  /.--.  
-`--'   '--'   `-----' `--' '--' `-----' `------' `--'  
-```
-
-### fonts/lineblocks.flf:
-
-```text
- _    _   ______  _        _        ______  ,
-| |  | | | |     | |      | |      / |  | \  
-| |--| | | |---- | |   _  | |   _  | |  | |  
-|_|  |_| |_|____ |_|__|_| |_|__|_| \_|__|_/  
-                                             
- _   _   _   ______   ______   _        _____   !
-| | | | | | / |  | \ | |  | \ | |      | | \ \   
-| | | | | | | |  | | | |__| | | |   _  | |  | |  
-|_|_|_|_|_/ \_|__|_/ |_|  \_\ |_|__|_| |_|_/_/   
-                                                 
-```
-
-### fonts/maxiwi.flf:
-
-```text
-█       █  █                         █    █   
-█       █  █                         █    █ █ 
-███ ███ █  █  ███      █ █ █ ███ ███ █  ███ █ 
-█ █ ███ █  █  █ █      █ █ █ █ █ █   █  █ █ █ 
-█ █ █   █  █  █ █      █ █ █ █ █ █   █  █ █   
-█ █ ███ ██ ██ ███  █    █ █  ███ █   ██ ███ █ 
-                  █                           
-                                              
-```
-
-### fonts/miniwi.flf:
-
-```text
-▌   ▜ ▜              ▜  ▌▌
-▛▌█▌▐ ▐ ▛▌    ▌▌▌▛▌▛▘▐ ▛▌▌
-▌▌▙▖▐▖▐▖▙▌▗   ▚▚▘▙▌▌ ▐▖▙▌▖
-          ▘               
-```
-
-### fonts/mono12.tlf:
-
-```text
-                                                            
- ▄▄                  ▄▄▄▄      ▄▄▄▄                         
- ██                  ▀▀██      ▀▀██                         
- ██▄████▄   ▄████▄     ██        ██       ▄████▄            
- ██▀   ██  ██▄▄▄▄██    ██        ██      ██▀  ▀██           
- ██    ██  ██▀▀▀▀▀▀    ██        ██      ██    ██           
- ██    ██  ▀██▄▄▄▄█    ██▄▄▄     ██▄▄▄   ▀██▄▄██▀     ██    
- ▀▀    ▀▀    ▀▀▀▀▀      ▀▀▀▀      ▀▀▀▀     ▀▀▀▀       ██    
-                                                     ▀▀     
-                                                            
-                                                            
-                               ▄▄▄▄            ▄▄     ▄▄    
-                               ▀▀██            ██     ██    
-██      ██  ▄████▄    ██▄████    ██       ▄███▄██     ██    
-▀█  ██  █▀ ██▀  ▀██   ██▀        ██      ██▀  ▀██     ██    
- ██▄██▄██  ██    ██   ██         ██      ██    ██     ▀▀    
- ▀██  ██▀  ▀██▄▄██▀   ██         ██▄▄▄   ▀██▄▄███     ▄▄    
-  ▀▀  ▀▀     ▀▀▀▀     ▀▀          ▀▀▀▀     ▀▀▀ ▀▀     ▀▀    
-                                                            
-                                                            
-```
-
-### fonts/mono9.tlf:
-
-```text
-                                          
- █             ▀▀█    ▀▀█                 
- █ ▄▄    ▄▄▄     █      █     ▄▄▄         
- █▀  █  █▀  █    █      █    █▀ ▀█        
- █   █  █▀▀▀▀    █      █    █   █        
- █   █  ▀█▄▄▀    ▀▄▄    ▀▄▄  ▀█▄█▀    █   
-                                     ▀    
-                                          
-                                          
-                      ▀▀█        █    ▄   
-▄     ▄  ▄▄▄    ▄ ▄▄    █     ▄▄▄█    █   
-▀▄ ▄ ▄▀ █▀ ▀█   █▀  ▀   █    █▀ ▀█    █   
- █▄█▄█  █   █   █       █    █   █    ▀   
-  █ █   ▀█▄█▀   █       ▀▄▄  ▀█▄██    █   
-                                          
-                                          
-```
-
-### fonts/ntgreek.flf:
-
-```text
-                                                                 
-          __     __                                 __      __ _ 
-          \ \    \ \                                \ \    / _) |
- _ __  ___ \ \    \ \   ___      __   __   ___   ___ \ \   \ \| |
-| '_ \/ __) > \    > \ / _ \    / / _ \ \ / _ \ / _ \ > \ / _ \_|
-| | | > _) / ^ \  / ^ ( (_) )  | |_/ \_| ( (_) ) |_) ) ^ ( (_) ) 
-|_| | \___)_/ \_\/_/ \_\___( )  \___^___/ \___/|  __/_/ \_\___(_)
-    | |                    |/                  | |               
-    |_|                                        |_|               
-```
-
-### fonts/oldbanner.flf:
-
-```text
-                                       
-#    # ###### #      #       ####      
-#    # #      #      #      #    #     
-###### #####  #      #      #    # ### 
-#    # #      #      #      #    # ### 
-#    # #      #      #      #    #  #  
-#    # ###### ###### ######  ####  #   
-                                   ### 
-#    #  ####  #####  #      #####  ### 
-#    # #    # #    # #      #    # ### 
-#    # #    # #    # #      #    #  #  
-# ## # #    # #####  #      #    #     
-##  ## #    # #   #  #      #    # ### 
-#    #  ####  #    # ###### #####  ### 
-```
-
-### fonts/pagga.tlf:
-
-```text
-░█░█░█▀▀░█░░░█░░░█▀█░░░░░░░█░█░█▀█░█▀▄░█░░░█▀▄░█
-░█▀█░█▀▀░█░░░█░░░█░█░░░░░░░█▄█░█░█░█▀▄░█░░░█░█░▀
-░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▄▀░░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀░░▀
-```
-
-### fonts/peaksslant.flf:
-
-```text
-     _/\/\____________________/\/\____/\/\_____________________
-    _/\/\__________/\/\/\____/\/\____/\/\______/\/\/\_________ 
-   _/\/\/\/\____/\/\/\/\/\__/\/\____/\/\____/\/\__/\/\_______  
-  _/\/\__/\/\__/\/\________/\/\____/\/\____/\/\__/\/\__/\/\_   
- _/\/\__/\/\____/\/\/\/\__/\/\/\__/\/\/\____/\/\/\____/\/\_    
-_____________________________________________________/\___     
-     _________________________________________/\/\__________/\/\__/\/\_
-    _/\/\______/\/\____/\/\/\____/\/\__/\/\__/\/\__________/\/\__/\/\_ 
-   _/\/\__/\__/\/\__/\/\__/\/\__/\/\/\/\____/\/\______/\/\/\/\__/\/\_  
-  _/\/\/\/\/\/\/\__/\/\__/\/\__/\/\________/\/\____/\/\__/\/\_______   
- ___/\/\__/\/\______/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_    
-__________________________________________________________________     
-```
-
-### fonts/rebel.tlf:
-
-```text
- █████               ████  ████              
-▒▒███               ▒▒███ ▒▒███              
- ▒███████    ██████  ▒███  ▒███   ██████     
- ▒███▒▒███  ███▒▒███ ▒███  ▒███  ███▒▒███    
- ▒███ ▒███ ▒███████  ▒███  ▒███ ▒███ ▒███    
- ▒███ ▒███ ▒███▒▒▒   ▒███  ▒███ ▒███ ▒███    
- ████ █████▒▒██████  █████ █████▒▒██████   ██
-▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒   ██ 
-                                         ▒▒  
-                                             
-                                             
-                                    ████      █████ ███
-                                   ▒▒███     ▒▒███ ▒███
- █████ ███ █████  ██████  ████████  ▒███   ███████ ▒███
-▒▒███ ▒███▒▒███  ███▒▒███▒▒███▒▒███ ▒███  ███▒▒███ ▒███
- ▒███ ▒███ ▒███ ▒███ ▒███ ▒███ ▒▒▒  ▒███ ▒███ ▒███ ▒███
- ▒▒███████████  ▒███ ▒███ ▒███      ▒███ ▒███ ▒███ ▒▒▒ 
-  ▒▒████▒████   ▒▒██████  █████     █████▒▒████████ ███
-   ▒▒▒▒ ▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒▒     ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ ▒▒▒ 
-                                                       
-                                                       
-                                                       
-```
-
-### fonts/red_phoenix.flf:
-
-```text
-.__               .__    .__                 
-|  |__     ____   |  |   |  |     ____       
-|  |  \  _/ __ \  |  |   |  |    /  _ \      
-|   Y  \ \  ___/  |  |__ |  |__ (  <_> )     
-|___|  /  \___  > |____/ |____/  \____/   /\ 
-     \/       \/                          )/ 
-                                             
-                            .__        .___ ._. 
-__  _  __   ____   _______  |  |     __| _/ | | 
-\ \/ \/ /  /  _ \  \_  __ \ |  |    / __ |  | | 
- \     /  (  <_> )  |  | \/ |  |__ / /_/ |   \| 
-  \/\_/    \____/   |__|    |____/ \____ |   __ 
-                                        \/   \/ 
-                                                
-```
-
-### fonts/rev.flf:
-
-```text
-=================================
-=  ============  ==  ============
-=  ============  ==  ============
-=  ============  ==  ============
-=  ======   ===  ==  ===   ======
-=    ===  =  ==  ==  ==     =====
-=  =  ==     ==  ==  ==  =  =====
-=  =  ==  =====  ==  ==  =  ==  =
-=  =  ==  =  ==  ==  ==  =  === =
-=  =  ===   ===  ==  ===   ==== =
-=================================
-==========================================
-============================  =====  ==  =
-============================  =====  ==  =
-============================  =====  ==  =
-=  =   =  ===   ===  =   ===  =====  ==  =
-=  =   =  ==     ==    =  ==  ===    ==  =
-==   =   ===  =  ==  =======  ==  =  ==  =
-==   =   ===  =  ==  =======  ==  =  =====
-=== === ====  =  ==  =======  ==  =  ==  =
-=== === =====   ===  =======  ===    ==  =
-==========================================
-```
-
-### fonts/rowancap.flf:
-
-```text
-    dMP dMP dMMMMMP dMP     dMP    .aMMMb 
-   dMP dMP dMP     dMP     dMP    dMP"dMP 
-  dMMMMMP dMMMP   dMP     dMP    dMP dMP  
- dMP dMP dMP     dMP     dMP    dMP.aMP   
-dMP dMP dMMMMMP dMMMMMP dMMMMMP VMMMP"    
-                                          
-   dMP dMP dMP .aMMMb  dMMMMb  dMP     dMMMMb 
-  dMP dMP dMP dMP"dMP dMP.dMP dMP     dMP VMP 
- dMP dMP dMP dMP dMP dMMMMK" dMP     dMP dMP  
-dMP.dMP.dMP dMP.aMP dMP"AMF dMP     dMP.aMP   
-VMMMPVMMP"  VMMMP" dMP dMP dMMMMMP dMMMMP"    
-                                              
-```
-
-### fonts/rusto.tlf:
-
-```text
-┬ ┬┬─┐┬  ┬  ┌─┐   ┐ ┬┌─┐┬─┐┬  ┬─┐┐
-│─┤├─ │  │  │ │   ││││ ││┬┘│  │ ││
-┆ ┴┴─┘┆─┘┆─┘┘─┘┘  └┴┆┘─┘┆└┘┆─┘┆─┘o
-```
-
-### fonts/rustofat.tlf:
-
-```text
-┳ ┳┳━┓┳  ┳  ┏━┓   ┓ ┳┏━┓┳━┓┳  ┳━┓┓
-┃━┫┣━ ┃  ┃  ┃ ┃   ┃┃┃┃ ┃┃┳┛┃  ┃ ┃┃
-┇ ┻┻━┛┇━┛┇━┛┛━┛┛  ┗┻┇┛━┛┇┗┛┇━┛┇━┛o
-```
-
-### fonts/s-relief.flf:
-
-```text
-__/\\\_________________________/\\\\\\_____/\\\\\\__________________        
- _\/\\\________________________\////\\\____\////\\\__________________       
-  _\/\\\___________________________\/\\\_______\/\\\__________________      
-   _\/\\\_____________/\\\\\\\\_____\/\\\_______\/\\\________/\\\\\____     
-    _\/\\\\\\\\\\____/\\\/////\\\____\/\\\_______\/\\\______/\\\///\\\__    
-     _\/\\\/////\\\__/\\\\\\\\\\\_____\/\\\_______\/\\\_____/\\\__\//\\\_   
-      _\/\\\___\/\\\_\//\\///////______\/\\\_______\/\\\____\//\\\__/\\\__  
-       _\/\\\___\/\\\__\//\\\\\\\\\\__/\\\\\\\\\__/\\\\\\\\\__\///\\\\\/___ 
-        _\///____\///____\//////////__\/////////__\/////////_____\/////_____
-________        
- ________       
-  ________      
-   ________     
-    ________    
-     __/\\\\_   
-      _\///\\_  
-       __/\\/__ 
-        _\//____
-________________________________________________/\\\\\\____        
- _______________________________________________\////\\\____       
-  __________________________________________________\/\\\____      
-   __/\\____/\\___/\\_____/\\\\\_____/\\/\\\\\\\_____\/\\\____     
-    _\/\\\__/\\\\_/\\\___/\\\///\\\__\/\\\/////\\\____\/\\\____    
-     _\//\\\/\\\\\/\\\___/\\\__\//\\\_\/\\\___\///_____\/\\\____   
-      __\//\\\\\/\\\\\___\//\\\__/\\\__\/\\\____________\/\\\____  
-       ___\//\\\\//\\\_____\///\\\\\/___\/\\\__________/\\\\\\\\\_ 
-        ____\///__\///________\/////_____\///__________\/////////__
-_________/\\\______/\\\____        
- ________\/\\\____/\\\\\\\__       
-  ________\/\\\___/\\\\\\\\\_      
-   ________\/\\\__\//\\\\\\\__     
-    ___/\\\\\\\\\___\//\\\\\___    
-     __/\\\////\\\____\//\\\____   
-      _\/\\\__\/\\\_____\///_____  
-       _\//\\\\\\\/\\_____/\\\____ 
-        __\///////\//_____\///_____
-```
-
-### fonts/santaclara.flf:
-
-```text
-          _  _                     _      
-  /      // //                    //   / /
- /_  _  // // __    , , , __ _   // __/ / 
-/ /_(/_(/_(/_(_)o  (_(_/_(_)/ (_(/_(_/_'  
-                '                     o   
-                                          
-```
-
-### fonts/sblood.flf:
-
-```text
- @@@  @@@ @@@@@@@@ @@@      @@@       @@@@@@     
- @@!  @@@ @@!      @@!      @@!      @@!  @@@    
- @!@!@!@! @!!!:!   @!!      @!!      @!@  !@!    
- !!:  !!! !!:      !!:      !!:      !!:  !!!  !!
-  :   : : : :: ::: : ::.: : : ::.: :  : :. :   ::
-                                              .: 
- @@@  @@@  @@@  @@@@@@  @@@@@@@  @@@      @@@@@@@  @@@
- @@!  @@!  @@! @@!  @@@ @@!  @@@ @@!      @@!  @@@ @@@
- @!!  !!@  @!@ @!@  !@! @!@!!@!  @!!      @!@  !@! !@!
-  !:  !!:  !!  !!:  !!! !!: :!!  !!:      !!:  !!!    
-   ::.:  :::    : :. :   :   : : : ::.: : :: :  :  :.:
-                                                      
-```
-
-### fonts/slscript.flf:
-
-```text
-          _  _                     _      
-  /      // //                    //   / /
- /_  _  // // __    , , , __ __  // __/ / 
-/ /_</_</_</_(_)o  (_(_/_(_)/ (_</_(_/_'  
-                '                     o   
-                                          
-```
-
-### fonts/smallcaps.flf:
-
-```text
- _  _   ___   _      _      ____       __   __ ____   ____   _      ___   _  
-) () ( ) __( ) |    ) |    / __ \      ) (_) (/ __ \ /  _ \ ) |    \   \ ) | 
-| -- | | _)  | (__  | (__  ))__((      \  _  /))__(( )  ' / | (__  | ) ( |_( 
-)_()_( )___( )____( )____( \____/ )/    )/ \( \____/ |_()_\ )____( /___/ )_/ 
-                                                                             
-```
-
-### fonts/smascii12.tlf:
-
-```text
-                                                                 
-.,        .m,  .m,                                .m,     .,  m  
-][        'T[  'T[                                'T[     ][  W  
-]bWW, dWb  ][   ][   dWb           W   W dWb  WdW[ ][   dWd[  W  
-]P ][]bmd[ ][   ][  ]P T[          T W P]P T[ W`   ][  ]P T[  W  
-][ ][]P""` ][   ][  ][ ][          ]bWd[][ ][ W    ][  ][ ][  "  
-][ ]['Wmm[ ]bm  ]bm 'WmW`  W       'W W`'WmW` W    ]bm 'WmW[  m  
-'` '` '""   ""   ""  '"`   W        " "  '"`  "     ""  '"'`  "  
-                          '`                                     
-                                                                 
-```
-
-### fonts/smascii9.tlf:
-
-```text
-                                                    
-]       'T  'T                          'T    ]  .  
-].,  m,  ]   ]   m,         ,  , m,  ,m  ]   md  ]  
-]`] ]`]  ]   ]  ]`T         \..`]`T  P ` ]  ]`T  ]  
-] ] ]""  ]   ]  ] ]         ]dd ] ]  [   ]  ] ]  '  
-] ] 'b/  'm  'm 'bP  ]       [[ 'bP  [   'm 'bW  ]  
-                     `                              
-                                                    
-```
-
-### fonts/smblock.tlf:
-
-```text
-▌     ▜▜                 ▜   ▌▐ 
-▛▀▖▞▀▖▐▐ ▞▀▖   ▌  ▌▞▀▖▙▀▖▐ ▞▀▌▐ 
-▌ ▌▛▀ ▐▐ ▌ ▌▗▖ ▐▐▐ ▌ ▌▌  ▐ ▌ ▌▝ 
-▘ ▘▝▀▘ ▘▘▝▀ ▗▘  ▘▘ ▝▀ ▘   ▘▝▀▘▝ 
-```
-
-### fonts/smbraille.tlf:
-
-```text
- ⣇⡀ ⢀⡀ ⡇ ⡇ ⢀⡀    ⡀ ⢀ ⢀⡀ ⡀⣀ ⡇ ⢀⣸ ⡇
- ⠇⠸ ⠣⠭ ⠣ ⠣ ⠣⠜,   ⠱⠱⠃ ⠣⠜ ⠏  ⠣ ⠣⠼ ⠅
-```
-
-### fonts/smisome1.flf:
-
-```text
-    ___       ___       ___       ___       ___   
-   /\__\     /\  \     /\__\     /\__\     /\  \  
-  /:/__/_   /::\  \   /:/  /    /:/  /    /::\  \ 
- /::\/\__\ /::\:\__\ /:/__/    /:/__/    /:/\:\__\
- \/\::/  / \:\:\/  / \:\  \    \:\  \    \:\/:/  /
-   /:/  /   \:\/  /   \:\__\    \:\__\    \::/  / 
-   \/__/     \/__/     \/__/     \/__/     \/__/  
-    ___       ___       ___       ___       ___   
-   /\__\     /\  \     /\  \     /\__\     /\  \  
-  /:/\__\   /::\  \   /::\  \   /:/  /    /::\  \ 
- /:/:/\__\ /:/\:\__\ /::\:\__\ /:/__/    /:/\:\__\
- \::/:/  / \:\/:/  / \;:::/  / \:\  \    \:\/:/  /
-  \::/  /   \::/  /   |:\/__/   \:\__\    \::/  / 
-   \/__/     \/__/     \|__|     \/__/     \/__/  
-```
-
-### fonts/smkeyboard.flf:
-
-```text
- ____ ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
-||h |||e |||l |||l |||o |||, |||       |||w |||o |||r |||l |||d |||! ||
-||__|||__|||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
-```
-
-### fonts/smmono12.tlf:
-
-```text
-                                                                 
-▗▖        ▗▄▖  ▗▄▖                                ▗▄▖     ▗▖  ▄  
-▐▌        ▝▜▌  ▝▜▌                                ▝▜▌     ▐▌  █  
-▐▙██▖ ▟█▙  ▐▌   ▐▌   ▟█▙           █   █ ▟█▙  █▟█▌ ▐▌   ▟█▟▌  █  
-▐▛ ▐▌▐▙▄▟▌ ▐▌   ▐▌  ▐▛ ▜▌          ▜ █ ▛▐▛ ▜▌ █▘   ▐▌  ▐▛ ▜▌  █  
-▐▌ ▐▌▐▛▀▀▘ ▐▌   ▐▌  ▐▌ ▐▌          ▐▙█▟▌▐▌ ▐▌ █    ▐▌  ▐▌ ▐▌  ▀  
-▐▌ ▐▌▝█▄▄▌ ▐▙▄  ▐▙▄ ▝█▄█▘  █       ▝█ █▘▝█▄█▘ █    ▐▙▄ ▝█▄█▌  ▄  
-▝▘ ▝▘ ▝▀▀   ▀▀   ▀▀  ▝▀▘   █        ▀ ▀  ▝▀▘  ▀     ▀▀  ▝▀▝▘  ▀  
-                          ▝▘                                     
-                                                                 
-```
-
-### fonts/smmono9.tlf:
-
-```text
-                                                    
-▐       ▝▜  ▝▜                          ▝▜    ▐  ▗  
-▐▗▖  ▄▖  ▐   ▐   ▄▖         ▖  ▖ ▄▖  ▖▄  ▐   ▄▟  ▐  
-▐▘▐ ▐▘▐  ▐   ▐  ▐▘▜         ▚▗▗▘▐▘▜  ▛ ▘ ▐  ▐▘▜  ▐  
-▐ ▐ ▐▀▀  ▐   ▐  ▐ ▐         ▐▟▟ ▐ ▐  ▌   ▐  ▐ ▐  ▝  
-▐ ▐ ▝▙▞  ▝▄  ▝▄ ▝▙▛  ▐       ▌▌ ▝▙▛  ▌   ▝▄ ▝▙█  ▐  
-                     ▘                              
-                                                    
-```
-
-### fonts/smpoison.flf:
-
-```text
-                                                 
-@@@  @@@ @@@@@@@@ @@@      @@@       @@@@@@      
-@@!  @@@ @@!      @@!      @@!      @@!  @@@     
-@!@!@!@! @!!!:!   @!!      @!!      @!@  !@!     
-!!:  !!! !!:      !!:      !!:      !!:  !!! !:! 
- :   : : : :: ::  : ::.: : : ::.: :  : :. :  ::  
-                                             :   
-                                                      
-@@@  @@@  @@@  @@@@@@  @@@@@@@  @@@      @@@@@@@  @@@ 
-@@!  @@!  @@! @@!  @@@ @@!  @@@ @@!      @@!  @@@ @@@ 
-@!!  !!@  @!@ @!@  !@! @!@!!@!  @!!      @!@  !@! !@! 
- !:  !!:  !!  !!:  !!! !!: :!!  !!:      !!:  !!!     
-  ::.:  :::    : :. :   :   : : : ::.: : :: :  :  :.: 
-                                                      
-```
-
-### fonts/smscript.flf:
-
-```text
-                                               
-|)    _ |\ |\  _              _   ,_  |\  _|  |
-|/\  |/ |/ |/ / \_   |  |  |_/ \_/  | |/ / |  |
-|  |/|_/|_/|_/\_/o    \/ \/  \_/    |/|_/\/|_/o
-                 /                             
-```
-
-### fonts/smshadow.flf:
-
-```text
- |         | |                       |     | | 
-   \   -_) | |  _ \  \ \  \ / _ \  _||  _` |_| 
-_| _|\___|_|_|\___/)  \_/\_/\___/_| _|\__,_|_) 
-                  /                            
-```
-
-### fonts/smslant.flf:
-
-```text
-   __       ____                         __   ____
-  / /  ___ / / /__      _    _____  ____/ /__/ / /
- / _ \/ -_) / / _ \_   | |/|/ / _ \/ __/ / _  /_/ 
-/_//_/\__/_/_/\___( )  |__,__/\___/_/ /_/\_,_(_)  
-                  |/                              
-```
-
-### fonts/smtengwar.flf:
-
-```text
-\  ,'         c        c         _ _  / 
-/\  | --- --- |    |~) | \/ --- | ) ) \ 
-      (_, (_,   /  ~~~   (, (_, |     / 
-```
-
-### fonts/starstrips.flf:
-
-```text
-----    --------------------        ----          -------- ,
-****    ********************        ****         ********** 
-----    --------        ----        ----        ----    ----
-****************************        ****        ***      ***
-----------------------------        ----        ---      ---
-****    ********        ****************************    ****
-----    ---------------------------------------- ---------- 
-****    ****************************************  ********  
-                                                            
----      ---  --------  ----------- ----        ---------- !
-***  **  *** ********** *********** ****        ************
----  --  -------    --------    --- ----        --        --
-***  **  ******      ************   ****        **        **
----  --  ------      ------------   ----        --        --
-****************    ********  ****  **************        **
- ----------  ---------- ----   ---- ------------------------
-  ********    ********  ****    **************************  
-                                                            
-```
-
-### fonts/starwars.flf:
-
-```text
- __    __   _______  __       __        ______       
-|  |  |  | |   ____||  |     |  |      /  __  \      
-|  |__|  | |  |__   |  |     |  |     |  |  |  |     
-|   __   | |   __|  |  |     |  |     |  |  |  |     
-|  |  |  | |  |____ |  `----.|  `----.|  `--'  |  __ 
-|__|  |__| |_______||_______||_______| \______/  (_ )
-                                                  |/ 
-____    __    ____  ______   .______       __       _______   __  
-\   \  /  \  /   / /  __  \  |   _  \     |  |     |       \ |  | 
- \   \/    \/   / |  |  |  | |  |_)  |    |  |     |  .--.  ||  | 
-  \            /  |  |  |  | |      /     |  |     |  |  |  ||  | 
-   \    /\    /   |  `--'  | |  |\  \----.|  `----.|  '--'  ||__| 
-    \__/  \__/     \______/  | _| `._____||_______||_______/ (__) 
-                                                                  
-```
-
-### fonts/swampland.flf:
-
-```text
- ___   ___   ______   __       __       ______             
-/__/\ /__/\ /_____/\ /_/\     /_/\     /_____/\            
-\::\ \\  \ \\::::_\/_\:\ \    \:\ \    \:::_ \ \           
- \::\/_\ .\ \\:\/___/\\:\ \    \:\ \    \:\ \ \ \   ____   
-  \:: ___::\ \\::___\/_\:\ \____\:\ \____\:\ \ \ \ /___/\  
-   \: \ \\::\ \\:\____/\\:\/___/\\:\/___/\\:\_\ \ \\:::\ \ 
-    \__\/ \::\/ \_____\/ \_____\/ \_____\/ \_____\/  \::\/ 
-                                                           
- __ __ __   ______   ______    __       ______   __       
-/_//_//_/\ /_____/\ /_____/\  /_/\     /_____/\ /__/\     
-\:\\:\\:\ \\:::_ \ \\:::_ \ \ \:\ \    \:::_ \ \\.:\ \    
- \:\\:\\:\ \\:\ \ \ \\:(_) ) )_\:\ \    \:\ \ \ \\::\ \   
-  \:\\:\\:\ \\:\ \ \ \\: __ `\ \\:\ \____\:\ \ \ \\__\/_  
-   \:\\:\\:\ \\:\_\ \ \\ \ `\ \ \\:\/___/\\:\/.:| | /__/\ 
-    \_______\/ \_____\/ \_\/ \_\/ \_____\/ \____/_/ \__\/ 
-                                                          
-```
-
-### fonts/threepoint.flf:
-
-```text
-|_  _ || _       _  _| _||
-| |(/_||(_),  VV(_)| |(_|.
-                          
-```
-
-### fonts/ticksslant.flf:
-
-```text
-     _/\/\____________________/\/\____/\/\_____________________
-    _/\/\__________/\/\/\____/\/\____/\/\______/\/\/\_________ 
-   _/\/\/\/\____/\/\/\/\/\__/\/\____/\/\____/\/\__/\/\_______  
-  _/\/\__/\/\__/\/\________/\/\____/\/\____/\/\__/\/\__/\/\_   
- _/\/\__/\/\____/\/\/\/\__/\/\/\__/\/\/\____/\/\/\____/\/\_    
-_____________________________________________________/\___     
-     _________________________________________/\/\__________/\/\__/\/\_
-    _/\/\______/\/\____/\/\/\____/\/\__/\/\__/\/\__________/\/\__/\/\_ 
-   _/\/\__/\__/\/\__/\/\__/\/\__/\/\/\/\____/\/\______/\/\/\/\__/\/\_  
-  _/\/\/\/\/\/\/\__/\/\__/\/\__/\/\________/\/\____/\/\__/\/\_______   
- ___/\/\__/\/\______/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_    
-__________________________________________________________________     
-```
-
-### fonts/twopoint.flf:
-
-```text
-|_  _|| _         _ ._| _||
-| |}_||(_))  \/\/(_)| |(_|o
-```
-
-### fonts/usaflag.flf:
-
-```text
- :::  === :::===== :::      :::      :::====     
- :::  === :::      :::      :::      :::  ===    
- ======== ======   ===      ===      ===  ===    
- ===  === ===      ===      ===      ===  ===  ==
- ===  === ======== ======== ========  ======   ==
-                                              == 
- :::  ===  === :::====  :::====  :::      :::====  ===
- :::  ===  === :::  === :::  === :::      :::  === ===
- ===  ===  === ===  === =======  ===      ===  === ===
-  ===========  ===  === === ===  ===      ===  ===    
-   ==== ====    ======  ===  === ======== =======  ===
-                                                      
-```
-
-### fonts/wetletter.flf:
-
-```text
- .-. .-.,---.  ,-.    ,-.    .---.  ,
- | | | || .-'  | |    | |   / .-. )  
- | `-' || `-.  | |    | |   | | |(_) 
- | .-. || .-'  | |    | |   | | | |  
- | | |)||  `--.| `--. | `--.\ `-' /  
- /(  (_)/( __.'|( __.'|( __.')---'   
-(__)   (__)    (_)    (_)   (_)      
-.-.  .-. .---.  ,---.   ,-.     ,'|"\   .-.  
-| |/\| |/ .-. ) | .-.\  | |     | |\ \  |  ) 
-| /  \ || | |(_)| `-'/  | |     | | \ \ | /  
-|  /\  || | | | |   (   | |     | |  \ \|/   
-|(/  \ |\ `-' / | |\ \  | `--.  /(|`-' /(    
-(_)   \| )---'  |_| \)\ |( __.'(__)`--'(_)   
-        (_)         (__)(_)                  
-```
-
-### fonts/wideterm.tlf:
+### wideterm.tlf:
 
 ```text
 ｈｅｌｌｏ，  ｗｏｒｌｄ！
+```
+
+### Wow.flf:
+
+```text
+][-][ ]E ][_ ][_ [[]] ,  \\/\\/ [[]] ][2 ][_ ][_) !!1 
 ```
 
