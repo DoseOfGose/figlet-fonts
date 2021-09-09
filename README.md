@@ -1,3 +1,17 @@
+███████╗██╗ ██████╗ ██╗     ███████╗████████╗
+██╔════╝██║██╔════╝ ██║     ██╔════╝╚══██╔══╝
+█████╗  ██║██║  ███╗██║     █████╗     ██║
+██╔══╝  ██║██║   ██║██║     ██╔══╝     ██║
+██║     ██║╚██████╔╝███████╗███████╗   ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝   ╚═╝
+
+███████╗ ██████╗ ███╗   ██╗████████╗███████╗
+██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝
+█████╗  ██║   ██║██╔██╗ ██║   ██║   ███████╗
+██╔══╝  ██║   ██║██║╚██╗██║   ██║   ╚════██║
+██║     ╚██████╔╝██║ ╚████║   ██║   ███████║
+╚═╝      ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝
+
 # figlet-fonts
 
 Collection of fonts for [figlet](http://www.figlet.org/) or [toilet](http://caca.zoy.org/wiki/toilet).
@@ -26,7 +40,7 @@ Have [figlet](http://www.figlet.org/) installed.
 On Ubuntu or systems using `apt`:
 
 ```bash
-sudo apt install figlet
+apt install figlet
 ```
 
 On OSX/Mac using `brew`:
@@ -79,7 +93,7 @@ See `man figlet` for more options and information.
 ## Examples
 See [examples.md](examples.md) for a quick reference to examples of all the fonts in this repo.
 
-See [make-examples.sh](make-examples.sh) to see how to generate your own example text.
+See [make-examples.sh](make-examples.sh) to see how to generate your own example text with bash.
 
 ### 1Row.flf:
 
