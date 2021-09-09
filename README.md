@@ -31,7 +31,7 @@ This repo is a collection of figlet fonts forked from [xero's repo](https://gith
 - Remove the executable flags from the font files
 - Remove the `.php` files in the repo
 
-The original `README.md` content is appended at the [end of this document](#original-readme-md).
+The original `README.md` content is appended at the [end of this document](#original-readmemd).
 
 ## Usage and Installation
 
